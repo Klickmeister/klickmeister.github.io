@@ -1,9 +1,22 @@
 /* Herotext
 ############################################################################ */
 
-.herotext > * {
-  max-width: var(--max-width-content);
-  font-size: var(--m);
-  font-weight: var(--fw-normal);
-  line-height: var(--lh-default);
+.herotext {
+  h1 {
+    font-size: var(--xxl);
+  }
+
+  h2 {
+    font-size: var(--xxl);
+  }
+
+  & > * {
+    max-width: var(--max-width-content);
+    font-size: var(--m);
+    line-height: var(--lh-default);
+
+    &:not(h2,h3,h4) {
+      font-weight: var(--fw-light);
+    }
+  }
 }

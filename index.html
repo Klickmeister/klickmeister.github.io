@@ -1,6 +1,6 @@
---- 
+---
 
-layout: default 
+layout: default
 title: Klickmeister GmbH
 tagline: Werkzeuge für's Web
 class: grid
@@ -18,13 +18,17 @@ class: grid
     {{ content }}
 </section>
 
-<section class="culture">
-    <h2>Kultur?</h2>
+<section class="culture ">
+    <div class="herotext">
+        <h2>Kultur?</h2>
+        <p>Hier eine kleine Übersicht von Gewohnheiten, Regeln und Empfehlungen, die wir im Arbeitsalltag beherzigen
+            wollen. Es klappt nicht immer, aber oft.</p>
+    </div>
     {% capture content %}{% include rules-and-habits.html %}{% endcapture %}
     {{ content }}
 </section>
 
 <section class="long-text is-dark">
     {% capture content %}{% include wir-ueber-uns.html %}{% endcapture %}
-    {{ content | markdownify  }}
+    {{ content | markdownify }}
 </section>

@@ -22,3 +22,13 @@
   display: block;
   max-width: var(--max-width-content);
 }
+
+/* Section
+############################################################################ */
+
+section,
+.section {
+  & > * + * {
+    margin-top: var(--xxl);
+  }
+}
