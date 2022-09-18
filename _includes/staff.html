@@ -1,0 +1,15 @@
+{% assign staff = site.leute %}
+
+
+<div class="staff-overview grid">
+{% for human in staff %}
+    <figure class="staff-item">
+        <img loading="lazy" src="/leute/{{ human.pic }}" alt="{{ human.title }}">
+        <figcaption>
+            <h3>{{ human.title }}</h3>
+            {% if human.grad %}<h4>{{ human.grad }}</h4>{% endif %}
+            {{ human.content | markdownify }}
+        </figcaption>
+    </figure>
+{% endfor %}
+</div>

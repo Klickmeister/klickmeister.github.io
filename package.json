@@ -1,0 +1,25 @@
+{
+  "name": "km-website-2022",
+  "version": "1.0.0",
+  "description": "Klickmeister Website",
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylelint _sass/**/*.scss",
+    "lint:fix": "stylelint _sass/**/*.scss --fix",
+    "dev": "jekyll serve -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orgs/Klickmeister/km-website-2022.git"
+  },
+  "author": "KM Team",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^14.11.0",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-recommended-scss": "^7.0.0",
+    "stylelint-config-standard": "^28.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.3.0"
+  }
+}

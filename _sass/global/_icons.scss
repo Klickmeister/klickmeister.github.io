@@ -1,0 +1,56 @@
+// Icons
+.icon {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  margin-right: #{var(--xxs)};
+  direction: ltr;
+  font-family: var(--font-icons);
+  font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: inherit;
+  text-rendering: optimizelegibility;
+  text-transform: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: normal;
+}
+
+// Sizes
+.icon {
+  &--s { font-size: #{var(--s)}; line-height: #{var(--s)}; }
+  &--m { font-size: #{var(--m)}; line-height: #{var(--l)}; }
+  &--l { font-size: #{var(--l)}; line-height: #{var(--m)}; }
+  &--xl { font-size: #{var(--xl)}; line-height: #{var(--xl)}; }
+}
+
+.icon {
+  &.md-dark { color: var(--dark); }
+  &.md-light { color: var(--light); }
+}
+
+.icon::before {
+  content: attr(data-icon);
+}
+
+.icon {
+  &.red { color: red; }
+}
+
+//.icon Font Awesome Extend
+.icon {
+  font-family: var(--font-icons);
+  text-transform: none;
+}
+
+// Modifiers
+.icon {
+  &--inline {
+    margin-right: 0.4em;
+    font-size: #{var(--m)};
+  }
+}

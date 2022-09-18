@@ -1,0 +1,9 @@
+/* Herotext
+############################################################################ */
+
+.herotext > * {
+  max-width: var(--max-width-content);
+  font-size: var(--m);
+  font-weight: var(--fw-normal);
+  line-height: var(--lh-default);
+}

@@ -1,0 +1,47 @@
+/* Staff
+############################################################################ */
+
+.staff {
+  background-color: var(--lightest);
+
+  &-item {
+    & > * {
+      margin-bottom: var(--s);
+    }
+
+    margin-bottom: var(--xl);
+
+    & > img {
+      aspect-ratio: 2/1;
+      filter: grayscale(100%);
+      object-fit: cover;
+      object-position: left;
+      transition: filter var(--tr-fast);
+
+      &:hover {
+        filter: grayscale(0%);
+      }
+    }
+
+    h3,
+    h4 {
+      display: inline-block;
+      font-size: var(--base-font-size);
+    }
+
+    h4 {
+      margin-top: calc(var(--s) * -1);
+      font-weight: var(--fw-normal);
+
+      &::before {
+        color: var(--decoration-color);
+        content: "// ";
+      }
+    }
+
+    p {
+      font-size: var(--xs);
+      line-height: var(--lh-default);
+    }
+  }
+}

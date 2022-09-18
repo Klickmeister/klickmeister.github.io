@@ -1,0 +1,30 @@
+--- 
+
+layout: default 
+title: Klickmeister GmbH
+tagline: Werkzeuge für's Web
+class: grid
+
+---
+
+<div class="section herotext is-blue">
+    {% capture content %}{% include intro.html %}{% endcapture %}
+    {{ content | markdownify }}
+</div>
+
+<section class="staff">
+    <h2>Leute bei Klickmeister</h2>
+    {% capture content %}{% include staff.html %}{% endcapture %}
+    {{ content }}
+</section>
+
+<section class="culture">
+    <h2>Kultur?</h2>
+    {% capture content %}{% include rules-and-habits.html %}{% endcapture %}
+    {{ content }}
+</section>
+
+<section class="long-text is-dark">
+    {% capture content %}{% include wir-ueber-uns.html %}{% endcapture %}
+    {{ content | markdownify  }}
+</section>

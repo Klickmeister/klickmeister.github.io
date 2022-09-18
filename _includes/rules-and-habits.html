@@ -1,0 +1,11 @@
+{% assign habits = site.regeln-und-gewohnheiten %}
+
+
+<div class="vertical-stack">
+{% for habit in habits %}
+    <details class="textbox">
+        <summary><h3>{{ habit.title }}</h3></summary>
+        {{ habit.content | markdownify }}
+    </details>
+{% endfor %}
+</div>

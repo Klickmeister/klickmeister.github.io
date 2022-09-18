@@ -1,0 +1,26 @@
+/* header
+############################################################################ */
+
+.header {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: var(--fluid-space-l);
+  background-color: var(--background-color);
+}
+
+/* Logo
+############################################################################ */
+
+.logo {
+  display: flex;
+  width: 100%;
+  max-width: var(--max-width-logo);
+  align-self: flex-start;
+  border: none;
+  margin-left: auto;
+  text-decoration: none;
+
+  & > svg {
+    width: 100%;
+  }
+}

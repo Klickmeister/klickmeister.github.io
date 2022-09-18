@@ -1,0 +1,12 @@
+basic_settings:
+  site_title: Klickmeister GmbH // Werkzeuge für's Web
+  favicon_image: /images/favicon.ico
+  description: Wir machen Websites. Große Websites. Kleine Websites. Onlineshops. Wir sind Designer. Wir lieben spannende Aufgabenstellungen. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit dem Jahr 2000 Klickmeister.
+
+
+advanced_settings:
+  ajax_loading: true
+  analytics_code: ""
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""

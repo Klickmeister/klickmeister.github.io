@@ -1,0 +1,102 @@
+/* stylelint-disable custom-property-pattern */
+
+/* Viewports
+---------------------------------------------------------------------------- */
+$vp-small: 688px;
+$vp-medium: 800px;
+$vp-large: 1100px;
+$vp-xlarge: 1400px;
+
+:root {
+  /* Sizes
+https://utopia.fyi/type/calculator/
+---------------------------------------------------------------------------- */
+  --step--2: clamp(0.69rem, calc(0.66rem + 0.16vw), 0.8rem);
+  --step--1: clamp(0.83rem, calc(0.78rem + 0.25vw), 1rem);
+  --step-0: clamp(1rem, calc(0.93rem + 0.37vw), 1.25rem);
+  --step-1: clamp(1.2rem, calc(1.09rem + 0.54vw), 1.56rem);
+  --step-2: clamp(1.44rem, calc(1.29rem + 0.76vw), 1.95rem);
+  --step-3: clamp(1.73rem, calc(1.52rem + 1.06vw), 2.44rem);
+  --step-4: clamp(2.07rem, calc(1.78rem + 1.45vw), 3.05rem);
+  --step-5: clamp(2.49rem, calc(2.09rem + 1.97vw), 3.82rem);
+  --xxs: var(--step--2);
+  --xs: var(--step--1);
+  --s: var(--step-0);
+  --m: var(--step-1);
+  --l: var(--step-2);
+  --xl: var(--step-3);
+  --xxl: var(--step-4);
+  --xxxl: var(--step-5);
+
+  /* Font Properties
+---------------------------------------------------------------------------- */
+  --font-family-serif: "FiraItalic", "Courier New", monospace;
+  --font-family-sans: fira, sans-serif;
+  --base-font-size: var(--s);
+  --font-icons: "Material Icons";
+
+  /* Font Weights
+---------------------------------------------------------------------------- */
+  --fw-light: 200;
+  --fw-normal: 300;
+  --fw-medium: 500;
+  --fw-bold: 700;
+
+  /* Line Heights
+---------------------------------------------------------------------------- */
+  --lh-tight: 100%;
+  --lh-default: 130%;
+  --lh-loose: 150%;
+
+  /* Base Colors
+---------------------------------------------------------------------------- */
+  --light: #{"hsl(0deg 0% 100% / 100%)"};
+  --lighter: #{"hsl(0deg 0% 100% / 100%)"};
+  --lightest: #{"hsl(0deg 0% 100% / 100%)"};
+  --lighten: #{"rgb(255 255 255 / 20%)"};
+  --dark: #{"hsl(0deg 0% 20% / 100%)"};
+  --darker: #{"hsl(0deg 0% 10% / 100%)"};
+  --darkest: #{"hsl(0deg 0% 0% / 100%)"};
+  --darken: #{"rgb(0 0 0 / 20%)"};
+  --km-blau: #{"hsl(222, 98%, 68%)"};
+
+  /* Functional Colors
+---------------------------------------------------------------------------- */
+  --interaction-color: var(--km-blau);
+  --decoration-color: var(--km-blau);
+  --text-color: var(--darker);
+  --headline-color: var(--dark);
+  --headline-color-light: var(--darker);
+  --border-color: var(--dark);
+  --seperator-color: var(--dark);
+  --background-color: var(--km-blau);
+
+  /* Spaces
+---------------------------------------------------------------------------- */
+  --fluid-space-s: 2vw;
+  --fluid-space-m: 4vw;
+  --fluid-space-l: 8vw;
+
+  /* Transitions
+---------------------------------------------------------------------------- */
+  --tr-fast: 0.2s;
+  --tr-medium: 0.6s;
+  --tr-slow: 1s;
+
+  /* Opacities
+---------------------------------------------------------------------------- */
+  --op-strong: 0.75;
+  --op-medium: 0.5;
+
+  /* Misc
+---------------------------------------------------------------------------- */
+  --bw: 2px;
+  --text-shadow: 0 0 20px var(--darken);
+  --max-width-text: #{$vp-large};
+  --max-width-logo: calc(var(--max-width-text) / 3);
+  --max-width-content: 50rem;
+  --max-col-width: 24rem;
+  --border-width: 2px;
+  --border-width-l: 4px;
+  --border-width-s: 1px;
+}

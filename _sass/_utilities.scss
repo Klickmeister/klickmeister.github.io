@@ -1,0 +1,12 @@
+/* Baclgrounds
+############################################################################ */
+.is-dark {
+  background-color: var(--dark);
+
+  --text-color: var(--light);
+  --headline-color: var(--light);
+}
+
+.is-blue {
+  background-color: var(--background-color);
+}

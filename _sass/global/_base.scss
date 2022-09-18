@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  color: var(--text-color);
+  font-family: var(--font-family-sans);
+  font-size: var(--base-font-size);
+  font-weight: var(--fw-light);
+  hyphens: auto;
+  line-height: var(--lh-default);
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--lightest);
+  background-image: url("/images/mausspur.svg");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 100vw;
+
+  & > * {
+    padding: var(--fluid-space-m);
+  }
+}
+
+p,
+blockquote {
+  margin-bottom: var(--m);
+  color: var(--text-color);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: var(--m);
+  color: var(--headline-color);
+  font-weight: var(--fw-bold);
+  hyphens: none;
+  line-height: var(--lh-tight);
+}
+
+h2 {
+  margin-bottom: var(--l);
+  font-weight: var(--fw-medium);
+}
+
+h3 {
+  font-size: var(--m);
+  font-weight: var(--fw-medium);
+}
+
+*:not(h3) + h4 {
+  margin-top: var(--xl);
+}
+
+h1 {
+  font-size: var(--l);
+  font-weight: var(--fw-bold);
+
+  @media only screen and (min-width: $vp-medium) {
+    font-size: var(--xl);
+    font-weight: var(--fw-normal);
+  }
+}
+
+p {
+  margin-bottom: var(--xs);
+}
+
+p + h2 {
+  margin-top: var(--l);
+}
+
+p + h3 {
+  margin-top: var(--l);
+}
+
+img {
+  width: 100%;
+}
+
+strong {
+  font-weight: var(--fw-medium);
+}
+
+blockquote {
+  padding-left: var(--xxs);
+  border-left: solid var(--border-width-l) var(--decoration-color);
+}
+
+a {
+  border-bottom: solid var(--border-width-s) var(--decoration-color);
+  color: var(--darkest);
+  font-weight: var(--fw-normal);
+  text-decoration: none;
+  transition: all 0.3s;
+
+  &.extern::before {
+    @extend .icon;
+
+    color: var(--interaction-color);
+    content: "open_in_new";
+  }
+
+  &:hover {
+    background-color: var(--decoration-color);
+    color: var(--lighter !important);
+  }
+}
+
+details {
+  margin-left: var(--l);
+  transition: padding var(--tr-slow);
+
+  summary {
+    margin-left: calc(var(--l) * -1);
+    list-style: none;
+
+    & > h3 {
+      display: inline-block;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      display: inline-block;
+      color: var(--interaction-color);
+
+      @extend .icon;
+
+      content: "chevron_right";
+      font-size: var(--l);
+      font-weight: var(--fw-bold);
+      transition: transform ease-in-out 200ms;
+    }
+  }
+
+  &[open] {
+    padding-bottom: var(--l);
+    border-bottom: solid var(--border-width-l) var(--darker);
+    margin-bottom: var(--xxl);
+
+    summary::before {
+      transform: rotate(90deg);
+    }
+  }
+}

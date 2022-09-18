@@ -1,0 +1,428 @@
+@media only screen and (min-width: $vp-medium) {
+  .header,
+  .page,
+  .footer {
+    // max-width: $vp-xlarge;
+  }
+
+  p,
+  blockquote {
+    max-width: $max-width-text;
+  }
+}
+
+// Page
+// ------------------------------------------------------------------------- //
+.page {
+  padding-bottom: $xl;
+
+  @media only screen and (min-width: $vp-medium) {
+    padding-left: $xl;
+  }
+}
+
+// Header
+// ------------------------------------------------------------------------- //
+.header {
+  padding: $s;
+  text-align: center;
+
+  @media only screen and (min-width: $vp-medium) {
+    display: grid;
+    align-items: center;
+    padding: $l;
+    padding-left: $xl;
+    gap: $m;
+    grid-template-columns: 200px 1fr;
+    text-align: left;
+  }
+
+  a {
+    border: none;
+    color: var(--decoration-color);
+  }
+
+  .title {
+    margin-bottom: $m;
+    color: $light;
+    font-size: $xl;
+    font-weight: $fw-medium;
+  }
+
+  .subtitle,
+  .subtitle a {
+    font-size: $l;
+    font-weight: 300;
+  }
+}
+
+// Section
+// ------------------------------------------------------------------------- //
+.section {
+  padding: $s;
+
+  @media only screen and (min-width: $vp-medium) {
+    padding: $l;
+  }
+}
+
+// Contact
+// ------------------------------------------------------------------------- //
+.contact {}
+
+// Toc
+// ------------------------------------------------------------------------- //
+.toc {
+  &__item {
+    max-width: $max-width-text;
+    padding-top: $xs;
+    padding-bottom: $xs;
+    border-top: solid 1px var(--seperator-color);
+  }
+}
+
+// Footer
+// ------------------------------------------------------------------------- //
+.footer {
+  padding: $s;
+  padding-bottom: $xl;
+  background-color: $dark;
+  color: $lighter;
+
+  @media only screen and (min-width: $vp-medium) {
+    padding: $xl;
+
+    & > div {
+      margin-left: $l;
+    }
+  }
+
+  a {
+    color: $lighter;
+  }
+}
+
+// Image Block
+// ------------------------------------------------------------------------- //
+// Content Block
+// ------------------------------------------------------------------------- //
+// Canvas
+// ------------------------------------------------------------------------- //
+#canvas {
+  width: 100vw;
+  height: 600px;
+}
+
+// Gallery
+// ------------------------------------------------------------------------- //
+.gallery {
+  display: grid;
+  padding-top: $s;
+  margin-bottom: $l;
+  column-gap: $m;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: $m;
+
+  &__item {
+    position: relative;
+    overflow: hidden;
+
+    &::before {
+      display: block;
+      padding-bottom: 100%;
+      content: "";
+    }
+
+    &.is16by9::before {
+      padding-bottom: 56.25%;
+    }
+
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+// Herotext
+// ------------------------------------------------------------------------- //
+.herotext {
+  font-size: $m;
+  font-weight: $fw-normal;
+  line-height: $lh-default;
+
+  @media only screen and (min-width: $vp-medium) {
+    font-size: $l;
+    font-weight: $fw-normal;
+  }
+}
+
+// Page Title
+// ------------------------------------------------------------------------- //
+
+.page-title {
+  max-width: $max-width-text;
+  font-size: $xl;
+}
+
+// brutal
+// ------------------------------------------------------------------------- //
+.brutal {
+  margin-left: -1vw;
+  color: $lighten;
+  font-size: clamp(2em, calc(2em + 10vw), 20em);
+  font-weight: 600;
+}
+
+// Tabelle
+// ------------------------------------------------------------------------- //
+table {
+  width: 100%;
+  margin-bottom: $xl;
+  table-layout: fixed;
+
+  th,
+  td {
+    padding: $xxs;
+    padding-right: $l;
+    border-top: solid 1px var(--seperator-color);
+    font-size: $m;
+    line-height: $lh-default;
+    text-align: left;
+  }
+
+  td {
+    width: 240px;
+    font-weight: $fw-medium;
+    text-align: right;
+  }
+
+  th {
+    width: 80%;
+    font-weight: $fw-light;
+  }
+
+  tfoot {
+    tr {
+      th,
+      td {
+        font-weight: $fw-bold;
+      }
+    }
+  }
+
+  @media only screen and (min-width: $vp-small) {
+    width: 80%;
+  }
+
+  @media only screen and (min-width: $vp-large) {
+    width: 50%;
+  }
+}
+
+// Taglist
+// ------------------------------------------------------------------------- //
+.taglist {
+  &--linear li {
+    display: inline-block;
+  }
+
+  &__item {
+    &::before {
+      color: var(--decoration-color);
+      content: "#";
+    }
+  }
+}
+
+// Avatar
+// ------------------------------------------------------------------------- //
+.avatar {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 50%;
+}
+
+// Course Overview
+// ------------------------------------------------------------------------- //
+.course-overview {
+  display: grid;
+  padding-top: $s;
+  margin-bottom: $l;
+  column-gap: $m;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: $m;
+
+  &__item {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    padding: $m $m $l $m;
+    background-color: $light;
+    color: $dark;
+    font-weight: $fw-light;
+    transition: background-color $tr-fast;
+
+    &:hover {
+      background-color: $lightest;
+      cursor: pointer;
+    }
+
+    a {
+      color: $dark;
+      font-weight: $fw-medium;
+    }
+
+    .course-overview__item-headline a {
+      border: none;
+      color: $darker;
+      font-weight: $fw-medium;
+    }
+  }
+}
+
+// Feed Overview
+// ------------------------------------------------------------------------- //
+
+.feed {
+  &-overview {
+    padding-top: $s;
+    margin-bottom: $l;
+  }
+
+  &-content {
+    display: grid;
+    column-gap: $m;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    row-gap: $m;
+  }
+
+  &__item {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    background-color: $darker;
+    color: $light;
+    font-weight: $fw-light;
+    transition: transform $tr-medium;
+
+    & > * {
+      transform: scale(0.5);
+      transition: transform $tr-medium;
+    }
+
+    &:hover {
+      & > * {
+        transform: scale(1);
+      }
+      // transform: translate(10ch);
+      cursor: pointer;
+
+      .info {
+        padding: $xs $m $m $m;
+      }
+    }
+
+    a {
+      color: $light;
+      font-weight: $fw-medium;
+    }
+
+    &-headline a {
+      color: $darker;
+      font-weight: $fw-bold;
+    }
+
+    .info {
+      padding: $xs 0 $m 0;
+      transition: padding $tr-fast;
+    }
+
+    img {
+      width: 100%;
+      aspect-ratio: 1/1;
+      object-fit: cover;
+    }
+  }
+}
+
+// Image Stripe
+// ------------------------------------------------------------------------- //
+
+.image-stripe {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  & > img {
+    display: block;
+  }
+}
+
+// Content
+// ------------------------------------------------------------------------- //
+
+.content {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+// Check it out
+// ------------------------------------------------------------------------- //
+.check-it-out {
+  &-overview {
+    margin-top: $xs + $xs /4;
+  }
+
+  &__item {
+    margin-bottom: $l;
+
+    blockquote + figcaption {
+      margin-top: -$s;
+      margin-bottom: $s;
+
+      &::before {
+        color: $lighten;
+        content: "— ";
+        font-weight: bold;
+      }
+    }
+
+    a {
+      border-width: $border-width-s;
+      font-weight: 300;
+    }
+
+    & + & {
+      &::before {
+        display: block;
+        margin-bottom: $l;
+        color: $green;
+        content: ".";
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+// Is Somewhere
+// ------------------------------------------------------------------------- //
+.is-somewhere {
+  @media only screen and (min-width: $vp-medium) {
+    display: flex;
+    padding-right: clamp(1em, 10vw, 20em);
+    gap: $l;
+
+    h2 {
+      flex-grow: 1;
+      text-align: right;
+    }
+  }
+}
