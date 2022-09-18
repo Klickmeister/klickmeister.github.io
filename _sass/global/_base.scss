@@ -86,11 +86,35 @@ strong {
   font-weight: var(--fw-medium);
 }
 
+/* Quotes
+############################################################################ */
 blockquote {
-  padding-left: var(--xxs);
-  border-left: solid var(--border-width-l) var(--decoration-color);
+  width: 100%;
+  padding: var(--fluid-space-l);
+  background-color: var(--lighter);
+  font-family: var(--font-family-serif);
+  font-size: 1.5em;
+
+  & > * {
+    display: inline;
+    line-height: var(--lh-default);
+  }
+
+  &::before {
+    display: inline-block;
+    margin-right: calc(var(--xxs) * -0.3);
+    content: "«";
+  }
+
+  &::after {
+    display: inline-block;
+    margin-left: calc(var(--xxs) * -0.3);
+    content: "»";
+  }
 }
 
+/* Links
+############################################################################ */
 a {
   border-bottom: solid var(--border-width-s) var(--decoration-color);
   color: var(--darkest);
@@ -111,9 +135,11 @@ a {
   }
 }
 
+/* Details
+############################################################################ */
 details {
   margin-left: var(--l);
-  transition: padding var(--tr-slow);
+  transition: padding var(--tr-slow), margin var(--tr-slow), opacity var(--tr-medium);
 
   summary {
     margin-left: calc(var(--l) * -1);
@@ -145,10 +171,16 @@ details {
   &[open] {
     padding-bottom: var(--l);
     border-bottom: solid var(--border-width-l) var(--darker);
-    margin-bottom: var(--xxl);
+    margin-top: var(--fluid-space-l);
+    margin-bottom: var(--fluid-space-l);
+    opacity: 1 !important;
 
     summary::before {
       transform: rotate(90deg);
     }
   }
+}
+
+.vertical-stack:has(details[open]) > details {
+  opacity: var(--op-medium);
 }

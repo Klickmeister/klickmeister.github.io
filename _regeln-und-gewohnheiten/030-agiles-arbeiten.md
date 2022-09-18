@@ -4,15 +4,6 @@ title: Agiles Arbeiten
 
 Wir stehen voll und ganz hinter dem [agilen Manifest](https://agilemanifesto.org/iso/de/manifesto.html):
 
-> **Individuen und Interaktionen** sind wichtiger als Prozesse und Werkzeuge.
-
-> **Funktionierende Software** ist wichtiger als eine *umfassende* Dokumentation.
-
-> **Zusammenarbeit mit dem Kunden** ist wichtiger als Vertragsverhandlung.
-
-> **Reagieren auf Veränderung** ist wichtiger als das Befolgen eines Plans.
-
-
 #### Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
 
 Der Mensch steht im Fokus und der direkte Austausch ist wichtiger als Formalismen. Das heißt, jeder noch so ausgefeilte und gut dokumentierte Prozess kann ein persönliches Gespräch nicht ersetzen. Der persönliche Austausch ist super wichtig, hilft dem Einzelnen, hilft dem Team und hilft dem Projekt. Dabei sind handelnde Personen für uns nicht nur Teil einer Prozesskette, sondern Menschen mit Bedürfnissen und Zielen. Es hilft enorm, diese Menschen zu kennen und sich für diese zu interessieren. Je größer die Vertrautheit und damit das Vertrauen, desto einfacher die Kooperation. Und das wirkt sich positiv auf das Arbeitsklima und das Projekt aus.

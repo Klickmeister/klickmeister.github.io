@@ -30,8 +30,8 @@ https://utopia.fyi/type/calculator/
 
   /* Font Properties
 ---------------------------------------------------------------------------- */
-  --font-family-serif: "FiraItalic", "Courier New", monospace;
-  --font-family-sans: fira, sans-serif;
+  --font-family-serif: "FiraMono", "Courier New", monospace;
+  --font-family-sans: "fira", sans-serif;
   --base-font-size: var(--s);
   --font-icons: "Material Icons";
 
@@ -50,8 +50,8 @@ https://utopia.fyi/type/calculator/
 
   /* Base Colors
 ---------------------------------------------------------------------------- */
-  --light: #{"hsl(0deg 0% 100% / 100%)"};
-  --lighter: #{"hsl(0deg 0% 100% / 100%)"};
+  --light: #{"hsl(0deg 0% 80% / 100%)"};
+  --lighter: #{"hsl(0deg 0% 90% / 100%)"};
   --lightest: #{"hsl(0deg 0% 100% / 100%)"};
   --lighten: #{"rgb(255 255 255 / 20%)"};
   --dark: #{"hsl(0deg 0% 20% / 100%)"};
