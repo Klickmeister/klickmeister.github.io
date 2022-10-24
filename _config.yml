@@ -2,6 +2,7 @@ site: Index Jekyll Theme
 
 target: https://index.jekyllthemes.io
 baseurl: 
+destination: ./docs
 
 defaults:
   - scope:
