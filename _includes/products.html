@@ -1,0 +1,19 @@
+{% assign products = site.products %}
+
+
+<div class="">
+{% for product in products %}
+    <div class="product-card">
+        <h3>{{ product.title }}</h3>
+        <figure class="product-card__content">
+            <img loading="lazy" src="/products/images/{{ product.img }}" alt="{{ product.title }}">
+            <figcaption>
+                {{ product.excerpt | markdownify }}
+                {% if product.linktext %}
+                    <a href="{{ product.url }}" class="button">{{ product.linktext }}</a>
+                {% endif %}
+            </figcaption>
+        </figure>
+    </div>
+{% endfor %}
+</div>

@@ -1,0 +1,35 @@
+// Product Card
+// ------------------------------------------------------------------------- //
+.product-card {
+  display: grid;
+
+  & + & {
+    padding-top: var(--fluid-space-l);
+  }
+
+  &__content {
+    figcaption {
+      padding-right: var(--fluid-space-l);
+    }
+
+    &,
+    & * {
+      font-size: var(--xs);
+      line-height: var(--lh-default);
+    }
+  }
+
+  img {
+    display: none;
+  }
+
+  @media only screen and (min-width: $vp-medium) {
+    gap: var(--fluid-space-s);
+    grid-template-columns: var(--max-col-width-small) 1fr;
+
+    h3 {
+      color: var(--darken-strong);
+      text-align: right;
+    }
+  }
+}

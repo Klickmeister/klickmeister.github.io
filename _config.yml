@@ -26,10 +26,12 @@ plugins:
   - jekyll-image-size
 
 collections:
-  leute:
+  people:
     output: true
-  regeln-und-gewohnheiten:
+  rules-and-habits:
     output: false
+  products:
+    output: true
 #   feed:
 #     output: true
 #   checkItOut:

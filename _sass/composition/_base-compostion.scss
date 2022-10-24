@@ -1,9 +1,33 @@
+/* Grid
+############################################################################ */
 .grid {
   display: grid;
-  gap: var(--s);
+  gap: var(--fluid-space-m);
 
   @media only screen and (min-width: $vp-medium) {
     grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width), 1fr));
+  }
+}
+
+/* Small Grid
+############################################################################ */
+.grid-small {
+  display: grid;
+  gap: var(--fluid-space-s);
+
+  @media only screen and (min-width: $vp-small) {
+    grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width-small), 1fr));
+  }
+}
+
+/* Large Grid
+############################################################################ */
+.grid-large {
+  display: grid;
+  gap: var(--fluid-space-m);
+
+  @media only screen and (min-width: $vp-medium) {
+    grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width-large), 1fr));
   }
 }
 
@@ -28,6 +52,9 @@
 
 section,
 .section {
+  padding-top: var(--fluid-space-l);
+  padding-bottom: var(--fluid-space-l);
+
   & > * + * {
     margin-top: var(--xxl);
   }

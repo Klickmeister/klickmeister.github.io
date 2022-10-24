@@ -11,14 +11,14 @@ $vp-xlarge: 1400px;
   /* Sizes
 https://utopia.fyi/type/calculator/
 ---------------------------------------------------------------------------- */
-  --step--2: clamp(0.69rem, calc(0.66rem + 0.16vw), 0.8rem);
-  --step--1: clamp(0.83rem, calc(0.78rem + 0.25vw), 1rem);
-  --step-0: clamp(1rem, calc(0.93rem + 0.37vw), 1.25rem);
-  --step-1: clamp(1.2rem, calc(1.09rem + 0.54vw), 1.56rem);
-  --step-2: clamp(1.44rem, calc(1.29rem + 0.76vw), 1.95rem);
-  --step-3: clamp(1.73rem, calc(1.52rem + 1.06vw), 2.44rem);
-  --step-4: clamp(2.07rem, calc(1.78rem + 1.45vw), 3.05rem);
-  --step-5: clamp(2.49rem, calc(2.09rem + 1.97vw), 3.82rem);
+  --step--2: clamp(0.69rem, calc(0.66rem + 0.12vw), 0.8rem);
+  --step--1: clamp(0.83rem, calc(0.78rem + 0.21vw), 1rem);
+  --step-0: clamp(1rem, calc(0.93rem + 0.34vw), 1.25rem);
+  --step-1: clamp(1.2rem, calc(1.09rem + 0.5vw), 1.56rem);
+  --step-2: clamp(1.44rem, calc(1.29rem + 0.72vw), 1.95rem);
+  --step-3: clamp(1.73rem, calc(1.52rem + 1.02vw), 2.44rem);
+  --step-4: clamp(2.07rem, calc(1.78rem + 1.41vw), 3.05rem);
+  --step-5: clamp(2.49rem, calc(2.09rem + 1.94vw), 3.82rem);
   --xxs: var(--step--2);
   --xs: var(--step--1);
   --s: var(--step-0);
@@ -30,8 +30,8 @@ https://utopia.fyi/type/calculator/
 
   /* Font Properties
 ---------------------------------------------------------------------------- */
-  --font-family-serif: "FiraMono", "Courier New", monospace;
-  --font-family-sans: "fira", sans-serif;
+  --font-family-serif: "IBMSerif", "Courier New", monospace;
+  --font-family-sans: "IBMSans", sans-serif;
   --base-font-size: var(--s);
   --font-icons: "Material Icons";
 
@@ -58,12 +58,15 @@ https://utopia.fyi/type/calculator/
   --darker: #{"hsl(0deg 0% 10% / 100%)"};
   --darkest: #{"hsl(0deg 0% 0% / 100%)"};
   --darken: #{"rgb(0 0 0 / 20%)"};
+  --darken-light: #{"rgb(0 0 0 / 3%)"};
   --km-blau: #{"hsl(222, 98%, 68%)"};
+  --km-orange: #ffbb1c;
+  --km-pink: #fc8e77;
 
   /* Functional Colors
 ---------------------------------------------------------------------------- */
   --interaction-color: var(--km-blau);
-  --decoration-color: var(--km-blau);
+  --decoration-color: var(--km-pink);
   --text-color: var(--darker);
   --headline-color: var(--dark);
   --headline-color-light: var(--darker);
@@ -76,6 +79,7 @@ https://utopia.fyi/type/calculator/
   --fluid-space-s: 2vw;
   --fluid-space-m: 4vw;
   --fluid-space-l: 8vw;
+  --fluid-space-xl: 16vw;
 
   /* Transitions
 ---------------------------------------------------------------------------- */
@@ -96,6 +100,8 @@ https://utopia.fyi/type/calculator/
   --max-width-logo: calc(var(--max-width-text) / 3);
   --max-width-content: 50rem;
   --max-col-width: 24rem;
+  --max-col-width-small: 18rem;
+  --max-col-width-large: 30rem;
   --border-width: 2px;
   --border-width-l: 4px;
   --border-width-s: 1px;

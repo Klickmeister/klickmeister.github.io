@@ -127,6 +127,46 @@
 
 @font-face {
   font-display: swap;
+  font-family: IBMSans;
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Light.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: IBMSans;
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: IBMSans;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Medium.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: IBMSans;
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: IBMSerif;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/IBM_Plex_Serif/IBMPlexSerif-Medium.ttf);
+}
+
+@font-face {
+  font-display: swap;
   font-family: "Material Icons";
   font-style: normal;
   font-weight: 400;

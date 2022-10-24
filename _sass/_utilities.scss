@@ -9,4 +9,8 @@
 
 .is-blue {
   background-color: var(--background-color);
+
+  & * {
+    color: var(--lightest);
+  }
 }

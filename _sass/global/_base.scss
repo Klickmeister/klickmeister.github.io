@@ -14,7 +14,7 @@ body {
 }
 
 body {
-  background-color: var(--lightest);
+  background-color: var(--darken-light);
   background-image: url("/images/mausspur.svg");
   background-position: top right;
   background-repeat: no-repeat;
@@ -91,7 +91,8 @@ strong {
 blockquote {
   width: 100%;
   padding: var(--fluid-space-l);
-  background-color: var(--lighter);
+  border-left: solid var(--border-width-l) var(--decoration-color);
+  background-color: #{"rgba(0,0,0,0.05)"};
   font-family: var(--font-family-serif);
   font-size: 1.5em;
 
@@ -116,7 +117,7 @@ blockquote {
 /* Links
 ############################################################################ */
 a {
-  border-bottom: solid var(--border-width-s) var(--decoration-color);
+  border-bottom: solid var(--border-width) var(--decoration-color);
   color: var(--darkest);
   font-weight: var(--fw-normal);
   text-decoration: none;
@@ -170,7 +171,7 @@ details {
 
   &[open] {
     padding-bottom: var(--l);
-    border-bottom: solid var(--border-width-l) var(--darker);
+    border-bottom: solid var(--border-width-l) var(--dark);
     margin-top: var(--fluid-space-l);
     margin-bottom: var(--fluid-space-l);
     opacity: 1 !important;

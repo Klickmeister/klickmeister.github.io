@@ -1,0 +1,16 @@
+// Staff Item
+// ------------------------------------------------------------------------- //
+
+.staff-item {
+  header {
+    margin-bottom: var(--m);
+
+    & * {
+      margin-bottom: 0;
+    }
+
+    h4 {
+      font-size: var(--xs);
+    }
+  }
+}
