@@ -92,16 +92,20 @@ https://utopia.fyi/type/calculator/
   --op-strong: 0.75;
   --op-medium: 0.5;
 
-  /* Misc
+  /* Content Sizes
 ---------------------------------------------------------------------------- */
-  --bw: 2px;
-  --text-shadow: 0 0 20px var(--darken);
   --max-width-text: #{$vp-large};
   --max-width-logo: calc(var(--max-width-text) / 3);
   --max-width-content: 50rem;
   --max-col-width: 24rem;
   --max-col-width-small: 18rem;
   --max-col-width-large: 30rem;
+  --large-content: 110ch;
+
+  /* Misc
+---------------------------------------------------------------------------- */
+  --bw: 2px;
+  --text-shadow: 0 0 20px var(--darken);
   --border-width: 2px;
   --border-width-l: 4px;
   --border-width-s: 1px;

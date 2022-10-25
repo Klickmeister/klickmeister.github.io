@@ -58,4 +58,13 @@ section,
   & > * + * {
     margin-top: var(--xxl);
   }
+
+  &.is-large {
+    display: flex;
+    justify-content: center;
+
+    & > * {
+      max-width: var(--large-content);
+    }
+  }
 }

@@ -1,9 +1,9 @@
 {% assign products = site.products %}
 
 
-<div class="">
+<ul>
 {% for product in products %}
-    <div class="product-card">
+    <li class="product-card">
         <h3>{{ product.title }}</h3>
         <figure class="product-card__content">
             <img loading="lazy" src="/products/images/{{ product.img }}" alt="{{ product.title }}">
@@ -14,6 +14,6 @@
                 {% endif %}
             </figcaption>
         </figure>
-    </div>
+    </li>
 {% endfor %}
-</div>
+</ul>
