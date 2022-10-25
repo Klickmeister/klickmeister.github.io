@@ -1,8 +1,4 @@
-site: Index Jekyll Theme
-
-target: https://index.jekyllthemes.io
-baseurl: 
-destination: ./docs
+baseurl: "/mi-bachelor-screendesign"
 
 defaults:
   - scope:
