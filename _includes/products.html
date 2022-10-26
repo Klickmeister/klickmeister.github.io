@@ -8,7 +8,7 @@
         <figure class="product-card__content">
             <img loading="lazy" src="/products/images/{{ product.img }}" alt="{{ product.title }}">
             <figcaption>
-                {{ product.excerpt | markdownify }}
+                {{ product.teasertext | markdownify }}
                 {% if product.linktext %}
                     <a href="{{ product.url | relative_url }}" class="button">{{ product.linktext }}</a>
                 {% endif %}

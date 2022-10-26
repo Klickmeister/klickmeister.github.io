@@ -6,6 +6,10 @@
   flex-direction: row;
   padding-bottom: var(--fluid-space-l);
   background-color: var(--background-color);
+
+  &.is-transparent {
+    background-color: transparent;
+  }
 }
 
 /* Logo

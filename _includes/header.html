@@ -1,5 +1,6 @@
-<header class="header">
-  <a class="logo" href="/" title="zurück zur Startseite">
+<header class="header {{include.headerMode}}">
+  {{additional-classes}}
+  <a class="logo" href="{{ site.baseurl }}/" title="zurück zur Startseite">
     {% include logo.html %}
   </a>
 </header>

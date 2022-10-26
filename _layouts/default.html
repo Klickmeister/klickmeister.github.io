@@ -31,7 +31,14 @@
 </head>
 
 <body>
-{% include header.html %}
+
+
+{% assign headerMode = "" %}
+{% if layout.headerMode %}
+{% assign headerMode = layout.headerMode %}
+{% endif %}
+
+{% include header.html headerMode=headerMode %}
 {{content}}
 {% include footer.html %}
 </body>

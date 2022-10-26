@@ -2,9 +2,11 @@
 title: Prototyping
 img: prototyping.jpeg
 linktext: Mehr zu Prototyping
+teasertext: |
+    Ein Prototyp hilft immer. Nagut, fast immer. Er vermittelt dem Team eine umfassende Vorstellung vom Produkt. Er hilft dabei, Probleme zu finden und iniitiert konkrete Diskussion. Ein Prototyp kann mit Endkunden besprochen und verprobt werden. Er schafft ein gemeinsames Zielbild. Egal ob Pen & Paper, High Fidility oder funktionaler Prototyp, wir helfen gern.
 ---
 
-Ein Prototyp hilft immer. Nagut, fast immer. Er vermittelt dem Team eine umfassende Vorstellung vom Produkt. Er hilft dabei, Probleme zu finden und iniitiert konkrete Diskussion. Ein Prototyp kann mit Endkunden besprochen und verprobt werden. Er schafft ein gemeinsames Zielbild. Egal ob Pen & Paper, High Fidility oder funktionaler Prototyp, wir helfen gern.
+
 
 <!-- more -->
 
