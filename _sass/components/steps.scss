@@ -1,0 +1,20 @@
+// Steps
+// ------------------------------------------------------------------------- //
+
+.steps {
+  padding: 0;
+  counter-reset: steps;
+  list-style: none;
+
+  & > * {
+    display: block;
+    margin-bottom: var(--fluid-space-s);
+    counter-increment: my-awesome-counter;
+
+    &::before {
+      display: block;
+      content: "Schritt " counter(my-awesome-counter) ":";
+      font-weight: bold;
+    }
+  }
+}

@@ -60,14 +60,6 @@
 
 .limited-box {
   max-width: var(--max-width-content);
-
-  &[data-box-width="l"] {
-    max-width: var(--max-width-content-l);
-  }
-
-  &[data-box-width="xl"] {
-    max-width: var(--max-width-content-xl);
-  }
 }
 
 /* Section
@@ -105,4 +97,15 @@ section,
     gap: var(--fluid-space-s);
     grid-template-columns: 1fr 1fr;
   }
+}
+
+/* Box Widths & heights
+############################################################################ */
+
+[data-box-width="l"] {
+  max-width: var(--max-width-content-l);
+}
+
+[data-box-width="xl"] {
+  max-width: var(--max-width-content-xl);
 }

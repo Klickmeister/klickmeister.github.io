@@ -79,6 +79,11 @@ p + h3 {
 
 img {
   width: 100%;
+
+  &[data-height="full"] {
+    height: 100%;
+    object-fit: cover;
+  }
 }
 
 strong {
