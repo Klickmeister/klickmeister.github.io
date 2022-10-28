@@ -6,6 +6,22 @@
 
   @media only screen and (min-width: $vp-medium) {
     grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width), 1fr));
+
+    &[data-col-width="s"] {
+      grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width-small), 1fr));
+    }
+
+    &[data-col-width="xs"] {
+      grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width-xsmall), 1fr));
+    }
+
+    &[data-col-gap="xs"] {
+      gap: var(--fluid-space-xs);
+    }
+
+    &[data-col-gap="s"] {
+      gap: var(--fluid-space-s);
+    }
   }
 }
 
@@ -39,12 +55,19 @@
   }
 }
 
-/* Textbox
+/* Limited Box
 ############################################################################ */
 
-.textbox {
-  display: block;
+.limited-box {
   max-width: var(--max-width-content);
+
+  &[data-box-width="l"] {
+    max-width: var(--max-width-content-l);
+  }
+
+  &[data-box-width="xl"] {
+    max-width: var(--max-width-content-xl);
+  }
 }
 
 /* Section
@@ -66,5 +89,20 @@ section,
     & > * {
       max-width: var(--large-content);
     }
+  }
+}
+
+/* Columns
+############################################################################ */
+
+[data-columns] {
+  display: flex;
+  flex-direction: column;
+  gap: var(--fluid-space-m);
+
+  @media only screen and (min-width: $vp-medium) {
+    display: grid;
+    gap: var(--fluid-space-s);
+    grid-template-columns: 1fr 1fr;
   }
 }

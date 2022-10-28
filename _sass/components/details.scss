@@ -1,0 +1,49 @@
+/* Details
+############################################################################ */
+details {
+  margin-left: var(--l);
+  transition: padding var(--tr-slow), margin var(--tr-slow), opacity var(--tr-medium);
+
+  summary {
+    margin-left: calc(var(--l) * -1);
+    list-style: none;
+
+    & > h3 {
+      display: inline-block;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      display: inline-block;
+      color: var(--interaction-color);
+
+      @extend .icon;
+
+      content: "chevron_right";
+      font-size: var(--l);
+      font-weight: var(--fw-bold);
+      transition: transform ease-in-out 200ms;
+    }
+  }
+
+  &[open] {
+    padding-bottom: var(--l);
+    border-bottom: solid var(--border-width-l) var(--dark);
+    margin-top: var(--fluid-space-l);
+    margin-bottom: var(--fluid-space-l);
+    opacity: 1 !important;
+
+    summary::before {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.vertical-stack:has(details[open]) > details {
+  opacity: var(--op-medium);
+}

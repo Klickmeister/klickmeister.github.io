@@ -1,0 +1,60 @@
+.button-important {
+  position: relative;
+  display: flex;
+  max-width: 100%;
+  height: 4ch;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--xs);
+  border: var(--border-width) solid var(--dark);
+  background-color: var(--interaction-color);
+  border-radius: var(--border-radius);
+  color: var(--lightest);
+  cursor: pointer;
+  font-size: var(--xs);
+  font-weight: var(--fw-medium);
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transition: background-color var(--tr-fast);
+  user-select: none;
+
+  &:hover {
+    background-color: var(--dark);
+  }
+}
+
+.button-important::after {
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 4ch;
+  background-color: var(--dark);
+  border-radius: var(--border-radius);
+  content: "";
+
+  /* transform: translate(8px, 4px); */
+  transition: transform var(--tr-fast) ease-out;
+}
+
+.button-important:hover::after {
+  transform: translate(0, 0);
+}
+
+.button-important:active {
+  background-color: #ffdeda;
+  outline: 0;
+}
+
+.button-important:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-important {
+    padding: 0 40px;
+  }
+}

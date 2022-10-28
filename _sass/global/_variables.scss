@@ -76,6 +76,7 @@ https://utopia.fyi/type/calculator/
 
   /* Spaces
 ---------------------------------------------------------------------------- */
+  --fluid-space-xs: 1vw;
   --fluid-space-s: 2vw;
   --fluid-space-m: 4vw;
   --fluid-space-l: 8vw;
@@ -96,9 +97,13 @@ https://utopia.fyi/type/calculator/
 ---------------------------------------------------------------------------- */
   --max-width-text: #{$vp-large};
   --max-width-logo: calc(var(--max-width-text) / 3);
-  --max-width-content: 50rem;
-  --max-col-width: 24rem;
+  --max-width-content: 48rem;
+  --max-width-content-l: 60rem;
+  --max-width-content-xl: 84rem;
+  --min-col-width: 6rem;
+  --max-col-width-xsmall: 12rem;
   --max-col-width-small: 18rem;
+  --max-col-width: 24rem;
   --max-col-width-large: 30rem;
   --large-content: 110ch;
 
@@ -109,4 +114,12 @@ https://utopia.fyi/type/calculator/
   --border-width: 2px;
   --border-width-l: 4px;
   --border-width-s: 1px;
+  --border-radius: 4px;
+
+  /* Shadows
+---------------------------------------------------------------------------- */
+
+  --box-shadow-m: 0 0 0.5rem #{"rgb(0 0 0 / 20%)"};
+  --box-shadow-l: 0 0 1rem #{"rgb(0 0 0 / 20%)"};
+  --box-shadow-xl: 0 0 2rem #{"rgb(0 0 0 / 20%)"};
 }

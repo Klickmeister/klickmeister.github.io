@@ -1,0 +1,27 @@
+.price {
+  display: flex;
+  flex: 0 0 1;
+  flex-direction: column;
+  padding: var(--fluid-space-s);
+  background-color: var(--darken-light);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow-l);
+  font-size: var(--xs);
+
+  h4 {
+    font-size: var(--s);
+  }
+
+  &-tag {
+    flex-grow: 2;
+    margin-bottom: var(--fluid-space-s);
+    font-size: var(--s);
+    font-weight: var(--fw-medium);
+  }
+
+  transition: box-shadow var(--tr-fast);
+
+  &:hover {
+    box-shadow: var(--box-shadow-m);
+  }
+}

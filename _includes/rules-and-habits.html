@@ -3,7 +3,7 @@
 
 <div class="vertical-stack">
 {% for habit in habits %}
-    <details class="textbox">
+    <details class="limited-box">
         <summary><h3>{{ habit.title }}</h3></summary>
         {{ habit.content | markdownify }}
     </details>

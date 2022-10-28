@@ -1,0 +1,9 @@
+/* Small Text
+############################################################################ */
+
+.smalltext {
+  & > *:not(img) {
+    max-width: var(--max-width-content);
+    font-size: var(--xs);
+  }
+}

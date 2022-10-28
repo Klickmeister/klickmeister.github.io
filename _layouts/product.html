@@ -9,5 +9,9 @@ headerMode: is-transparent
 
 <section class="herotext">
     <h2>{{ page.title }}</h2>
+    {{ page.intro | markdownify }}
+</section>
+
+<section>
     {{ page.content}}
 </section>
