@@ -9,7 +9,9 @@ intro: |
     Wo geht es lang? Wo ist was? Was ist wie oft wo? Interaktive Kartendarstellungen sind interessant und hilfreich. Hierüber können komplexe Daten und Sachverhalte visualisiert und greifbar gemacht werden. Wir können mit Hilfe von Karten Orientierung unterstützen und Navigation ermöglichen.
 ---
 
-### Interaktive und individuelle Karten
+<section>
+
+<h2>Interaktive und individuelle Karten</h2>
 
 <figure data-columns="2" class="smaltext">
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
@@ -27,9 +29,10 @@ intro: |
 <li>Bei Bedarf unterstützen wir bei der Integration der Karten in die bestehende Infrastruktur, kümmern uns um etwaige datenschutzrechtliche Aspekte und nehmen die Karte und die zugehörigen Datenquellen mit ins Monitoring auf, um bei Problem möglichst schnell reagieren zu können.</li>
 </ul>
 
----
+</section>
+<section>
 
-### Interaktive und individuelle Karten
+<h2>Interaktive und individuelle Karten</h2>
 
 <div class="limited-box" data-box-width="m">
 Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.
@@ -50,9 +53,10 @@ Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von
     </figcaption>
 </figure>
 
----
+</section>
+<section>
 
-### Komplexe Karten mit eigener Algorithmik
+<h2>Komplexe Karten mit eigener Algorithmik</h2>
 
 <div class="limited-box" data-box-width="m">
 Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Das kann passieren, wenn die nötigen Geometrien durch den Kartendienst nicht bereit gestellt werden können, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Hierbei wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. 
@@ -74,9 +78,10 @@ Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open S
     </figcaption>
 </figure>
 
----
+</section>
+<section class="is-light">
 
-### Preise
+<h2>Preise</h2>
 
 <div class="grid limited-box" data-box-width="xl" data-col-width="xs" data-col-gap="s">
 {% include preispaket.html 
@@ -100,3 +105,5 @@ Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open S
     action-url="asasass" 
     action-text = "Ich bin dabei" %}
 </div>
+
+</section>

@@ -1,10 +1,14 @@
-/* Baclgrounds
+/* Backgrounds
 ############################################################################ */
 .is-dark {
   background-color: var(--dark);
 
   --text-color: var(--light);
   --headline-color: var(--light);
+}
+
+.is-light {
+  background-color: var(--lightest);
 }
 
 .is-blue {

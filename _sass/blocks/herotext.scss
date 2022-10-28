@@ -13,7 +13,7 @@
     font-size: var(--m);
     line-height: var(--lh-default);
 
-    &:not(h2,h3,h4) {
+    &:not(h1,h2,h3,h4) {
       font-weight: var(--fw-light);
     }
   }
