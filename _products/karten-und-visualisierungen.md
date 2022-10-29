@@ -36,7 +36,7 @@ intro: |
 <h2>Komplexe Karten mit eigener Algorithmik</h2>
 
 <div class="limited-box" data-box-width="m">
-Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Das kann passieren, wenn die nötigen Geometrien durch den Kartendienst nicht bereit gestellt werden können, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Hierbei wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. 
+Für einige Anforderungen reichen die öffentlichen Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Manchmal fehlen die nötigen Geometrien, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Dann wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. 
 </div>
 
 <figure data-columns="2" class="smalltext">
