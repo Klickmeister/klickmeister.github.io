@@ -4,9 +4,9 @@ img: prototyping.jpeg
 linktext: Mehr zu Karten und Visualisierungen
 layout: product
 teasertext: |
-    Wo geht es lang? Wo ist was? Was ist wie oft wo? Interaktive Kartendarstellungen sind interessant und hilfreich. Hierüber können komplexe Daten und Sachverhalte visualisiert und greifbar gemacht werden. Egal, ob Sie eine flexible und anpassbare Darstellung von eigenem Kartenmaterial, Pathfinder Funktionen oder die Anreicherung von Karten um unternehmens-spezifische Datenpunkte brauchen: wir helfen gerne und haben auch schon das ein oder andere Projekt in diesem wunderschönen Betätigungsfeld gemacht.
+    Wo geht es lang? Wo ist was? Was ist wie oft wo? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie eine flexible und anpassbare Darstellung von eigenem Kartenmaterial, Pathfinder Funktionen oder die Anreicherung von Karten um unternehmens-spezifische Datenpunkte brauchen: wir helfen gerne Ihre Daten sichtbar zu machen.
 intro: |
-    Wo geht es lang? Wo ist was? Was ist wie oft wo? Interaktive Kartendarstellungen sind interessant und hilfreich. Sie können komplexe Daten und Sachverhalte visualisieren und greifbar machen. Sie geben Orientierung und Überblick.
+    Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intutiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
 ---
 
 <section>
