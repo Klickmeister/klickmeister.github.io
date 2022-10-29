@@ -17,7 +17,9 @@ intro: |
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <div class="limited-box" data-box-width="m">
-            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passierte gerade was? Wo ist die Fahrzeugflotte gerade? Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, können wir schnell und unkompliziert Ihre Daten in Kartendarstellungen visualisieren. Wir können deren Darstellung beeinflussen: Ebenen aus- oder einblenden, Elemente ergänzen, Farbgebungen verändern und Dynamiken einfügen.</p>
+            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?
+                Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, steht hervorragendes Datenmaterial zur Verfügung, dass wir schnell und unkompliziert mit Ihren Daten anreichern können.
+                Dabei wird die Darstellung auf die besonderen Bedürfnisse Ihrer Anwendung angepasst: Ebenen aus- oder eingeblendet, Elemente ergänzt, Farbgebungen verändert und Dynamiken eingefügt.</p>
         </div>
     </figcaption>
 </figure>
