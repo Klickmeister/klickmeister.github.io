@@ -18,45 +18,20 @@ intro: |
     <figcaption>
         <div class="limited-box" data-box-width="m">
             <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?
-                Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, steht hervorragendes Datenmaterial zur Verfügung, dass wir schnell und unkompliziert mit Ihren Daten anreichern können.
+                Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, steht hervorragendes Kartenmaterial zur Verfügung, das wir schnell und unkompliziert mit Ihren Daten anreichern können.
                 Dabei wird die Darstellung auf die besonderen Bedürfnisse Ihrer Anwendung angepasst: Ebenen aus- oder eingeblendet, Elemente ergänzt, Farbgebungen verändert und Dynamiken eingefügt.</p>
         </div>
     </figcaption>
 </figure>
 
 <ul class="steps smalltext" data-box-width="l">
-<li>Wir schauen uns gemeinsam die Zielsetzung der Karte und das vorhandene Material an.</li>
+<li>Wir schauen uns gemeinsam die Zielsetzung der Karte und Ihre Datenquellen an.</li>
 <li>Wir helfen bei der Auswahl des passenden Kartendienstes (Google Maps, Open Street Map, Mapbox, etc.).</li>
-<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest wie in die Karte integriert und welche Interaktionen angeboten werden sollen. Hier sind typische Fragen, welche Elemente wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Kartenmaterials.</li>
-<li>Bei Bedarf unterstützen wir bei der Integration der Karten in die bestehende Infrastruktur, kümmern uns um etwaige datenschutzrechtliche Aspekte und nehmen die Karte und die zugehörigen Datenquellen mit ins Monitoring auf, um bei Problem möglichst schnell reagieren zu können.</li>
+<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest wie in die Karte integriert und welche Interaktionen angeboten werden sollen. Wir klären mit Ihnen typische Fragen, wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Karten.</li>
+<li>Bei Bedarf unterstützen wir Sie bei der Integration der Karten in die bestehende Infrastruktur, weisen auf etwaige datenschutzrechtliche Aspekte hin und nehmen die Karte und die zugehörigen Datenquellen mit ins Monitoring auf, um bei Störungen möglichst schnell reagieren zu können.</li>
 </ul>
 
 </section>
-<section>
-
-<h2>Interaktive und individuelle Karten</h2>
-
-<div class="limited-box" data-box-width="m">
-Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.
-</div>
-
-<figure data-columns="2" class="smalltext">
-    <img src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
-    <figcaption>
-        <h4>Leistungen</h4>
-        <ul>
-            <li>Beratung zur Wahl des passenden Karten Services</li>
-            <li>POI (Points of Interest: Marker, Geometrie) in Karten einzeichen</li>
-            <li>Kartenausschnitt aufgrund des Standortes der User anpassen</li>
-            <li>Designanpassungen</li>
-            <li>Integration des Kartenservices in die bestehende Infrastruktur</li>
-            <li>Interaktionsmöglichkeiten (z.B. Anzeige von zusätzlichen Ebenen)</li>
-        </ul>
-    </figcaption>
-</figure>
-
-</section>
-<section>
 
 <h2>Komplexe Karten mit eigener Algorithmik</h2>
 
