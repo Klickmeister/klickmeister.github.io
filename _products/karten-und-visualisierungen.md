@@ -6,7 +6,7 @@ layout: product
 teasertext: |
     Wo ist was? Wo geht es lang? Was gibt es Veränderungen? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie eine flexible und anpassbare Darstellung von eigenem Kartenmaterial, Pathfinder Funktionen oder die Anreicherung von Karten um unternehmens-spezifische Datenpunkte brauchen: Wir helfen gerne Ihre Daten sicht- und erfahrbar zu machen.
 intro: |
-    Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intutiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
+    Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intuitiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
 ---
 
 <section>
@@ -17,7 +17,7 @@ intro: |
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <div class="limited-box" data-box-width="m">
-            <p>Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.</p>
+            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektestandorte? Wo passierte gerade was? Wo ist unsere Fahrzeugflotte? Mit Hilfe von bestehender Kartendienst, z.B. Google Maps oder Open Street Map können wir schnell und unkompliziert auf hervorragendes Kartenmaterial zugreifen und mit Ihren Daten anreichern. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet oder z.B. Farbgebungen verändert.</p>
         </div>
     </figcaption>
 </figure>
