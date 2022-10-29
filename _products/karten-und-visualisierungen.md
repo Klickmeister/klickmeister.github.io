@@ -4,7 +4,7 @@ img: prototyping.jpeg
 linktext: Mehr zu Karten und Visualisierungen
 layout: product
 teasertext: |
-    Wo ist was? Wo geht es lang? Was gibt es Veränderungen? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie eine flexible und anpassbare Darstellung von eigenem Kartenmaterial, Pathfinder Funktionen oder die Anreicherung von Karten um unternehmens-spezifische Datenpunkte brauchen: Wir helfen gerne Ihre Daten sicht- und erfahrbar zu machen.
+    Wo ist was? Wo geht es lang? Was gibt es Veränderungen? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie sich für eine flexible Darstellung von eigenem Kartenmaterial oder die Anreicherung von öffentlichen Karten mit Ihren unternehmens-spezifische Datenpunkte entscheiden: Wir helfen gerne Ihre Daten sicht- und erfahrbar zu machen.
 intro: |
     Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intuitiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
 ---
@@ -17,7 +17,7 @@ intro: |
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <div class="limited-box" data-box-width="m">
-            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektestandorte? Wo passierte gerade was? Wo ist unsere Fahrzeugflotte? Mit Hilfe von bestehender Kartendienst, z.B. Google Maps oder Open Street Map können wir schnell und unkompliziert auf hervorragendes Kartenmaterial zugreifen und mit Ihren Daten anreichern. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet oder z.B. Farbgebungen verändert.</p>
+            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passierte gerade was? Wo ist die Fahrzeugflotte gerade? Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, können wir schnell und unkompliziert Ihre Daten in Kartendarstellungen visualisieren. Wir können deren Darstellung beeinflussen: Ebenen aus- oder einblenden, Elemente ergänzen, Farbgebungen verändern und Dynamiken einfügen.</p>
         </div>
     </figcaption>
 </figure>
