@@ -4,9 +4,9 @@ img: prototyping.jpeg
 linktext: Mehr zu Karten und Visualisierungen
 layout: product
 teasertext: |
-    Wo geht es lang? Wo ist was? Was ist wie oft wo? Interaktive Kartendarstellungen sind interessant und hilfreich. Hierüber können komplexe Daten und Sachverhalte visualisiert und greifbar gemacht werden. Egal, ob Sie eine flexible und anpassbare Darstellung von eigenem Kartenmaterial, Pathfinder Funktionen oder die Anreicherung von Karten um unternehmens-spezifische Datenpunkte brauchen: wir helfen gerne und haben auch schon das ein oder andere Projekt in diesem wunderschönen Betätigungsfeld gemacht.
+    Wo ist was? Wo geht es lang? Was gibt es Veränderungen? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie sich für eine flexible Darstellung von eigenem Kartenmaterial oder die Anreicherung von öffentlichen Karten mit Ihren unternehmens-spezifische Datenpunkte entscheiden: Wir helfen gerne Ihre Daten sicht- und erfahrbar zu machen.
 intro: |
-    Wo geht es lang? Wo ist was? Was ist wie oft wo? Interaktive Kartendarstellungen sind interessant und hilfreich. Hierüber können komplexe Daten und Sachverhalte visualisiert und greifbar gemacht werden. Wir können mit Hilfe von Karten Orientierung unterstützen und Navigation ermöglichen.
+    Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intuitiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
 ---
 
 <section>
@@ -17,16 +17,18 @@ intro: |
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <div class="limited-box" data-box-width="m">
-            <p>Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.</p>
+            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?
+                Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, steht hervorragendes Kartenmaterial zur Verfügung, das wir schnell und unkompliziert mit Ihren Daten anreichern können.
+                Dabei wird die Darstellung auf die besonderen Bedürfnisse Ihrer Anwendung angepasst: Ebenen aus- oder eingeblendet, Elemente ergänzt, Farbgebungen verändert und Dynamiken eingefügt.</p>
         </div>
     </figcaption>
 </figure>
 
 <ul class="steps smalltext" data-box-width="l">
-<li>Wir schauen uns gemeinsam die Zielsetzung der Karte und das vorhandene Material an.</li>
+<li>Wir schauen uns gemeinsam die Zielsetzung der Karte und Ihre Datenquellen an.</li>
 <li>Wir helfen bei der Auswahl des passenden Kartendienstes (Google Maps, Open Street Map, Mapbox, etc.).</li>
-<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest wie in die Karte integriert und welche Interaktionen angeboten werden sollen. Hier sind typische Fragen, welche Elemente wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Kartenmaterials.</li>
-<li>Bei Bedarf unterstützen wir bei der Integration der Karten in die bestehende Infrastruktur, kümmern uns um etwaige datenschutzrechtliche Aspekte und nehmen die Karte und die zugehörigen Datenquellen mit ins Monitoring auf, um bei Problem möglichst schnell reagieren zu können.</li>
+<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest wie in die Karte integriert und welche Interaktionen angeboten werden sollen. Wir klären mit Ihnen typische Fragen, wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Karten.</li>
+<li>Bei Bedarf unterstützen wir Sie bei der Integration der Karten in die bestehende Infrastruktur, weisen auf etwaige datenschutzrechtliche Aspekte hin und nehmen die Karte und die zugehörigen Datenquellen mit ins Monitoring auf, um bei Störungen möglichst schnell reagieren zu können.</li>
 </ul>
 
 </section>
@@ -59,7 +61,7 @@ intro: |
 <h2>Komplexe Karten mit eigener Algorithmik</h2>
 
 <div class="limited-box" data-box-width="m">
-<p>Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Das kann passieren, wenn die nötigen Geometrien durch den Kartendienst nicht bereit gestellt werden können, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Hierbei wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. </p>
+<p>Für einige Anforderungen reichen die öffentlichen Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Manchmal fehlen die nötigen Geometrien, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Dann wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. </p>
 </div>
 
 <figure data-columns="2" class="smalltext">
