@@ -1,0 +1,10 @@
+{% assign heading = "h" | append: include.headingLevel %}
+
+<div class="price">
+    <{{heading}} class="price__headline">{{include.headline}}</{{heading}}>
+    <div class="price__content">
+        <p class="price-text">{{include.text}}</p>
+        <p class="price-tag">{{include.price}}</p>
+        <button class="button-simple" role="button" data-cta-action="{{include.action-url}}">{{include.action-text}}</button>
+    </div>
+</div>

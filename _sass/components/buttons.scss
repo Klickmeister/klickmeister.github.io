@@ -1,10 +1,11 @@
+// Button important
+// ------------------------------------------------------------------------- //
 .button-important {
   position: relative;
   display: flex;
   width: fit-content;
   max-width: 100%;
   height: 4ch;
-  box-sizing: border-box;
   align-items: center;
   justify-content: center;
   padding: 0 var(--xs);
@@ -54,8 +55,42 @@
   outline: 0;
 }
 
-@media (min-width: 768px) {
-  .button-important {
-    padding: 0 40px;
+// Button simple
+// ------------------------------------------------------------------------- //
+
+.button-simple {
+  position: relative;
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: var(--quarter) var(--xs);
+  border: none;
+  border: solid var(--border-width-s) var(--darkest);
+  background-color: var(--interaction-color);
+  border-radius: var(--border-radius-s);
+  box-shadow: var(--box-shadow-m);
+  color: var(--lightest);
+  cursor: pointer;
+  font-size: var(--xs);
+  font-weight: var(--fw-normal);
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transition: background-color var(--tr-fast);
+  user-select: none;
+
+  &:hover {
+    background-color: var(--dark);
   }
+}
+
+.button-important:active {
+  background-color: #ffdeda;
+  outline: 0;
+}
+
+.button-important:hover {
+  outline: 0;
 }

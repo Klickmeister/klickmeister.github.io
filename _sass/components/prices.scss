@@ -1,0 +1,58 @@
+// Price
+// ------------------------------------------------------------------------- //
+
+.price {
+  display: flex;
+  flex: 0 0 1;
+  flex-direction: column;
+  margin-bottom: var(--fluid-space-l);
+  border-radius: var(--border-radius);
+  font-size: var(--xs);
+  line-height: var(--lh-default);
+
+  h4 {
+    font-size: var(--s);
+  }
+
+  &-tag {
+    width: fit-content;
+    flex-grow: 1;
+    margin-bottom: var(--fluid-space-s);
+    font-size: var(--s);
+    font-weight: var(--fw-medium);
+  }
+
+  @media only screen and (min-width: $vp-medium) {
+    margin-bottom: var(--fluid-space-s);
+  }
+}
+
+// Price List
+// ------------------------------------------------------------------------- //
+
+.price-list {
+  .price {
+    display: grid;
+
+    @media only screen and (min-width: $vp-medium) {
+      gap: var(--m);
+      grid-template-columns: minmax(var(--min-col-width), var(--max-col-width-small)) minmax(var(--max-col-width-small), var(--max-col-width-large));
+    }
+
+    & * {
+      font-size: var(--xs);
+    }
+
+    button {
+      font-size: var(--xxs);
+    }
+
+    &__headline {
+      line-height: var(--lh-default);
+    }
+  }
+
+  .price + .price {
+    margin-top: var(--fluid-space-m);
+  }
+}

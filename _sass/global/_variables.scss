@@ -11,14 +11,14 @@ $vp-xlarge: 1400px;
   /* Sizes
 https://utopia.fyi/type/calculator/
 ---------------------------------------------------------------------------- */
-  --step--2: clamp(0.72rem, calc(0.81rem + -0.13vw), 0.78rem);
-  --step--1: clamp(0.9rem, calc(0.95rem + -0.08vw), 0.94rem);
-  --step-0: clamp(1.13rem, calc(1.13rem + 0vw), 1.13rem);
-  --step-1: clamp(1.35rem, calc(1.32rem + 0.12vw), 1.41rem);
-  --step-2: clamp(1.62rem, calc(1.56rem + 0.28vw), 1.76rem);
-  --step-3: clamp(1.94rem, calc(1.83rem + 0.52vw), 2.2rem);
-  --step-4: clamp(2.33rem, calc(2.14rem + 0.85vw), 2.75rem);
-  --step-5: clamp(2.8rem, calc(2.51rem + 1.3vw), 3.43rem);
+  --step--2: clamp(0.7rem, calc(0.73rem + -0.03vw), 0.72rem);
+  --step--1: clamp(0.9rem, calc(0.89rem + 0.07vw), 0.94rem);
+  --step-0: clamp(1.13rem, calc(1.08rem + 0.24vw), 1.25rem);
+  --step-1: clamp(1.41rem, calc(1.3rem + 0.51vw), 1.67rem);
+  --step-2: clamp(1.76rem, calc(1.58rem + 0.9vw), 2.22rem);
+  --step-3: clamp(2.2rem, calc(1.9rem + 1.49vw), 2.96rem);
+  --step-4: clamp(2.75rem, calc(2.28rem + 2.34vw), 3.95rem);
+  --step-5: clamp(3.43rem, calc(2.72rem + 3.57vw), 5.26rem);
   --xxs: var(--step--2);
   --xs: var(--step--1);
   --s: var(--step-0);
@@ -34,6 +34,8 @@ https://utopia.fyi/type/calculator/
   --font-family-sans: "IBMSans", sans-serif;
   --base-font-size: var(--s);
   --font-icons: "Material Icons";
+  --half: calc(var(--base-font-size) / 2);
+  --quarter: calc(var(--base-font-size) / 4);
 
   /* Font Weights
 ---------------------------------------------------------------------------- */
@@ -115,6 +117,7 @@ https://utopia.fyi/type/calculator/
   --border-width-l: 4px;
   --border-width-s: 1px;
   --border-radius: 4px;
+  --border-radius-s: 2px;
 
   /* Shadows
 ---------------------------------------------------------------------------- */

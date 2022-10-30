@@ -35,7 +35,7 @@ intro: |
 <h2>Interaktive und individuelle Karten</h2>
 
 <div class="limited-box" data-box-width="m">
-Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.
+<p>Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.</p>
 </div>
 
 <figure data-columns="2" class="smalltext">
@@ -59,7 +59,7 @@ Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von
 <h2>Komplexe Karten mit eigener Algorithmik</h2>
 
 <div class="limited-box" data-box-width="m">
-Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Das kann passieren, wenn die nötigen Geometrien durch den Kartendienst nicht bereit gestellt werden können, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Hierbei wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. 
+<p>Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Das kann passieren, wenn die nötigen Geometrien durch den Kartendienst nicht bereit gestellt werden können, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Hierbei wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. </p>
 </div>
 
 <figure data-columns="2" class="smalltext">
@@ -105,5 +105,42 @@ Für einige Zwecke reichen bestehende Kartendienste, wie Google Maps oder Open S
     action-url="asasass" 
     action-text = "Ich bin dabei" %}
 </div>
+
+</section>
+
+<section class="is-light">
+
+<h2>Preise // Variante 👻</h2>
+
+<div class="limited-box" data-box-width="m">
+<p>Bei Pauschalpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit welchen Preisen in etwa zu rechnen ist.</p>
+</div>
+
+<div class="price-list">
+{% include preispaket-liste.html 
+    headingLevel=3
+    headline="Einfache interaktive Karten" 
+    text="Ein schönes Starterpaket um Visualisierungen auf Karten nutzbar zu machen. Hierbei nutzen wir einen öffentlichen Kartendienst und visualisieren Ihre Daten interaktiv auf einer Karte."
+    price="ab 2000,- €"
+    action-url="asasass" 
+    action-text = "Gute Sache" %}
+
+{% include preispaket-liste.html 
+    headingLevel=3
+    headline="Komplexe interaktive Karten" 
+    text="Wenn die Daten komplexer sind, eine dynamische Datenanbindung erforderlich ist, z.B. bei Echtzeitdaten oder mehr Interaktion gewünscht ist, kommen wir in den Bereich der komplexen interaktiven Karten. Auch hier wird ein öffentlicher Kartendienst genutzt und um Datenvisualisierung ergänzt."
+    price="ab 5000,- €"
+    action-url="asasass" 
+    action-text = "Ruft mich an!" %}
+
+{% include preispaket-liste.html 
+    headingLevel=3
+    headline="Selbst generierte Karten mit eigener Algorithmik" 
+    text="Sie brauchen dynamische Karten mit eigener Algorithmik, z.B. Indoor Routing oder Wegepläne? Hier werden entweder Karten aus öffentlichen Kartendiensten um eigene Geometrien, z.B. Streckenzügen oder Areale erweitert, oder es werden eigene Karten generiert. Auf diesem, selbst erzeugten Kartenmaterial finden die die Visualisierungen und die Interaktion statt."
+    price="ab 8000,- €"
+    action-url="asasass" 
+    action-text = "Ich bin dabei" %}
+</div>
+
 
 </section>
