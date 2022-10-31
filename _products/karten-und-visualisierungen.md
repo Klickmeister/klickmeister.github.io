@@ -10,11 +10,12 @@ intro: |
 ---
 
 
-
-<div><a href="paragraph_1">Interaktive und individuelle Karten</a></div>
-<div><a href="paragraph_2">Interaktive und individuelle Karten</a></div>
-<div><a href="paragraph_3">Komplexe Karten mit eigener Algorithmik</a></div>
-<div><a href="paragraph_4">Preise</a></div>
+<ul>
+    <li><a href="paragraph_1">Interaktive und individuelle Karten</a></li>
+    <li><a href="paragraph_2">Interaktive und individuelle Karten</a></li>
+    <li><a href="paragraph_3">Komplexe Karten mit eigener Algorithmik</a></li>
+    <li><a href="paragraph_4">Preise</a></li>
+</ul>
 
 <section id="paragraph_1">
 
