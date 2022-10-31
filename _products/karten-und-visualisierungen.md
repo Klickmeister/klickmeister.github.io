@@ -9,13 +9,14 @@ intro: |
     Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intuitiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
 ---
 
-
-<ul>
-    <li><a href="paragraph_1">Interaktive und individuelle Karten</a></li>
-    <li><a href="paragraph_2">Interaktive und individuelle Karten</a></li>
-    <li><a href="paragraph_3">Komplexe Karten mit eigener Algorithmik</a></li>
-    <li><a href="paragraph_4">Preise</a></li>
-</ul>
+<section id="topiclist">
+    <ul>
+        <li><a href="#paragraph_1">Interaktive und individuelle Karten</a></li>
+        <li><a href="#paragraph_2">Interaktive und individuelle Karten</a></li>
+        <li><a href="#paragraph_3">Komplexe Karten mit eigener Algorithmik</a></li>
+        <li><a href="#paragraph_4">Preise</a></li>
+    </ul>
+</section>
 
 <section id="paragraph_1">
 
