@@ -27,7 +27,7 @@ intro: |
     <figcaption>
         <div class="limited-box" data-box-width="m">
             <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?</p>
-            <p>Interaktive Karten sind ein aufregendes Spielfeld des Informationsdesigns und beantworten diese Fragen schnell und für die User intuitiv erfassbar. Wir transformieren Ihre Daten in ansprechende Kartendarstellungen und -Anwendungen.
+            <p>Interaktive Karten sind ein aufregendes Spielfeld des Informationsdesigns und beantworten diese Fragen schnell und intuitiv erfassbar. Wir transformieren Ihre Daten in ansprechende Kartendarstellungen und -Anwendungen.
             </p>
         </div>
     </figcaption>
@@ -36,8 +36,8 @@ intro: |
 <ul class="steps smalltext" data-box-width="l">
 <li>Wir schauen uns gemeinsam die Zielsetzung der Karte und Ihre Datenquellen an.</li>
 <li>Wir beraten Sie bei der Wahl der Kartentechnologie.</li>
-<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest in die Karte integriert und welche Interaktionen angeboten werden sollen. Wir klären mit Ihnen typische Fragen, wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Karten.</li>
-<li>Wir unterstützen Sie bei der Integration der Karten in die bestehende Infrastruktur, weisen auf etwaige datenschutzrechtliche Aspekte hin und nehmen bei Bedarf die Karte und die zugehörigen Datenquellen in unser Monitoring auf, um bei Störungen möglichst schnell reagieren zu können.</li>
+<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest in die Karte integriert und welche Interaktionen angeboten werden sollen. Wir klären mit Ihnen typische Fragen, wie Straßen- oder Regionsbezeichnungen angezeigt werden oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung oder Ausrichtung der Karten.</li>
+<li>Wir unterstützen Sie bei der Integration der Karten in die bestehende Infrastruktur, weisen auf datenschutzrechtliche Aspekte hin und nehmen bei Bedarf die Karte und die zugehörigen Datenquellen in unser Monitoring auf, um bei Störungen möglichst schnell reagieren zu können.</li>
 </ul>
 
 </section>
@@ -50,7 +50,7 @@ intro: |
 <div class="limited-box" data-box-width="m">
 <p>
 Öffentliche Kartendienste wie Google Maps oder Open Street Map eröffnen ein breites Spektrum an Nutzungsmöglichkeiten auf Basis hervorragendem Datenmaterials.
-Schnell und unaufwändig können wir damit z.B. Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte sichtbar machen, aber auch dynamische Daten wie den  Postiotionen von Fahrzeugen oder Ereignissen anzeigen. Dabei kann die Darstelling der Karte auf die besonderen Bedürfnisse Ihrer Anwendung oder Ihres Corporate Designs angepasst werden: Ebenen oder Elemente werden aus- oder eingeblendet. Farben und Fonts individuell angewendet oder Dynamiken eingefügt.</p>
+Schnell und unaufwändig können wir damit z.B. Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte sichtbar machen, aber auch dynamische Daten wie Positionen von Fahrzeugen oder Ereignissen anzeigen. Dabei kann die Darstellung der Karte auf die besonderen Bedürfnisse Ihrer Anwendung oder Ihres Corporate Designs angepasst werden: Ebenen oder Elemente werden aus- oder eingeblendet. Farben und Fonts individuell angewendet oder Dynamiken eingefügt.</p>
 </div>
 
 <figure data-columns="2" class="smalltext">
@@ -58,7 +58,7 @@ Schnell und unaufwändig können wir damit z.B. Niederlassungen, Showrooms, Vert
     <figcaption>
         <h4>Leistungen</h4>
         <ul>
-            <li>Beratung zur Wahl des passenden Kartendienstes</li>
+            <li>Beratung bei der Wahl des passenden Kartendienstes</li>
             <li>POI (Points of Interest: Marker, Geometrie) in Karten einzeichen</li>
             <li>Kartenausschnitt aufgrund des Standortes der User anpassen</li>
             <li>Designanpassungen</li>
