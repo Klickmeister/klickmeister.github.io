@@ -11,22 +11,21 @@ intro: |
 
 
 
-<a href="paragraph_1">Interaktive und individuelle Karten</a>
-<a href="paragraph_2">Interaktive und individuelle Karten</a>
-<a href="paragraph_3">Komplexe Karten mit eigener Algorithmik</a>
+<div><a href="paragraph_1">Interaktive und individuelle Karten</a></div>
+<div><a href="paragraph_2">Interaktive und individuelle Karten</a></div>
+<div><a href="paragraph_3">Komplexe Karten mit eigener Algorithmik</a></div>
+<div><a href="paragraph_4">Preise</a></div>
 
 <section id="paragraph_1">
 
 <h2>Interaktive und individuelle Karten</h2>
-<h2>Interaktive und individuelle Karten</h2>
-<h2>Komplexe Karten mit eigener Algorithmik</h2>
 
 <figure data-columns="2" class="smaltext">
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <div class="limited-box" data-box-width="m">
             <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?
-                Durch die Nutzung öffentlicher Kartendienste, wie z.B. Google Maps oder Open Street Map, steht hervorragendes Kartenmaterial zur Verfügung, das wir schnell und unkompliziert mit Ihren Daten anreichern können.
+                Dank öffentlicher Kartendienste, wie Google Maps oder Open Street Map, steht hervorragendes Kartenmaterial zur Verfügung, das wir schnell und unkompliziert mit Ihren Daten anreichern können.
                 Dabei wird die Darstellung auf die besonderen Bedürfnisse Ihrer Anwendung angepasst: Ebenen aus- oder eingeblendet, Elemente ergänzt, Farbgebungen verändert und Dynamiken eingefügt.</p>
         </div>
     </figcaption>
@@ -92,7 +91,7 @@ intro: |
 </figure>
 
 </section>
-<section class="is-light">
+<section class="is-light" id="paragraph_4">
 
 <h2>Preise</h2>
 
