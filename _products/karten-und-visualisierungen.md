@@ -11,44 +11,46 @@ intro: |
 
 <section id="topiclist">
     <ul>
-        <li><a href="#paragraph_1">Interaktive und individuelle Karten</a></li>
-        <li><a href="#paragraph_2">Interaktive und individuelle Karten</a></li>
-        <li><a href="#paragraph_3">Komplexe Karten mit eigener Algorithmik</a></li>
+        <li><a href="#paragraph_1">Datenvisualisierung mit Karten</a></li>
+        <li><a href="#paragraph_2">Einfache interaktive Karten mit Kartendiensten</a></li>
+        <li><a href="#paragraph_3">Individuelle Kartenlösungen</a></li>
         <li><a href="#paragraph_4">Preise</a></li>
     </ul>
 </section>
 
 <section id="paragraph_1">
 
-<h2>Interaktive und individuelle Karten</h2>
+<h2>Datenvisualiserung mit Karten</h2>
 
 <figure data-columns="2" class="smaltext">
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <div class="limited-box" data-box-width="m">
-            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?
-                Dank öffentlicher Kartendienste, wie Google Maps oder Open Street Map, steht hervorragendes Kartenmaterial zur Verfügung, das wir schnell und unkompliziert mit Ihren Daten anreichern können.
-                Dabei wird die Darstellung auf die besonderen Bedürfnisse Ihrer Anwendung angepasst: Ebenen aus- oder eingeblendet, Elemente ergänzt, Farbgebungen verändert und Dynamiken eingefügt.</p>
+            <p>Wo gibt es Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte? Wo passiert im Moment was? Wo ist die Fahrzeugflotte gerade?</p>
+            <p>Interaktive Karten sind ein aufregendes Spielfeld des Informationsdesigns und beantworten diese Fragen schnell und für die User intuitiv erfassbar. Wir transformieren Ihre Daten in ansprechende Kartendarstellungen und -Anwendungen.
+            </p>
         </div>
     </figcaption>
 </figure>
 
 <ul class="steps smalltext" data-box-width="l">
 <li>Wir schauen uns gemeinsam die Zielsetzung der Karte und Ihre Datenquellen an.</li>
-<li>Wir helfen bei der Auswahl des passenden Kartendienstes (Google Maps, Open Street Map, Mapbox, etc.).</li>
-<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest wie in die Karte integriert und welche Interaktionen angeboten werden sollen. Wir klären mit Ihnen typische Fragen, wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Karten.</li>
-<li>Bei Bedarf unterstützen wir Sie bei der Integration der Karten in die bestehende Infrastruktur, weisen auf etwaige datenschutzrechtliche Aspekte hin und nehmen die Karte und die zugehörigen Datenquellen mit ins Monitoring auf, um bei Störungen möglichst schnell reagieren zu können.</li>
+<li>Wir beraten Sie bei der Wahl der Kartentechnologie.</li>
+<li>Gemeinsam erarbeiten wir ein Konzept, welche Points of Interest in die Karte integriert und welche Interaktionen angeboten werden sollen. Wir klären mit Ihnen typische Fragen, wie Straßen oder Regionsbezeichnungen angezeigt werden sollen oder ob der Kartenausschnitt entsprechend des Standorts der User angepasst werden soll. Hier befassen wir uns auch mit der gestalterischen Anpassung des Karten.</li>
+<li>Wir unterstützen Sie bei der Integration der Karten in die bestehende Infrastruktur, weisen auf etwaige datenschutzrechtliche Aspekte hin und nehmen bei Bedarf die Karte und die zugehörigen Datenquellen in unser Monitoring auf, um bei Störungen möglichst schnell reagieren zu können.</li>
 </ul>
 
 </section>
 
 <section id="paragraph_2">
 
-<h2>Interaktive und individuelle Karten</h2>
+<h2>Einfache interaktive Karten mit Kartendiensten</h2>
 
 
 <div class="limited-box" data-box-width="m">
-<p>Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.</p>
+<p>
+Öffentliche Kartendienste wie Google Maps oder Open Street Map eröffnen ein breites Spektrum an Nutzungsmöglichkeiten auf Basis hervorragendem Datenmaterials.
+Schnell und unaufwändig können wir damit z.B. Niederlassungen, Showrooms, Vertragshändler oder Projektstandorte sichtbar machen, aber auch dynamische Daten wie den  Postiotionen von Fahrzeugen oder Ereignissen anzeigen. Dabei kann die Darstelling der Karte auf die besonderen Bedürfnisse Ihrer Anwendung oder Ihres Corporate Designs angepasst werden: Ebenen oder Elemente werden aus- oder eingeblendet. Farben und Fonts individuell angewendet oder Dynamiken eingefügt.</p>
 </div>
 
 <figure data-columns="2" class="smalltext">
@@ -56,7 +58,7 @@ intro: |
     <figcaption>
         <h4>Leistungen</h4>
         <ul>
-            <li>Beratung zur Wahl des passenden Karten Services</li>
+            <li>Beratung zur Wahl des passenden Kartendienstes</li>
             <li>POI (Points of Interest: Marker, Geometrie) in Karten einzeichen</li>
             <li>Kartenausschnitt aufgrund des Standortes der User anpassen</li>
             <li>Designanpassungen</li>
@@ -70,24 +72,26 @@ intro: |
 
 <section id="paragraph_3">
 
-<h2>Komplexe Karten mit eigener Algorithmik</h2>
+<h2>Individuelle Kartenlösungen</h2>
 
 <div class="limited-box" data-box-width="m">
-<p>Für einige Anforderungen reichen die öffentlichen Kartendienste, wie Google Maps oder Open Street Map, nicht aus. Manchmal fehlen die nötigen Geometrien, z.B. Streckenzüge, Indoor Architekturen und Wege. Hier können Karten mit eigener Algorithmik helfen. Dann wird Kartenmaterial selbst dynamisch, also datenbasiert, erzeugt oder bestehendes Material wird z.B. um Indoorkarten ergänzt. </p>
+<p>Für einige Anforderungen reichen die Angebote der öffentlichen Kartendienste, wie Google Maps oder Open Street Map, nicht aus.
+Für eine inviduelle Darstellungen werden oft Abstaktionsgrade oder Geometrien wie z.B. Streckenzüge, Indoor Architekturen oder Flächenkenzeichnugen benötigt. die
+die Kartendienste nicht bieten können. Hier entwickeln wir für Sie Ihre individuelle Kartenlösung: Kartenmaterial wird für Sie erstellt. dynamisch, also datenbasiert, angereichert oder mit bestehendes Material z.B. um Indoorkarten ergänzt. </p>
 </div>
 
 <figure data-columns="2" class="smalltext">
     <img src="./images/stoerungskarte.jpg" alt="Interaktive und individuelle Karten">
     <figcaption>
         <ul>
-            <li>Abwägung der passenden Technologie abhängig von der Projektgröße, der Art des Kartenmaterials und der Zielvisualisierung</li>
+            <li>Umsetzung eines individuelle Kartelayouts.</li>
             <li>Validierung des Kartenmaterials anhand von Algorithmik</li>
             <li>Flexible und anpassbare Darstellung des eigenen Kartenmaterials in Abhängigkeit von Interaktionen</li>
             <li>Dynamische Positionierung von Labels</li>
             <li>Pathfinder - (rerouting, schnellste Route)</li>
             <li>Kombination verschiedener Karten-Ebenen</li>
             <li>Rendering/Export von statischen Kartenausschnitten</li>
-            <li>Integration eines Kartenservices in die bestehende Infrastruktur</li>
+            <li>Integration der Kartenlösung in die bestehende Infrastruktur</li>
         </ul>
     </figcaption>
 </figure>
@@ -127,7 +131,7 @@ intro: |
 <h2>Preise // Variante 👻</h2>
 
 <div class="limited-box" data-box-width="m">
-<p>Bei Pauschalpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit welchen Preisen in etwa zu rechnen ist.</p>
+<p>Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit welchen Preisen in etwa zu rechnen ist.</p>
 </div>
 
 <div class="price-list">
