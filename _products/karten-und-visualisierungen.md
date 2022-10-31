@@ -9,9 +9,17 @@ intro: |
     Eine Karte sagt mehr als 1000 Worte. Wo geht es lang? Wo ist was? Wo gibt es Veränderungen? Interaktive Karten geben intuitiv und schnell Orientierung und Überblick. Wir machen aus Daten Karten.
 ---
 
-<section>
+
+
+<a href="paragraph_1">Interaktive und individuelle Karten</a>
+<a href="paragraph_2">Interaktive und individuelle Karten</a>
+<a href="paragraph_3">Komplexe Karten mit eigener Algorithmik</a>
+
+<section id="paragraph_1">
 
 <h2>Interaktive und individuelle Karten</h2>
+<h2>Interaktive und individuelle Karten</h2>
+<h2>Komplexe Karten mit eigener Algorithmik</h2>
 
 <figure data-columns="2" class="smaltext">
     <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
@@ -32,9 +40,11 @@ intro: |
 </ul>
 
 </section>
-<section>
+
+<section id="paragraph_2">
 
 <h2>Interaktive und individuelle Karten</h2>
+
 
 <div class="limited-box" data-box-width="m">
 <p>Eine typische Anwendung in diesem Segment ist die kartenbasierte Darstellung von Informationen. Das können Niederlassungen, Showrooms, Vertragshändler oder Projekte in einer bestimmten Region sein, aber auch dynamische Daten, z.B. der aktuelle Standort von Leihfahrrädern. Das wesentliche Merkmal dabei ist, dass ein bestehender Kartendienst, z.B. Google Maps oder Open Street Map genutzt und um zusätzliche Informationen und Interaktionen ergänzt wird. Hierbei wird in der Regel auch die Darstelling der Karte auf die besonderen Bedürfnisse der Anwendung angepasst: Ebenen oder Elemente werden aus- oder eingeblendet und die Farben werden angepasst.</p>
@@ -56,7 +66,8 @@ intro: |
 </figure>
 
 </section>
-<section>
+
+<section id="paragraph_3">
 
 <h2>Komplexe Karten mit eigener Algorithmik</h2>
 
