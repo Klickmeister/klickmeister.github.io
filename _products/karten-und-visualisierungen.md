@@ -47,7 +47,7 @@ intro: |
     <figcaption>
         <div class="limited-box" data-box-width="m">
             <p>
-            Unser Gehirn verarbeitet Bilder 60000 mal schneller als Texte. Informationsdesign setzt genau da an und visualisiert Daten. 
+            Unsere Schaltzentrale verarbeitet Bilder 60000 mal schneller als Texte. Informationsdesign setzt genau da an und visualisiert Daten. 
             Mit interaktiven Karten kannst Du auf einen Blick zeigen, wo Deine Niederlassungs- und Projektstandorte, Deine Eventlocations und Treffpunkte sind. Aber auch wo gerade was passiert oder wo es lang geht. Vielleicht hast Du Forschungsergebnisse, oder Deine Company generiert Daten, die die Welt sehen soll. Viele Daten haben einen Ortsbezug - also rauf mit ihnen auf eine Karte. Mach sie sichtbar und für Deine User:innen schnell und intuitiv erfassbar.
             </p>
         </div>
