@@ -132,7 +132,7 @@ selbstgecodetem Technologieansatz. Nur für Dich!
 <div class="grid limited-box" data-box-width="xl" data-col-width="xs" data-col-gap="s">
 {% include preispaket.html 
     headline="Simple shit mit Google&Co" 
-    text="Ein Starterpaket, das Ihre Daten mit Hilfe etablierter Kartendienste visualisiert."
+    text="Ein Starterpaket, das Deine Daten mit Hilfe etablierter Kartendienste visualisiert."
     price="ab 2000€"
     action-url="asasass" 
     action-text = "Gute Sache" %}
