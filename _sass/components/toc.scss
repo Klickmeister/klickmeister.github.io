@@ -1,0 +1,17 @@
+// TOC
+// ------------------------------------------------------------------------- //
+
+.toc {
+  padding: 0;
+  list-style: none;
+
+  & > * {
+    display: block;
+    margin-bottom: var(--xxs);
+
+    a:hover {
+      padding-right: var(--xxs);
+      padding-left: var(--xxs);
+    }
+  }
+}

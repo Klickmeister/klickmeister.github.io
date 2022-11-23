@@ -11,14 +11,15 @@ $vp-xlarge: 1400px;
   /* Sizes
 https://utopia.fyi/type/calculator/
 ---------------------------------------------------------------------------- */
-  --step--2: clamp(0.7rem, calc(0.73rem + -0.03vw), 0.72rem);
-  --step--1: clamp(0.9rem, calc(0.89rem + 0.07vw), 0.94rem);
-  --step-0: clamp(1.13rem, calc(1.08rem + 0.24vw), 1.25rem);
-  --step-1: clamp(1.41rem, calc(1.3rem + 0.51vw), 1.67rem);
-  --step-2: clamp(1.76rem, calc(1.58rem + 0.9vw), 2.22rem);
-  --step-3: clamp(2.2rem, calc(1.9rem + 1.49vw), 2.96rem);
-  --step-4: clamp(2.75rem, calc(2.28rem + 2.34vw), 3.95rem);
-  --step-5: clamp(3.43rem, calc(2.72rem + 3.57vw), 5.26rem);
+
+  --step--2: clamp(0.69rem, calc(0.66rem + 0.18vw), 0.8rem);
+  --step--1: clamp(0.83rem, calc(0.78rem + 0.29vw), 1rem);
+  --step-0: clamp(1rem, calc(0.91rem + 0.43vw), 1.25rem);
+  --step-1: clamp(1.2rem, calc(1.07rem + 0.63vw), 1.56rem);
+  --step-2: clamp(1.44rem, calc(1.26rem + 0.89vw), 1.95rem);
+  --step-3: clamp(1.73rem, calc(1.48rem + 1.24vw), 2.44rem);
+  --step-4: clamp(2.07rem, calc(1.73rem + 1.7vw), 3.05rem);
+  --step-5: clamp(2.49rem, calc(2.03rem + 2.31vw), 3.82rem);
   --xxs: var(--step--2);
   --xs: var(--step--1);
   --s: var(--step-0);
