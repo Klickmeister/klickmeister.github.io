@@ -12,15 +12,16 @@ intro: |
 
 ---
 
-<section id="topiclist">
-    <ul>
-        <li><a href="#paragraph_1">Mit HighSpeed ins Großhirn</a></li>
-        <li><a href="#paragraph_2">Simple shit: Interaktive Karten mit Google&Co</a></li>
-        <li><a href="#paragraph_3">Richtig geiles Zeuge: Individuelle Kartenlösungen</a></li>
-        <li><a href="#paragraph_4">Preise aka Hausnummern</a></li>
+<section id="topic-list">
+    <ul class="toc">
+        <li><a href="#mit-highspeed-ins-grosshirn">Mit HighSpeed ins Großhirn</a></li>
+        <li><a href="#interaktive-karten">Simple shit: Interaktive Karten mit Google&Co</a></li>
+        <li><a href="#individuelle-karten">Richtig geiles Zeug: Individuelle Kartenlösungen</a></li>
+        <li><a href="#preise">Preise aka Hausnummern</a></li>
     </ul>
+    <div class="keywordlist limited-box" data-box-width="m">
+        <strong>Keywords:</strong>
 
-    <div class="keywordlist limited-box" data-box-width="m"><strong>Keywords:</strong>
     #Interaktive Karten
     #dynamische Karten
     #Informationsdesign
@@ -35,10 +36,10 @@ intro: |
     #intuitiv
     #Webdesign
     #Website
-    </div>
-</section>
 
-<section id="paragraph_1">
+</div>
+</section>
+<section id="mit-highspeed-ins-grosshirn">
 
 <h2>Mit HighSpeed ins Großhirn</h2>
 
@@ -65,7 +66,7 @@ intro: |
 
 </section>
 
-<section id="paragraph_2">
+<section id="interaktive-karten">
 
 <h2>Simple shit: Interaktive Karten mit Google&Co</h2>
 
@@ -96,7 +97,7 @@ Deine Daten können dabei z.B. als simples Excelsheet oder als CSV-Liste vorlieg
 
 </section>
 
-<section id="paragraph_3">
+<section id="individuelle-karten">
 
 <h2>Richtig geiles Zeug: Individuelle Kartenlösungen</h2>
 
@@ -125,9 +126,11 @@ selbstgecodetem Technologieansatz. Nur für Dich!
 </figure>
 
 </section>
-<section class="is-light" id="paragraph_4">
+<section class="is-light" id="preise">
 
-<h2>Preise (<i>aka Hausnummern</i>)</h2>
+<h2>Preise (<i>aka Hausnummern</i>)  👻</h2>
+
+<p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit welchen Preisen in etwa zu rechnen ist.</p>
 
 <div class="grid limited-box" data-box-width="xl" data-col-width="xs" data-col-gap="s">
 {% include preispaket.html 
@@ -151,42 +154,5 @@ selbstgecodetem Technologieansatz. Nur für Dich!
     action-url="asasass" 
     action-text = "Ich bin dabei" %}
 </div>
-
-</section>
-
-<section class="is-light">
-
-<h2>Preise // Variante 👻</h2>
-
-<div class="limited-box" data-box-width="m">
-<p>Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit welchen Preisen in etwa zu rechnen ist.</p>
-</div>
-
-<div class="price-list">
-{% include preispaket-liste.html 
-    headingLevel=3
-    headline="Einfache interaktive Karten" 
-    text="Ein schönes Starterpaket um Visualisierungen auf Karten nutzbar zu machen. Hierbei nutzen wir einen öffentlichen Kartendienst und visualisieren Ihre Daten interaktiv auf einer Karte."
-    price="ab 2000,- €"
-    action-url="asasass" 
-    action-text = "Gute Sache" %}
-
-{% include preispaket-liste.html 
-    headingLevel=3
-    headline="Komplexe interaktive Karten" 
-    text="Wenn die Daten komplexer sind, eine dynamische Datenanbindung erforderlich ist, z.B. bei Echtzeitdaten oder mehr Interaktion gewünscht ist, kommen wir in den Bereich der komplexen interaktiven Karten. Auch hier wird ein öffentlicher Kartendienst genutzt und um Datenvisualisierung ergänzt."
-    price="ab 5000,- €"
-    action-url="asasass" 
-    action-text = "Ruft mich an!" %}
-
-{% include preispaket-liste.html 
-    headingLevel=3
-    headline="Selbst generierte Karten mit eigener Algorithmik" 
-    text="Sie brauchen dynamische Karten mit eigener Algorithmik, z.B. Indoor Routing oder Wegepläne? Hier werden entweder Karten aus öffentlichen Kartendiensten um eigene Geometrien, z.B. Streckenzügen oder Areale erweitert, oder es werden eigene Karten generiert. Auf diesem, selbst erzeugten Kartenmaterial finden die Visualisierungen und die Interaktion statt."
-    price="ab 8000,- €"
-    action-url="asasass" 
-    action-text = "Ich bin dabei" %}
-</div>
-
 
 </section>
