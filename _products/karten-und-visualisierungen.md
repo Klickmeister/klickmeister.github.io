@@ -86,7 +86,7 @@ intro: |
 
 <section id="individuelle-karten">
     <h2>Richtig geiles Zeug: Individuelle Kartenlösungen</h2>
-    <div class="limited-box" data-box-width="m">Standardlösungen sind cool. aber manchmal reichen die Möglichkeiten  von  Google Maps oder Open Street Map, nicht aus. Indoorkarten sind so eine Fall - oder sehr stark abstrahierte Karten. Dann zaubern wir für Dich eine exklusive Individuallösung im invidiuellem Kartenlayot und selbstgecodetem Technologieansatz. Nur für Dich!
+    <div class="limited-box" data-box-width="m">Standardlösungen sind cool. aber manchmal reichen die Möglichkeiten  von  Google Maps oder Open Street Map, nicht aus. Indoorkarten sind so eine Fall - oder sehr stark abstrahierte Karten. Dann zaubern wir für Dich eine exklusive Individuallösung im individuellen Kartenlayout und selbstgecodetem Technologieansatz. Nur für Dich! 
     </div>
     <figure data-columns="2" class="smalltext">
         <img src="./images/stoerungskarte.jpg" alt="Interaktive und individuelle Karten">
@@ -108,7 +108,7 @@ intro: |
 
 <section class="is-light" id="preise">
     <h2>Preise (<i>aka Hausnummern</i>)  👻</h2>
-    <p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit welchen Preisen in etwa zu rechnen ist.</p>
+    <p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit wechem Budget sich was machen lässt</p>
     <div class="grid limited-box" data-box-width="xl" data-col-width="xs" data-col-gap="s">
 
 {% include preispaket.html 

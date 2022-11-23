@@ -5,8 +5,9 @@
   display: flex;
   flex: 0 0 1;
   flex-direction: column;
+  padding-top: var(--fluid-space-s);
+  border-top: solid var(--border-width-l) var(--light);
   margin-bottom: var(--fluid-space-l);
-  border-radius: var(--border-radius);
   font-size: var(--xs);
   line-height: var(--lh-default);
 
