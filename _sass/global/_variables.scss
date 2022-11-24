@@ -101,6 +101,8 @@ https://utopia.fyi/type/calculator/
   --max-width-text: #{$vp-large};
   --max-width-logo: calc(var(--max-width-text) / 3);
   --max-width-content: 48rem;
+  --max-width-content-s: 30rem;
+  --max-width-content-m: 46rem;
   --max-width-content-l: 60rem;
   --max-width-content-xl: 84rem;
   --min-col-width: 6rem;
