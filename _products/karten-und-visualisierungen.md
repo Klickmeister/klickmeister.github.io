@@ -6,7 +6,7 @@ layout: product
 teasertext: |
     Wo ist was? Wo geht was ab? Was gibt es Veränderungen? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie sich für eine flexible Darstellung von eigenem Kartenmaterial oder die Anreicherung von öffentlichen Karten mit Ihren unternehmens-spezifische Datenpunkte entscheiden: Wir helfen gerne Ihre Daten sicht- und erfahrbar zu machen.
 intro: |
-    Wo gibt's was? Wo geht was ab? Wo geht's lang?<br>Deine Antworten kannst Du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder Du schicktst Deine Daten als visuellen Augenschmaus mit HighSpeed in den Cortex Deiner User:innen.<br><br>
+    Wo gibt's was? Wo geht was ab? Wo geht's lang?<br>Deine Antworten kannst Du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder Du schicktst Deine Daten als visuellen Candy mit HighSpeed in den Cortex Deiner User:innen.<br><br>
     **TLDR;** Interaktive Karten sind saupraktisch, um Deine Daten sichtbar zu machen. Wir helfen Dir dabei. CTA
 
 
@@ -48,7 +48,7 @@ intro: |
         <div class="limited-box" data-box-width="m">
             <p>
             Unsere Schaltzentrale verarbeitet Bilder 60000 mal schneller als Texte. Informationsdesign setzt genau da an und visualisiert Daten. 
-            Mit interaktiven Karten kannst Du auf einen Blick zeigen, wo Deine Niederlassungs- und Projektstandorte, Deine Eventlocations und Treffpunkte sind. Aber auch wo gerade was passiert oder wo es lang geht. Vielleicht hast Du Forschungsergebnisse, oder Deine Company generiert Daten, die die Welt sehen soll. Viele Daten haben einen Ortsbezug - also rauf mit ihnen auf eine Karte. Mach sie sichtbar und für Deine User:innen schnell und intuitiv erfassbar.
+            Mit interaktiven Karten kannst Du auf einen Blick zeigen, wo Deine Niederlassungs- und Projektstandorte, Deine Eventlocations oder Treffpunkte sind. Aber auch wo gerade was passiert oder wo es lang geht. Vielleicht hast Du Forschungsergebnisse, oder Deine Company generiert Daten, die die Welt sehen soll. Viele Daten haben einen Ortsbezug - also rauf mit ihnen auf eine Karte. Mach sie sichtbar und für Deine User:innen schnell und intuitiv erfassbar.
             </p>
         </div>
     </figcaption>
@@ -56,7 +56,7 @@ intro: |
 
 <ul class="steps smalltext" data-box-width="l">
 <li>Wir setzen uns mit Dir zusammen und entwickeln eine gemeinsame Zielsetzung. Egal ob es um Dein Business geht oder Du vielleicht Dein Forschungsprojekt in Kartendarstellungen packen willst.</li>
-<li>Wir checken welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
+<li>Wir checken, welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
 <li>Wir gehen mit Dir in die Karten- und Datenkonzeption und klären u.a. diese Fragen: Wie soll was aussehen? Was soll gezeigt werden? Wie dynamisch soll das ganze sein? Ist Datenschutz für Dein Projekt ein Thema?</li>
 <li>Wir coden Deine Kartenanwendung und freuen uns Zwischenstände mit Dir anzuschauen und zu besprechen</li>
 <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und erstellen ein Pflegekonzept - falls Du das haben möchtest. Oder  monitoren auf Wunsch den Livebetrieb Deiner Kartenanwendung.</li>
@@ -72,7 +72,7 @@ intro: |
 <div class="limited-box" data-box-width="m">
 <p>
 Google Maps oder Open Street Map sind ziemlich cool, wenn man schnell und ohne großen Aufwand Karten bauen will.
-Wir können Deine Daten darüber leicht abbilden und anzeigen. Und wir haben Einfluss auf die Gestaltung - Farben, Ebenen,
+Wir können Deine Daten darüber leicht abbilden und anzeigen. Und wir haben Einfluss auf die Gestaltung: Farben, Ebenen,
 Kartenausschnitte oder dynamische Elemente können wir so festlegen, wie Deine Anwendung es erfordert.<br>
 Deine Daten können dabei z.B. als simples Excelsheet oder als CSV-Liste vorliegen. Aber vielleicht hast Du auch eine Datenbank, die wir anzapfen können oder eine API, die Deine Daten ausspuckt.
 </p>
