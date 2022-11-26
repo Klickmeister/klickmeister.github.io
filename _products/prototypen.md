@@ -2,14 +2,9 @@
 title: Prototyping
 img: prototyping.jpeg
 linktext: Mehr zu Prototyping
-teasertext: |
-Du hast' ne geile Idee. Nicht nur mal eben im Kreativrausch - Nein, eine Idee mit Potential. Du hast sie nicht für Dich behalten, sondern geteilt und tiefer durchdacht und gemerkt: Das ist nicht nur eine geile Idee. sondern eine richtig gute!
-Du hast eine (Produkt)design. Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig.
-Dann kannst Du jetzt jede Menge Kohle versenken und Dein Team mit der Realisierung beauftragen. 
-Oder wir bauen Dir erstmal einen Prototypen.
-
-
-    Ein Prototyp hilft immer. Nagut, fast immer. Er vermittelt dem Team eine umfassende Vorstellung vom Produkt. Er hilft dabei, Probleme zu finden und iniitiert konkrete Diskussion. Ein Prototyp kann mit Endkunden besprochen und verprobt werden. Er schafft ein gemeinsames Zielbild. Egal ob Pen & Paper, High Fidility oder funktionaler Prototyp, wir helfen gern.
+teasertext:  |
+    Du hast' ne geile Idee. Nicht nur mal eben im Kreativrausch - Nein, eine Idee mit Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: **Das ist nicht nur eine geile Idee, sondern eine richtig gute!**<br>
+    Du hast ein (Produkt)design. Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig. Du kannst jetzt ne Menge Kohle versenken und Dein Team mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.
 ---
 
 
