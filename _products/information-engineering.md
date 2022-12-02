@@ -39,7 +39,7 @@ intro: |
         <figcaption>
             <div class="limited-box" data-box-width="m">
                 <p>Egal ob Shopsystem, Zugriffszahlen oder Bewegungsdaten: immer mehr Menschen erzeugen mit immer mehr Geräten immer mehr Daten.</p>
-                <p>Suchanfragen werden dadurch umfangreicher, langwieriger und komplexer. Durch einen schlauen Einsatz von Interaktionskonzept, Datenaggreation und Suchtechnologie, können wir Suchanfragen beschleunigen, Suchwege vereinfachen und verkürzen. Oft heißt es: wir wollen eine umfassende und intuitive <i>Suche</i>, aber gemeint ist meist: unsere Kunden und Mitarbeiter sollen möglichst einfach und schnell <i>finden</i>. 
+                <p>Suchanfragen werden dadurch umfangreicher, langwieriger und komplexer. Durch einen schlauen Einsatz von Interaktionskonzept, Datenaggreation und Suchtechnologie können wir Suchanfragen beschleunigen, Suchwege vereinfachen und verkürzen. Oft heißt es: wir wollen eine umfassende und intuitive <i>Suche</i>, aber gemeint ist meist: unsere Kunden und Mitarbeiter sollen möglichst einfach und schnell <i>finden</i>. 
                 </p>
             </div>
         </figcaption>
@@ -61,12 +61,12 @@ intro: |
     <div class="smalltext">
         <h3>Leistungen</h3>
         <ul>
-            <li>Beratung bei der Wahl des passenden Kartendienstes</li>
             <li>Datenaufbereitung und -aggregation</li>
             <li>Konzeption und Entwicklung der Schnittstelle entlang des <a href="https://de.wikipedia.org/wiki/Representational_State_Transfer">REST Paradigmas</a></li>
             <li>Dokumentation der Schnittstelle via <a hef="https://www.openapis.org">Open API</a></li>
             <li>Monitoring der Schnittstelle</li>
             <li>Implementierung von Zugriffskonzepten für verschiedene Nutzergruppen</li>
+            <li>Falls erforderlich: Beratung bei der Auswahl der passenden Lizenz</li>
         </ul>
     </div>
 </section>
@@ -81,22 +81,41 @@ intro: |
         <img src="./images/datenpflege-humbuldt-s.jpg" alt="Datenpflege">
         <figcaption>
             <ul>
-                <li>Umsetzung eines individuelle Kartelayouts.</li>
-                <li>Validierung des Kartenmaterials anhand von Algorithmik</li>
-                <li>Flexible und anpassbare Darstellung des eigenen Kartenmaterials in Abhängigkeit von Interaktionen</li>
-                <li>Dynamische Positionierung von Labels</li>
-                <li>Pathfinder - (rerouting, schnellste Route)</li>
-                <li>Kombination verschiedener Karten-Ebenen</li>
-                <li>Rendering/Export von statischen Kartenausschnitten</li>
-                <li>Anbindung Ihrer Livedaten</li>
-                <li>Integration der Kartenlösung in die bestehende Infrastruktur</li>
+                <li>Sichtung und Analyse des Datenmaterials und der zugehörigen Prozesse: woher kommen die Daten, wohin sollen sie, wie oft ändern sich die Daten, usw.</li>
+                <li>Zielsetzung, Datenmodell und ein Pflegekonzept erarbeiten</li>
+                <li>Konzeption und Umsetzung des Pflegeprozesses: Systeme einrichten, ggf. Pflegemasken bauen, etc. </li>
+                <li>Datenmanagement Software konzipieren und konfigurieren oder entwicklen</li>
+                <li>Datenschnittstellen entwicklen</li>
+                <li>Integration des Pflegeprozesses/ -tools in die bestehende Infrastruktur</li>
+                <li>Erstellung von Schulungsmaterial und Schulung der Beteiligten</li>
+                <li>Datenqualität prüfen</li>
             </ul>
         </figcaption>
     </figure>
 </section>
 
+<section id="paragraph_5">
+    <h2>Datenschutz & -sicherheit</h2>
+    <div class="limited-box" data-box-width="m">    
+        <p>Hier hat sich in den letzten Jahren aber mal so richtig was getan. Das Datenschutzrecht hat sich in den letzten Jahren rasant entwickelt. Nach Einführung der europäischen DSGVO (2018) wurde 2021 in Deutschland das Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG 2021) verabschiedet. Aus den darin enthaltenen Rechtsnormen ergeben sich weitreichende Pflichten für Website Betreiber:innen hinsichtlich der Verarbeitung personenbezogener Daten. Dazu zählen nicht nur Cookies, sondern so gut wie alles, was sich auf Personen zurückverfolgen lässt. Ein hübsch komplexes Feld und jede Menge Fallstricke und Anforderungen, auf die beim Umgang mit Daten geachtet werden muss.</p>
+        <p>Aber auch der Schutz von Daten und Schnittstellen ist ein riesen Thema. Datenlecks und Angriffe gehören leider zum Alltag und wer möchte schon als <a href="https://haveibeenpwned.com">gehackt</a> gelabelt werden. Niemand.</p>
+    </div>
+    <div class="smalltext">
+        <h3>Leistungen</h3>
+        <ul>
+            <li>Analyse und Beratung rumd um das Thema Datenschutz</li>
+            <li>Unterstützung bei der rechtskonformen Erhebung, Speicherung und Verwaltung von Daten</li>
+            <li>Sichtung und Beratung in Sachen Datensicherheit</li>
+            <li>Integration von rechtskonformer Cookie Verwaltung Dokumentation</li>
+            <li>Analyse und Tests von bestehenden Systemen in Bezug auf Datensicherheit und Zugriffsschutz</li>  
+        </ul>
+    </div>
+</section>
+
+
+
 <section class="is-light" id="preise">
-    <h2>Preise (<i>aka Hausnummern</i>)  👻</h2>
+    <h2>Preise (<i>aka Hausnummern</i>)  🙀</h2>
     <p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität der Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext, dem Team, der Menge der Daten, der Zugänglichkeit der Datenquellen usw. ab. Trotzdem im Folgenden einige Anhaltspunkte mit wechem Budget sich was machen lässt.</p>
     <div class="grid limited-box" data-box-width="xl" data-col-width="xs" data-col-gap="s">
 
