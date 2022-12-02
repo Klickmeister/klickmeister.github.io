@@ -18,3 +18,15 @@
     color: var(--lightest);
   }
 }
+
+/* Observe
+############################################################################ */
+
+[data-js-observe] {
+  transform: skewY(25deg) scale(0.5) scaleX(0.8);
+  transition: transform var(--tr-slow);
+}
+
+[data-js-observe="in-view"] {
+  transform: skewY(0deg) scaleX(1);
+}

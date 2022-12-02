@@ -113,7 +113,6 @@ intro: |
 </section>
 
 
-
 <section class="is-light" id="preise">
     <h2>Preise (<i>aka Hausnummern</i>)  🙀</h2>
     <p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität der Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext, dem Team, der Menge der Daten, der Zugänglichkeit der Datenquellen usw. ab. Trotzdem im Folgenden einige Anhaltspunkte mit wechem Budget sich was machen lässt.</p>
