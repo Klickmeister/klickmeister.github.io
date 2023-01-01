@@ -47,8 +47,8 @@ intro: |
     <ul class="steps smalltext" data-box-width="l">
         <li>Wir setzen uns mit Dir zusammen, analysieren den Ist-Zustand und entwickeln eine gemeinsame Zielsetzung.</li>
         <li>Wir checken welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
-        <li>Wir gehen mit Dir in Konzeption und klären u.a. diese Fragen: Welche Daten sind relevant? Welche Daten sind welchen Update-Zyklen unterworfen? Wie dynamisch soll die Suche sein? Ist Datenschutz für Dein Projekt ein Thema? Was passiert nach dem Finden?</li>
-        <li>Wir coden Deine Anwendung und freuen uns Zwischenstände mit Dir anzuschauen und zu besprechen</li>
+        <li>Wir gehen mit Dir in die Konzeption und klären u.a. diese Fragen: Welche Daten sind relevant? Welche Daten sind welchen Update-Zyklen unterworfen? Wie dynamisch soll die Suche sein? Ist Datenschutz für Dein Projekt ein Thema? Was passiert nach dem Finden?</li>
+        <li>Wir coden Deine Anwendung und freuen uns Zwischenstände mit Dir anzuschauen, zu besprechen und zu verbessern.</li>
         <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und monitoren auf Wunsch den Livebetrieb Deiner Anwendung.</li>
     </ul>
 </section>
@@ -56,7 +56,7 @@ intro: |
 <section id="paragraph_2">
     <h2>Daten bereitstellen</h2>
     <div class="limited-box" data-box-width="m">    
-        <p>Du hast Daten in Deinem CRM, einer Excelliste oder einer anderen Datenquelle und willst selbige Deinen Kunden, einer anderen Anwendung oder der Öffentlichkeit zur Verfügung stellen? Hier hilft eine API. Wir helfen Dir Deine Daten bereit zu stellen, bauen für Dich eine Schnittstelle entlang des weit verbreitetem REST Paradigmas und sichern die Zugriffe ab. </p>
+        <p>Du hast Daten in Deinem CRM, einer Excelliste oder einer anderen Datenquelle und willst selbige Deinen Kunden, einer anderen Anwendung oder der Öffentlichkeit zur Verfügung stellen? Hier hilft eine API. Wir helfen Dir Deine Daten bereit zu stellen, bauen für Dich eine Schnittstelle entlang des weit verbreiteten REST Paradigmas und sichern die Zugriffe ab. </p>
     </div>
     <div class="smalltext">
         <h3>Leistungen</h3>
@@ -92,6 +92,24 @@ intro: |
             </ul>
         </figcaption>
     </figure>
+</section>
+
+<section id="paragraph_4">
+    <h2>Daten visualisieren: ein Bild sagt mehr als 1000 Worte.</h2>
+    <div class="limited-box" data-box-width="m">    
+        <p>Egal ob Diagramm, Graph, Karte oder Dashboard: eine gute Datenvisualisierung hilft immer, komplexe Datensätze zu analysieren, zu verstehen und sie zu kommunizieren. Sie zeigt Muster, Trends und Beziehungen in den Daten und man entdeckt Sachverhalte und Korrelationen, die einem sonst entgangen wären. Sie erleichtert und beschleunigt das Verständnis von Daten und damit auch Entscheidungsprozesse. Yeah!
+        </p>
+    </div>
+    <div class="smalltext">
+        <h3>Leistungen</h3>
+        <ul>
+            <li>Analyse der Daten: Welche Daten liegen vor? Was soll/ kann gezeigt werden? Reichen die Daten dafür aus? Müssen sie ggf. ergänzt oder aggregiert werden?</li>
+            <li>Datenaufbereitung: für die Visualisierung müssen die Daten oft aufbereitet und bereinigt werden: Entfernen von ungültigen oder fehlerhaften Daten, Aggregieren von Daten oder das Erstellen von neuen Variablen .</li>
+            <li>Gestaltung der Visualisierung</li>
+            <li>Integration von Interaktivität: wie sollen die Daten erkundet werden? Gibt es Filter, Zoomen oder andere interaktive Funktionen?</li>
+            <li>Pflege und Aktualisierung der Daten</li>
+        </ul>
+    </div>
 </section>
 
 <section id="paragraph_5">
@@ -155,30 +173,3 @@ intro: |
     action-text = "Was? So teuer?" %}
     </div>
 </section>
-
-Szenario: Kunde will seine regelmäßig erhobenen Daten in Form einer API zur Verfügung stellen und ggf. später monetarisieren.
-
-Teaser: 
-
-Leiststungen:
-
-- Konzeption der API im Sinne des REST Paradigmas
-- Entwicklung und Dokumentation der Schnittstelle
-- Einrichten einer skallierbaren Serverumgebung und Bereitstellung der API
-
-### Datenmodellierung/Visualisierung
-
-Szenario: Kunde hat komplexe Datensätze und möchte diese mithilfe unterschiedlicher (interaktiver) Visualisierungen verständlich darstellen.
-
-Teaser: 
-
-Leiststungen:
-
-- Datenschutzkonforme Verarbeitung und Auswertung der Datensätze
-- Konzeption verschiedener Möglichkeiten der Visualisierung/Modellierung
-- Im Falle einer interaktiven Visualisierung: Design der Interaktionsmöglichkeiten und Usability Testing
-- Umsetzung der Visualisierung/Modellierung
-
-
-
-<!-- more -->
