@@ -21,12 +21,13 @@ intro: |
         <li><a href="#mit-highspeed-ins-grosshirn">Sprunganker</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
-        <strong>Keywords:</strong>
-
-    #Prototyp
-    #Lifehack
-    #Test
-</div>
+        <h2>Keywords</h2>
+        <ul>
+            <li>Prototyp</li>
+            <li>Lifehack</li>
+            <li>Test</li>
+        </ul>
+    </div>
 </section>
 
 <section id="mit-highspeed-ins-grosshirn">

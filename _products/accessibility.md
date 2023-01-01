@@ -18,18 +18,20 @@ intro: |
         <li><a href="#paragraph_5">Datenschutz & -sicherheit</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
-        <strong>Keywords:</strong>
-
-    #API
-    #Datenvisualisierung
-    #Suche
-    #Elastic Search
-    #Datenstrukturen
-    #Performance
-    #Datensicherheit
-    #Datenschutz
-    #DSGVO
-    #Swagger
+        <h2>Keywords</h2>
+        <ul>
+            <li>API</li>
+            <li>Datenvisualisierung</li>
+            <li>Suche</li>
+            <li>Elastic Search</li>
+            <li>Datenstrukturen</li>
+            <li>Performance</li>
+            <li>Datensicherheit</li>
+            <li>Datenschutz</li>
+            <li>DSGVO</li>
+           <li>Swagger</li>
+        </ul>
+    </div>
 </div>
 </section>
 <section id="paragraph_1">

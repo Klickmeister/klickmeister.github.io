@@ -20,24 +20,20 @@ intro: |
         <li><a href="#preise">Preise aka Hausnummern</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
-        <strong>Keywords:</strong>
-
-    #Interaktive Karten
-    #dynamische Karten
-    #Informationsdesign
-    #Echzeitdaten
-    #Livedaten 
-    #Datenvisualisierung mit Karten
-    #Kartendienste
-    #Geodaten
-    #Standorte
-    #interaktive Landkarte
-    #Integration in Website
-    #intuitiv
-    #Webdesign
-    #Website
-
-</div>
+        <h2>Keywords:</h2>
+        <ul>
+            <li>interaktive Karten</li>
+            <li>dynamische Karten</li>
+            <li>Informationsdesign</li>
+            <li>Echzeitdaten</li>
+            <li>Livedaten </li>
+            <li>Datenvisualisierung mit Karten</li>
+            <li>Kartendienste</li>
+            <li>Geodaten</li>
+            <li>Standorte</li>
+            <li>interaktive Landkarte</li>
+        </ul>
+    </div>
 </section>
 <section id="mit-highspeed-ins-grosshirn">
     <h2>Mit HighSpeed ins Großhirn</h2>
