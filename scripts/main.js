@@ -1,6 +1,6 @@
 const observeElements = () => {
 
-  const elementsToBeObserved = document.querySelectorAll('section ');
+  const elementsToBeObserved = document.querySelectorAll('.is-screwed');
   elementsToBeObserved.forEach((element) => element.dataset.jsObserve = '');
 
   const observerOptions = {
