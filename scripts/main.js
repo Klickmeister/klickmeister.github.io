@@ -6,7 +6,7 @@ const observeElements = () => {
   const observerOptions = {
     root: null,
     rootMargin: '0px',
-    threshold: 0.3,
+    threshold: 0.5,
   };
 
   const observerCallback = (entries) => {
@@ -15,7 +15,7 @@ const observeElements = () => {
       if (entry.isIntersecting) {
         target.dataset.jsObserve = 'in-view';
       } else {
-        target.dataset.jsObserve = '';
+        // target.dataset.jsObserve = '';
       }
     });
   };
