@@ -119,6 +119,36 @@ Deine Daten können dabei z.B. als simples Excelsheet oder als CSV-Liste vorlieg
 
 </section>
 
+<section id="paragraph_3">
+
+<h2>Richtig geiles Zeug: Individuelle Kartenlösungen</h2>
+
+<div class="limited-box" data-box-width="m">
+Standardlösungen sind cool. aber manchmal reichen die Möglichkeiten  von  Google Maps oder Open Street Map, nicht aus.
+Indoorkarten sind so eine Fall - oder sehr stark abstrahierte Karten.
+Dann zaubern wir für Dich eine exklusive Individuallösung im invidiuellem Kartenlayot und
+selbstgecodetem Technologieansatz. Nur für Dich!
+</div>
+
+<figure data-columns="2" class="smalltext">
+    <img src="./images/stoerungskarte.jpg" alt="Interaktive und individuelle Karten">
+    <figcaption>
+        <ul>
+            <li>Umsetzung eines individuelle Kartenlayouts.</li>
+            <li>Validierung des Kartenmaterials anhand von Algorithmik</li>
+            <li>Flexible und anpassbare Darstellung des eigenen Kartenmaterials in Abhängigkeit von Interaktionen</li>
+            <li>Dynamische Positionierung von Labels</li>
+            <li>Pathfinder - (Rerouting, schnellste Route)</li>
+            <li>Kombination verschiedener Karten-Ebenen</li>
+            <li>Rendering/Export von statischen Kartenausschnitten</li>
+            <li>Anbindung Ihrer Livedaten</li>
+            <li>Integration der Kartenlösung in die bestehende Infrastruktur</li>
+        </ul>
+    </figcaption>
+</figure>
+
+</section>
+
 <section class="is-light" id="preise">
     <h2>Preise (<i>aka Hausnummern</i>)  👻</h2>
     <p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität von Interaktion und Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext usw. Trotzdem im Folgenden einige Anhaltspunkte mit wechem Budget sich was machen lässt</p>
