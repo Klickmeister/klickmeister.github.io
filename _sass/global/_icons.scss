@@ -10,6 +10,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-style: normal;
+  font-variation-settings:
+    "FILL" 0,
+    "wght" 200,
+    "GRAD" -25,
+    "opsz" 48;
   font-weight: normal;
   letter-spacing: normal;
   line-height: inherit;

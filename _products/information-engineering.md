@@ -11,95 +11,129 @@ intro: |
 
 <section id="topic-list">
     <ul class="toc">
-        <li><a href="#paragraph_1">Mit HighSpeed ins Großhirn</a></li>
-        <li><a href="#paragraph_2">Simple shit: Interaktive Karten mit Google&Co</a></li>
-        <li><a href="#paragraph_3">Richtig geiles Zeug: Individuelle Kartenlösungen</a></li>
-        <li><a href="#paragraph_4">Preise aka Hausnummern</a></li>
+        <li><a href="#paragraph_1">Datenmengen durchsuchen</a></li>
+        <li><a href="#paragraph_2">Daten bereitstellen</a></li>
+        <li><a href="#paragraph_3">Daten erfassen</a></li>
+        <li><a href="#paragraph_4">Daten visualisieren</a></li>
+        <li><a href="#paragraph_5">Datenschutz & -sicherheit</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
-        <strong>Keywords:</strong>
-
-    #API
-    #Datenvisualisierung
-    #Suche
-    #Elastic Search
-    #Datenstrukturen
-    #Performance
-    #Datensicherheit
-    #Datenschutz
-    #DSGVO
-    #Swagger
-</div>
+        <h2>Keywords</h2>
+        <ul>
+            <li>API</li>
+            <li>Datenvisualisierung</li>
+            <li>Suche</li>
+            <li>Elastic Search</li>
+            <li>Datenstrukturen</li>
+            <li>Performance</li>
+            <li>Datensicherheit</li>
+            <li>Datenschutz</li>
+            <li>DSGVO</li>
+           <li>Swagger</li>
+        </ul>
+    </div>
 </section>
-<section id="mit-highspeed-ins-grosshirn">
-    <h2>Mit HighSpeed ins Großhirn</h2>
+<section id="paragraph_1">
+    <h2>Datenmengen durchsuchen</h2>
     <figure data-columns="2" class="smaltext">
-        <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
+        <img data-height="full" src="./images/daten-erco-1-s.jpg" alt="ERCO Product Finder">
         <figcaption>
             <div class="limited-box" data-box-width="m">
-                <p>
-                Unsere Schaltzentrale verarbeitet Bilder 60000 mal schneller als Texte. Informationsdesign setzt genau da an und visualisiert Daten. 
-                Mit interaktiven Karten kannst Du auf einen Blick zeigen, wo Deine Niederlassungs- und Projektstandorte, Deine Eventlocations und Treffpunkte sind. Aber auch wo gerade was passiert oder wo es lang geht. Vielleicht hast Du Forschungsergebnisse, oder Deine Company generiert Daten, die die Welt sehen soll. Viele Daten haben einen Ortsbezug - also rauf mit ihnen auf eine Karte. Mach sie sichtbar und für Deine User:innen schnell und intuitiv erfassbar.
+                <p>Egal ob Shopsystem, Zugriffszahlen oder Bewegungsdaten: immer mehr Menschen erzeugen mit immer mehr Geräten immer mehr Daten.</p>
+                <p>Suchanfragen werden dadurch umfangreicher, langwieriger und komplexer. Durch einen schlauen Einsatz von Interaktionskonzept, Datenaggreation und Suchtechnologie können wir Suchanfragen beschleunigen, Suchwege vereinfachen und verkürzen. Oft heißt es: wir wollen eine umfassende und intuitive <i>Suche</i>, aber gemeint ist meist: unsere Kunden und Mitarbeiter sollen möglichst einfach und schnell <i>finden</i>. 
                 </p>
             </div>
         </figcaption>
     </figure>
     <ul class="steps smalltext" data-box-width="l">
-        <li>Wir setzen uns mit Dir zusammen und entwickeln eine gemeinsame Zielsetzung. Egal ob es um Dein Business geht oder Du vielleicht Dein Forschungsprojekt in Kartendarstellungen packen willst.</li>
+        <li>Wir setzen uns mit Dir zusammen, analysieren den Ist-Zustand und entwickeln eine gemeinsame Zielsetzung.</li>
         <li>Wir checken welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
-        <li>Wir gehen mit Dir in die Karten- und Datenkonzeption und klären u.a. diese Fragen: Wie soll was aussehen? Was soll gezeigt werden? Wie dynamisch soll das ganze sein? Ist Datenschutz für Dein Projekt ein Thema?</li>
-        <li>Wir coden Deine Kartenanwendung und freuen uns Zwischenstände mit Dir anzuschauen und zu besprechen</li>
-        <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und erstellen ein Pflegekonzept - falls Du das haben möchtest. Oder  monitoren auf Wunsch den Livebetrieb Deiner Kartenanwendung.</li>
+        <li>Wir gehen mit Dir in die Konzeption und klären u.a. diese Fragen: Welche Daten sind relevant? Welche Daten sind welchen Update-Zyklen unterworfen? Wie dynamisch soll die Suche sein? Ist Datenschutz für Dein Projekt ein Thema? Was passiert nach dem Finden?</li>
+        <li>Wir coden Deine Anwendung und freuen uns Zwischenstände mit Dir anzuschauen, zu besprechen und zu verbessern.</li>
+        <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und monitoren auf Wunsch den Livebetrieb Deiner Anwendung.</li>
     </ul>
 </section>
 
-<section id="interaktive-karten">
-    <h2>Simple shit: Interaktive Karten mit Google&Co</h2>
-        <div class="limited-box" data-box-width="m">    
-            <p>Google Maps oder Open Street Map sind ziemlich cool, wenn man schnell und ohne großen Aufwand Karten bauen will. Wir können Deine Daten darüber leicht abbilden und anzeigen. Und wir haben Einfluss auf die Gestaltung - Farben, Ebenen, Kartenausschnitte oder dynamische Elemente können wir so festlegen, wie Deine Anwendung es erfordert.<br>
-            Deine Daten können dabei z.B. als simples Excelsheet oder als CSV-Liste vorliegen. Aber vielleicht hast Du auch eine Datenbank, die wir anzapfen können oder eine API, die Deine Daten ausspuckt.</p>
-        </div>
-        <figure data-columns="2" class="smalltext">
-            <img src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
-        <figcaption>
-            <h3>Leistungen</h3>
-            <ul>
-                <li>Beratung bei der Wahl des passenden Kartendienstes</li>
-                <li>Datenaufbereitung</li>
-                <li>POI (Points of Interest: Marker, Geometrie) in Karten einzeichen</li>
-                <li>Kartenausschnitt aufgrund des Standortes der User anpassen</li>
-                <li>Designanpassungen</li>
-                <li>Integration des Kartenservices in die bestehende Infrastruktur</li>
-                <li>Interaktionsmöglichkeiten (z.B. Anzeige von zusätzlichen Ebenen)</li>
-            </ul>
-        </figcaption>
-    </figure>
+<section id="paragraph_2">
+    <h2>Daten bereitstellen</h2>
+    <div class="limited-box" data-box-width="m">    
+        <p>Du hast Daten in Deinem CRM, einer Excelliste oder einer anderen Datenquelle und willst selbige Deinen Kunden, einer anderen Anwendung oder der Öffentlichkeit zur Verfügung stellen? Hier hilft eine API. Wir helfen Dir Deine Daten bereit zu stellen, bauen für Dich eine Schnittstelle entlang des weit verbreiteten REST Paradigmas und sichern die Zugriffe ab. </p>
+    </div>
+    <div class="smalltext">
+        <h3>Leistungen</h3>
+        <ul>
+            <li>Datenaufbereitung und -aggregation</li>
+            <li>Konzeption und Entwicklung der Schnittstelle entlang des <a href="https://de.wikipedia.org/wiki/Representational_State_Transfer">REST Paradigmas</a></li>
+            <li>Dokumentation der Schnittstelle via <a hef="https://www.openapis.org">Open API</a></li>
+            <li>Monitoring der Schnittstelle</li>
+            <li>Implementierung von Zugriffskonzepten für verschiedene Nutzergruppen</li>
+            <li>Falls erforderlich: Beratung bei der Auswahl der passenden Lizenz</li>
+        </ul>
+    </div>
 </section>
 
-<section id="individuelle-karten">
-    <h2>Richtig geiles Zeug: Individuelle Kartenlösungen</h2>
-    <div class="limited-box" data-box-width="m">Standardlösungen sind cool. aber manchmal reichen die Möglichkeiten  von  Google Maps oder Open Street Map, nicht aus. Indoorkarten sind so eine Fall - oder sehr stark abstrahierte Karten. Dann zaubern wir für Dich eine exklusive Individuallösung im invidiuellem Kartenlayot und selbstgecodetem Technologieansatz. Nur für Dich!
+<section id="paragraph_3">
+    <h2>Daten erfassen und pflegen</h2>
+    <div class="limited-box" data-box-width="m">
+        <p>Datenpflege macht keinen großen Spaß. Ja, das stimmt. Und wir wollen auch nicht behaupten, dass die Pflege mit Interfaces und Tools von uns Spaß macht. Das wäre vermutlich etwas übertrieben, denn hier ist es so wie Stromberg schon sagte «Arbeit macht Arbeit, darum heißt sie ja so.». Datenpflege macht Arbeit. Aber mit den richtigen Tools und Interfaces fällt es dann häufig doch etwas leichter, geht schneller und die Datenqualität ist im Endeffekt besser, egal ob es um die Pflege von Produkt-, Kunden- oder Forschungsdaten geht. 
+        </p>
     </div>
     <figure data-columns="2" class="smalltext">
-        <img src="./images/stoerungskarte.jpg" alt="Interaktive und individuelle Karten">
+        <img src="./images/datenpflege-humbuldt-s.jpg" alt="Datenpflege">
         <figcaption>
             <ul>
-                <li>Umsetzung eines individuelle Kartelayouts.</li>
-                <li>Validierung des Kartenmaterials anhand von Algorithmik</li>
-                <li>Flexible und anpassbare Darstellung des eigenen Kartenmaterials in Abhängigkeit von Interaktionen</li>
-                <li>Dynamische Positionierung von Labels</li>
-                <li>Pathfinder - (rerouting, schnellste Route)</li>
-                <li>Kombination verschiedener Karten-Ebenen</li>
-                <li>Rendering/Export von statischen Kartenausschnitten</li>
-                <li>Anbindung Ihrer Livedaten</li>
-                <li>Integration der Kartenlösung in die bestehende Infrastruktur</li>
+                <li>Sichtung und Analyse des Datenmaterials und der zugehörigen Prozesse: woher kommen die Daten, wohin sollen sie, wie oft ändern sich die Daten, usw.</li>
+                <li>Zielsetzung, Datenmodell und ein Pflegekonzept erarbeiten</li>
+                <li>Konzeption und Umsetzung des Pflegeprozesses: Systeme einrichten, ggf. Pflegemasken bauen, etc. </li>
+                <li>Datenmanagement Software konzipieren und konfigurieren oder entwicklen</li>
+                <li>Datenschnittstellen entwicklen</li>
+                <li>Integration des Pflegeprozesses/ -tools in die bestehende Infrastruktur</li>
+                <li>Erstellung von Schulungsmaterial und Schulung der Beteiligten</li>
+                <li>Datenqualität prüfen</li>
             </ul>
         </figcaption>
     </figure>
 </section>
 
+<section id="paragraph_4">
+    <h2>Daten visualisieren: ein Bild sagt mehr als 1000 Worte.</h2>
+    <div class="limited-box" data-box-width="m">    
+        <p>Egal ob Diagramm, Graph, Karte oder Dashboard: eine gute Datenvisualisierung hilft immer, komplexe Datensätze zu analysieren, zu verstehen und sie zu kommunizieren. Sie zeigt Muster, Trends und Beziehungen in den Daten und man entdeckt Sachverhalte und Korrelationen, die einem sonst entgangen wären. Sie erleichtert und beschleunigt das Verständnis von Daten und damit auch Entscheidungsprozesse. Yeah!
+        </p>
+    </div>
+    <div class="smalltext">
+        <h3>Leistungen</h3>
+        <ul>
+            <li>Analyse der Daten: Welche Daten liegen vor? Was soll/ kann gezeigt werden? Reichen die Daten dafür aus? Müssen sie ggf. ergänzt oder aggregiert werden?</li>
+            <li>Datenaufbereitung: für die Visualisierung müssen die Daten oft aufbereitet und bereinigt werden: Entfernen von ungültigen oder fehlerhaften Daten, Aggregieren von Daten oder das Erstellen von neuen Variablen .</li>
+            <li>Gestaltung der Visualisierung</li>
+            <li>Integration von Interaktivität: wie sollen die Daten erkundet werden? Gibt es Filter, Zoomen oder andere interaktive Funktionen?</li>
+            <li>Pflege und Aktualisierung der Daten</li>
+        </ul>
+    </div>
+</section>
+
+<section id="paragraph_5">
+    <h2>Datenschutz & -sicherheit</h2>
+    <div class="limited-box" data-box-width="m">    
+        <p>Hier hat sich in den letzten Jahren aber mal so richtig was getan. Das Datenschutzrecht hat sich in den letzten Jahren rasant entwickelt. Nach Einführung der europäischen DSGVO (2018) wurde 2021 in Deutschland das Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG 2021) verabschiedet. Aus den darin enthaltenen Rechtsnormen ergeben sich weitreichende Pflichten für Website Betreiber:innen hinsichtlich der Verarbeitung personenbezogener Daten. Dazu zählen nicht nur Cookies, sondern so gut wie alles, was sich auf Personen zurückverfolgen lässt. Ein hübsch komplexes Feld und jede Menge Fallstricke und Anforderungen, auf die beim Umgang mit Daten geachtet werden muss.</p>
+        <p>Aber auch der Schutz von Daten und Schnittstellen ist ein riesen Thema. Datenlecks und Angriffe gehören leider zum Alltag und wer möchte schon als <a href="https://haveibeenpwned.com">gehackt</a> gelabelt werden. Niemand.</p>
+    </div>
+    <div class="smalltext">
+        <h3>Leistungen</h3>
+        <ul>
+            <li>Analyse und Beratung rumd um das Thema Datenschutz</li>
+            <li>Unterstützung bei der rechtskonformen Erhebung, Speicherung und Verwaltung von Daten</li>
+            <li>Sichtung und Beratung in Sachen Datensicherheit</li>
+            <li>Integration von rechtskonformer Cookie Verwaltung Dokumentation</li>
+            <li>Analyse und Tests von bestehenden Systemen in Bezug auf Datensicherheit und Zugriffsschutz</li>  
+        </ul>
+    </div>
+</section>
+
+
 <section class="is-light" id="preise">
-    <h2>Preise (<i>aka Hausnummern</i>)  👻</h2>
+    <h2>Preise (<i>aka Hausnummern</i>)  🙀</h2>
     <p class="limited-box" data-box-width="m">Bei Festpreisen werden wir immer ein bisschen nervös, denn der resulierende Aufwand hängt letztendlich von einigen Faktoren ab, z.B. Komplexität der Daten, erforderliche Freigabeprozesse, Komplexität der Integration in den Website Kontext, dem Team, der Menge der Daten, der Zugänglichkeit der Datenquellen usw. ab. Trotzdem im Folgenden einige Anhaltspunkte mit wechem Budget sich was machen lässt.</p>
     <div class="grid limited-box" data-box-width="xl" data-col-width="xs" data-col-gap="s">
 
@@ -127,7 +161,7 @@ intro: |
 
 {% include preispaket.html 
     headline="Komplexe, interaktive Datenvisualisierung" 
-    text="Du willst Daten verständlich, interessant und interaktiv visualisieren?"
+    text="Du willst dynamische Daten verständlich, interessant, informativ und interaktiv visualisieren?"
     price="ab 4000€"
     action-url="asasass" 
     action-text = "Oha" %}
@@ -140,30 +174,3 @@ intro: |
     action-text = "Was? So teuer?" %}
     </div>
 </section>
-
-Szenario: Kunde will seine regelmäßig erhobenen Daten in Form einer API zur Verfügung stellen und ggf. später monetarisieren.
-
-Teaser: 
-
-Leiststungen:
-
-- Konzeption der API im Sinne des REST Paradigmas
-- Entwicklung und Dokumentation der Schnittstelle
-- Einrichten einer skallierbaren Serverumgebung und Bereitstellung der API
-
-### Datenmodellierung/Visualisierung
-
-Szenario: Kunde hat komplexe Datensätze und möchte diese mithilfe unterschiedlicher (interaktiver) Visualisierungen verständlich darstellen.
-
-Teaser: 
-
-Leiststungen:
-
-- Datenschutzkonforme Verarbeitung und Auswertung der Datensätze
-- Konzeption verschiedener Möglichkeiten der Visualisierung/Modellierung
-- Im Falle einer interaktiven Visualisierung: Design der Interaktionsmöglichkeiten und Usability Testing
-- Umsetzung der Visualisierung/Modellierung
-
-
-
-<!-- more -->

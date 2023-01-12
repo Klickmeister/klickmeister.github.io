@@ -1,0 +1,29 @@
+// Keywordlist
+// ------------------------------------------------------------------------- //
+
+.keywordlist {
+  display: flex;
+
+  h2 {
+    font-size: var(--s);
+    line-height: var(--lh-default);
+
+    &::after {
+      padding-right: var(--quarter);
+      content: ":";
+    }
+  }
+
+  ul {
+    padding-left: 0;
+
+    li {
+      display: inline-block;
+
+      &::before {
+        color: var(--decoration-color);
+        content: "#";
+      }
+    }
+  }
+}

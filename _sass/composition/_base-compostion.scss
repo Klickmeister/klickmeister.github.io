@@ -102,6 +102,14 @@ section,
 /* Box Widths & heights
 ############################################################################ */
 
+[data-box-width="s"] {
+  max-width: var(--max-width-content-s);
+}
+
+[data-box-width="m"] {
+  max-width: var(--max-width-content-m);
+}
+
 [data-box-width="l"] {
   max-width: var(--max-width-content-l);
 }

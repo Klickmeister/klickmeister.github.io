@@ -1,9 +1,12 @@
 {
   "editor.codeActionsOnSave": {
-      "source.fixAll.stylelint": true
+      "source.fixAll.stylelint": true,
+      "source.fixAll.eslint": true
   },
   "stylelint.enable": true,
   "stylelint.validate": [
     "scss"
-  ]
+  ],
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
 }

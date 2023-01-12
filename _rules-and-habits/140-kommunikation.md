@@ -3,7 +3,7 @@ title: Kommunikation
 ---
 
 #### E-Mails
-Wir brauchen uns in der Regel nicht großartig nach allen Seiten absichern. Dies ist ein Grund mehr, E-Mail Verteiler möglichst klein zu halten. Dann bekommen wir auch selber weniger Mails. Wenn wir E-Mails verfassen ist die Tonalität freundlich, professionell aber nicht förmlich, entspannt, prägnant und verständlich. Bei komplexen Themen ist es sehr hilfreich sein Gegenüber, oder die wichtigsten Adressaten vorab telefonisch vorzuwarnen oder abzuholen, gerade wenn die Mail an mehrere Leute geht. Wir verwenden **KEINE VERSALIEN** im Betreff!
+Wir brauchen uns in der Regel nicht großartig nach allen Seiten absichern. Dies ist ein Grund mehr, E-Mail Verteiler möglichst klein zu halten. Dann bekommen wir auch selber weniger Mails. Wenn wir E-Mails verfassen ist die Tonalität freundlich, professionell aber nicht förmlich, entspannt, prägnant und verständlich. Bei komplexen Themen ist es sehr hilfreich sein Gegenüber, oder die wichtigsten Adressaten vorab telefonisch vorzuwarnen oder abzuholen, gerade wenn die Mail an mehrere Leute geht. Wir verwenden keine Versalien im Betreff! **Niemals!**
 
 
 #### Sprechen hilft
