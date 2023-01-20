@@ -4,21 +4,21 @@ img: prototyping.jpeg
 layout: product
 linktext: Mehr zu Prototyping
 teasertext:  |
-    Du hast' ne geile Idee? Nicht nur mal eben im Kreativrausch - nein, eine Idee mit fettem Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: Das ist nicht nur eine geile Idee, sondern eine richtig gute!<br>
-    Du hast ein (Produkt)design. Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig. Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.
+    «Du hast' ne geile Idee?» Nicht nur mal eben im Kreativrausch - nein, eine Idee mit fettem Potential.<br>
+    «Du hast ein (Produkt)design?» Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig. Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.
 
 intro: |
-    Du hast' ne geile Idee? Nicht nur mal eben im Kreativrausch - nein, eine Idee mit **fettem** Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: **Das ist nicht nur eine geile Idee, sondern eine richtig gute!**<br>
-    Du hast ein (Produkt)design. Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig. Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.<br>
-    **TLDR;** Prototypen sind budgetschützende Lifehacks. CTA
-
+    «Du hast' ne geile Idee?» Nicht nur mal eben im Kreativrausch - nein, eine Idee mit **fettem** Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: **Das ist nicht nur eine geile Idee, sondern eine richtig gute!**<br>
+    «Du hast ein (Produkt)design?» Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig.<br>Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.<br>
+    **TLDR;** Prototypen sind budgetschützende Lifehacks.
 
 ---
 
 
 <section id="topic-list">
     <ul class="toc">
-        <li><a href="#mit-highspeed-ins-grosshirn">Sprunganker</a></li>
+        <li><a href="#paragraph_1">Prototyp versus Luftschloss-Bubble</a></li>
+        <li><a href="#paragraph_2">Preise aka Hausnummern</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
 
@@ -34,7 +34,7 @@ intro: |
 
 </section>
 
-<section id="mit-highspeed-ins-grosshirn">
+<section id="paragraph_1">
     <h2>Prototyp versus Luftschloss-Bubble</h2>
     <figure data-columns="2" class="smaltext">
         <img data-height="full" src="./images/erco-karten.jpg" alt="XXXXX">
@@ -57,7 +57,7 @@ intro: |
     </ul>
 </section>
 
-<section class="is-light">
+<section class="is-light" id="paragraph_2">
 
 <h2>Preise</h2>
 
