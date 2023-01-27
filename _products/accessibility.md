@@ -46,7 +46,7 @@ intro: |
         <figcaption>
             <div class="limited-box" data-box-width="m">
             <p><strong>Wie so oft: vorher schon an nachher denken. Zugänglichkeit ist kein Add-On, dass sich im Nachgang implementieren lässt, sondern eine Entscheidung und integraler Bestandteil der Konzeption. Folgende Bausteine spielen dabei ein wichtige Rolle:</strong></p>
-            <p><strong>Inhaltliche Struktur:</strong> Jeder Nutzer profitiert von einer verständlich Website oder Web-App um schnell die Information oder Funktion zu finden die gesucht wird … auch ohne visuelle Darstellung.</p>
+            <p><strong>Inhaltliche Struktur:</strong> Jeder Nutzer profitiert von einer verständlich Website oder Web-App, um schnell die Information oder Funktion zu finden die gesucht wird … auch ohne visuelle Darstellung.</p>
             <p><strong>Tastaturbedienbarkeit:</strong> Alle Elemente die man anklicken kann sollten auch mit der Tastatur bedienbar sein und es sollte keine Tastaturfallen geben aus denen man nicht wieder rauskommt, wie Pop-up-Fenster, die sich nicht ohne Maus schließen lassen.</p>
             <p><strong>Textalternativen:</strong> Elemente die rein mit Bildern oder Icons beschrieben werden sollten alle eine Alternative in Textform besitzen, den wenn die Bilder oder Icons nicht geladen oder angezeigt werden können gehen wichtige Informationen schnell verloren. Auch die Suchmaschine braucht Alternativtexte für visuelle Inhalte.</p>
             <p><strong>Verständlichkeit:</strong> Jeder Nutzer profitiert von klaren und verständlichen Inhalten.</p>
@@ -55,11 +55,15 @@ intro: |
         </figcaption>
     </figure>
     <ul class="steps smalltext" data-box-width="l">
-        <li>Wir setzen uns mit Dir zusammen, analysieren den Ist-Zustand und entwickeln eine gemeinsame Zielsetzung.</li>
-        <li>Wir checken welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
-        <li>Wir gehen mit Dir in die Konzeption und klären u.a. diese Fragen: Welche Daten sind relevant? Welche Daten sind welchen Update-Zyklen unterworfen? Wie dynamisch soll die Suche sein? Ist Datenschutz für Dein Projekt ein Thema? Was passiert nach dem Finden?</li>
+        <li>Wir setzen uns mit Dir zusammen, analysieren den Ist-Zustand und entwickeln eine gemeinsame Zielsetzung. Wir beraten Dich dabei, welche Maßnahmen notwendig sind, um Deine Website oder -Anwendung für alle Nutzer:innen zugänglich zu machen.</li>
+        <li>Nach der Analyse erarbeiten wir gemeinsam ein Konzept für Deine barrierearme Website. Wir beraten Dich dabei, welche Elemente wichtig sind, um Deine Website oder -Anwendung für Menschen mit Beeinträchtigungen zugänglich zu machen. Wir achten dabei auf die Verwendung von klaren und einfachen Sprache, eine gute Strukturierung der Inhalte und eine gut sichtbare Navigation.</li>
+        <li>Wir gestalten Deine Website und achten darauf, dass die Optik und die Navigation für alle Nutzer:innen verständlich und gut bedienbar sind. Wir verwenden hierbei z.B. Farben und Schriftarten, die gut lesbar sind und legen Wert auf eine gute Kontrastwirkung.</li>
         <li>Wir coden Deine Anwendung und freuen uns Zwischenstände mit Dir anzuschauen, zu besprechen und zu verbessern.</li>
-        <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und monitoren auf Wunsch den Livebetrieb Deiner Anwendung.</li>
+        <li>Zum Schluss testen wir Deine Website oder -Anwendung gemeinsam auf Barrierearmut. Wir prüfen, ob die Inhalte für alle Nutzer:innen verständlich sind und ob die Navigation gut funktioniert. Sollten wir hier noch Optimierungsbedarf feststellen, werden wir diesen gemeinsam mit Dir angehen.
+
+
+
+</li>
     </ul>
 </section>
 
