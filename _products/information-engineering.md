@@ -4,9 +4,9 @@ img: prototyping.jpeg
 linktext: Mehr zu Information Engineering
 layout: product
 teasertext: |
-    «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am Besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten bei der datenschutzkonformen Verarbeitung und Auswertung von Daten, der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung und vieles mehr.
+    «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Deinen Daten Informationen? Wir helfen und beraten bei der datenschutzkonformen Verarbeitung und Auswertung von Daten, der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung und vieles mehr.
 intro: |
-    «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am Besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten bei der datenschutzkonformen Verarbeitung und Auswertung von Daten, der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten.
+    «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am Besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
 ---
 
 <section id="topic-list">

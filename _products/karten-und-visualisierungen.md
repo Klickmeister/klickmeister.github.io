@@ -4,20 +4,20 @@ img: prototyping.jpeg
 linktext: Mehr zu Karten und Visualisierungen
 layout: product
 teasertext: |
-    Wo ist was? Wo geht was ab? Was gibt es Veränderungen? Interaktive Kartendarstellungen sind interessant und hilfreich und vorallem schnell und intuitiv erfassbar. Komplexe Daten und Sachverhalte werden über die Visualisierung greibar. Egal, ob Sie sich für eine flexible Darstellung von eigenem Kartenmaterial oder die Anreicherung von öffentlichen Karten mit Ihren unternehmens-spezifische Datenpunkte entscheiden: Wir helfen gerne Ihre Daten sicht- und erfahrbar zu machen.
+    «Wo ist was? Wo geht was ab?» Interaktive Kartendarstellungen erzeugen Aufmerksamkeit, sind hilfreich und vor allem schnell und intuitiv erfassbar. Komplexe Sachverhalte werden über die Visualisierung greibar. Egal, ob Du Dich für eine dynamische Darstellung von eigenem Kartenmaterial oder die Anreicherung von öffentlichen Karten mit Deinen Datenpunkten entscheidest: Wir helfen Dir Deine Daten sicht- und erfahrbar zu machen. 
 intro: |
-    Wo gibt's was? Wo geht was ab? Wo geht's lang?<br>Deine Antworten kannst Du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder Du schicktst Deine Daten als visuellen Candy mit HighSpeed in den Cortex Deiner User:innen.<br><br>
-    **TLDR;** Interaktive Karten sind saupraktisch, um Deine Daten sichtbar zu machen. Wir helfen Dir dabei. CTA
+    «Wo gibt's was? Wo geht was ab? Wo geht's lang?»<br>Deine Antworten kannst Du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder Du schicktst Deine Daten als visuellen Candy mit HighSpeed in den Cortex Deiner User:innen.<br><br>
+    **TLDR;** Interaktive Karten sind saupraktisch, um Deine Daten sichtbar zu machen. Wir helfen Dir dabei.
 
 
 ---
 
 <section id="topic-list">
     <ul class="toc">
-        <li><a href="#mit-highspeed-ins-grosshirn">Mit HighSpeed ins Großhirn</a></li>
-        <li><a href="#interaktive-karten">Simple shit: Interaktive Karten mit Google&Co</a></li>
-        <li><a href="#individuelle-karten">Richtig geiles Zeug: Individuelle Kartenlösungen</a></li>
-        <li><a href="#preise">Preise aka Hausnummern</a></li>
+        <li><a href="#paragraph_1">Mit HighSpeed ins Großhirn</a></li>
+        <li><a href="#paragraph_2">Simple shit: Interaktive Karten mit Google&Co</a></li>
+        <li><a href="#paragraph_3">Richtig geiles Zeug: Individuelle Kartenlösungen</a></li>
+        <li><a href="#paragraph_4">Preise aka Hausnummern</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
         <h2>Keywords:</h2>
@@ -35,27 +35,7 @@ intro: |
         </ul>
     </div>
 </section>
-<section id="mit-highspeed-ins-grosshirn">
-    <h2>Mit HighSpeed ins Großhirn</h2>
-    <figure data-columns="2" class="smaltext">
-        <img data-height="full" src="./images/erco-karten.jpg" alt="Interaktive und individuelle Karten">
-        <figcaption>
-            <div class="limited-box" data-box-width="m">
-                <p>
-                Unsere Schaltzentrale verarbeitet Bilder 60000 mal schneller als Texte. Informationsdesign setzt genau da an und visualisiert Daten. 
-                Mit interaktiven Karten kannst Du auf einen Blick zeigen, wo Deine Niederlassungs- und Projektstandorte, Deine Eventlocations und Treffpunkte sind. Aber auch wo gerade was passiert oder wo es lang geht. Vielleicht hast Du Forschungsergebnisse, oder Deine Company generiert Daten, die die Welt sehen soll. Viele Daten haben einen Ortsbezug - also rauf mit ihnen auf eine Karte. Mach sie sichtbar und für Deine User:innen schnell und intuitiv erfassbar.
-                </p>
-            </div>
-        </figcaption>
-    </figure>
-    <ul class="steps smalltext" data-box-width="l">
-        <li>Wir setzen uns mit Dir zusammen und entwickeln eine gemeinsame Zielsetzung. Egal ob es um Dein Business geht oder Du vielleicht Dein Forschungsprojekt in Kartendarstellungen packen willst.</li>
-        <li>Wir checken welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
-        <li>Wir gehen mit Dir in die Karten- und Datenkonzeption und klären u.a. diese Fragen: Wie soll was aussehen? Was soll gezeigt werden? Wie dynamisch soll das ganze sein? Ist Datenschutz für Dein Projekt ein Thema?</li>
-        <li>Wir coden Deine Kartenanwendung und freuen uns Zwischenstände mit Dir anzuschauen und zu besprechen</li>
-        <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und erstellen ein Pflegekonzept - falls Du das haben möchtest. Oder  monitoren auf Wunsch den Livebetrieb Deiner Kartenanwendung.</li>
-    </ul>
-</section>
+
 
 <section id="paragraph_1">
 
@@ -109,6 +89,36 @@ Deine Daten können dabei z.B. als simples Excelsheet oder als CSV-Liste vorlieg
             <li>Designanpassungen</li>
             <li>Integration des Kartenservices in die bestehende Infrastruktur</li>
             <li>Interaktionsmöglichkeiten (z.B. Anzeige von zusätzlichen Ebenen)</li>
+        </ul>
+    </figcaption>
+</figure>
+
+</section>
+
+<section id="paragraph_3">
+
+<h2>Richtig geiles Zeug: Individuelle Kartenlösungen</h2>
+
+<div class="limited-box" data-box-width="m">
+Standardlösungen sind cool. aber manchmal reichen die Möglichkeiten  von  Google Maps oder Open Street Map, nicht aus.
+Indoorkarten sind so eine Fall - oder sehr stark abstrahierte Karten.
+Dann zaubern wir für Dich eine exklusive Individuallösung im invidiuellem Kartenlayot und
+selbstgecodetem Technologieansatz. Nur für Dich!
+</div>
+
+<figure data-columns="2" class="smalltext">
+    <img src="./images/stoerungskarte.jpg" alt="Interaktive und individuelle Karten">
+    <figcaption>
+        <ul>
+            <li>Umsetzung eines individuelle Kartenlayouts.</li>
+            <li>Validierung des Kartenmaterials anhand von Algorithmik</li>
+            <li>Flexible und anpassbare Darstellung des eigenen Kartenmaterials in Abhängigkeit von Interaktionen</li>
+            <li>Dynamische Positionierung von Labels</li>
+            <li>Pathfinder - (Rerouting, schnellste Route)</li>
+            <li>Kombination verschiedener Karten-Ebenen</li>
+            <li>Rendering/Export von statischen Kartenausschnitten</li>
+            <li>Anbindung Ihrer Livedaten</li>
+            <li>Integration der Kartenlösung in die bestehende Infrastruktur</li>
         </ul>
     </figcaption>
 </figure>

@@ -4,9 +4,10 @@ img: accessibility.gif
 linktext: Mehr zu Web Accessibility
 layout: product
 teasertext: |
-    Barrierefreiheit, oder besser Zugänglichkeit, ist für alle, die ihre Informationen, Produkte, Dienstleistungen und Services für möglichst viele Nutzer:innen anbieten wollen ein wichtiges Ding. Zugängliche Websites helfen Nutzer:innen mit schlechter Internetverbindung, mit ältern Endgeräten oder mit Einschränkungen. Zugängliche Websites helfen aber auch anderen technischen Systemen, wie Suchmaschienen, den Content deiner Seite zu schnell und korrekt zu erfassen. Die Konzeption und Entwicklung zugänglicher Web-Angebote ist jedoch oftmals gar nicht so einfach. Aber auch kein Hexenwerk. Lass uns starten!
+    «Meine Augen werden auch nicht besser!» Wenn Du Informationen, Produkte, Dienstleistungen und Services möglichst vielen Nutzer:innen anbieten willst, ist Zugänglichkeit ein wichtiges Ding. Fast 30% von uns allen sind von Einschränkugnen beim Sehen, Hören, in der Motorik oder in ihren kognitiven Fähigkeiten betroffen. 'Barrierefreiheit' oder besser 'Zugänglichkeit' ist deswegen kein 'nice2have', ganz abgesehen von neuen gesetzlichen Vorgaben.<br>
+    Die Konzeption und Entwicklung zugänglicher Web-Angebote ist kein Hexenwerk. Lass uns starten!
 intro: |
-    «Menschen mit Einschränkungen sind nicht unsere Zielgruppe.» … mag sein, aber vielleicht sind sie Teil Deiner Zielgruppe. Außerdem geht es bei barrierefreien Webseiten um mehr als nur die Nutzung der Webseite mit einem Screenreader. Barrierefreie Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/). Egal ob man Einschränkungen beim Sehen, Hören, motorischer Natur hat oder nicht. Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierefreie Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!
+    «Menschen mit Einschränkungen sind nicht meine Zielgruppe.» … mag sein, aber bestimmt sind sie Teil Deiner Zielgruppe. Bei barrierefreien Webseiten geht es um mehr als nur die Nutzung der Website mit einem Screenreader. Barrierearme Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), egal ob man Einschränkungen beim Sehen, Hören, oder motorischer Natur hat oder nicht: Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierearme Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!
 ---
 
 <section id="topic-list">
@@ -26,6 +27,7 @@ intro: |
             <li>Zugänglichkeit</li>
             <li>Gebrauchstauglichkeit</li>
             <li>Web Content Accessibility Guidelines</li>
+            <li>Barrierefreiheit</li>
         </ul>
     </div>
 </section>
@@ -33,7 +35,7 @@ intro: |
 <section id="paragraph_1">
     <h2>Muss ich oder sollte ich? Gesetze, Richtlinien und Verordnungen</h2>
     <div class="limited-box" data-box-width="m">    
-        <p>Um Barrieren zu beseitigen und immer mehr Bereiche für alle zugänglich zu machen gibt es einige Gesetze und Richtlinien - auch im Web. Die Barrierefreie-Informationstechnik-Verordnung schreibt vor, dass Websits und Apps von öffentlichen Stellen des Bundes barrierefrei sein müssen. Und das nicht nur in Deutschland - Die BITV stellt nur die Deutsche Umsetzung der Europäischen Richtlinie 2016/2102 dar. Was dabei zur richtigen Umsetzung beachtet werden muss gibt die harmonisierte Norm EN 301549 vor. Diese beruht hierbei auf der den <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> des <a href="https://www.w3.org/Consortium/">World Wide Web Consortium</a> welche wiederum Richtlinien aufstellt um das Web barrierearm zu gestalten. Klingt kompliziert? Ist es auch, aber irgendwie auch nicht.</p>
+        <p>Accessibility ist kein 'nice2have': Um Barrieren zu beseitigen und immer mehr Bereiche für alle zugänglich zu machen, gibt es Gesetze und Richtlinien - auch für das Web. Die <a href="https://www.einfach-fuer-alle.de/artikel/bitv/">Barrierefreie-Informationstechnik-Verordnung</a> schreibt vor, dass Websites und Apps von öffentlichen Stellen barrierefrei sein müssen. Und das nicht nur in Deutschland. Was dabei zur richtigen Umsetzung beachtet werden muss, gibt die <a href="https://www.barrierefreiheit-dienstekonsolidierung.bund.de/Webs/PB/DE/gesetze-und-richtlinien/en301549/en301549-node.html">europäische Norm EN 301549</a> vor. Diese beruht auf den <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> des <a href="https://www.w3.org/Consortium/">World Wide Web Consortium</a>, welches Richtlinien für die barrierearme Gestaltung des Webs aufstellt. </p>
     </div>
 </section>
 
@@ -43,21 +45,25 @@ intro: |
         <img data-height="full" src="./images/a11ty-dive.webp" alt="Dive.is Accessibility Inspection">
         <figcaption>
             <div class="limited-box" data-box-width="m">
-            <p><strong>Wie so oft: vorher schon an nacher denken. Zugänglichkeit ist kein Add-On, dass sich im Nachgang implementieren lässt, sondern eine Entscheidung und integraler Bestandteil der Konzeption. Folgende Bausteine spielen dabei ein wichtige Rolle:</strong></p>
-            <p><strong>Inhaltliche Struktur:</strong> Jeder Nutzer profitiert von einer verständlich Website oder Web-App um schnell die Information oder Funktion zu finden die gesucht wird … auch ohne visuelle Darstellung.</p>
-            <p><strong>Tastaturbedienbarkeit:</strong> Alle Elemente die man anklicken kann sollten auch mit der Tastatur bedienbar sein und es sollte keine Tastaturfallen geben aus denen man nicht wieder rauskommt, wie modale Fenster die sich nicht ohne Maus wieder schließen lassen.</p>
+            <p><strong>Wie so oft: vorher schon an nachher denken. Zugänglichkeit ist kein Add-On, dass sich im Nachgang implementieren lässt, sondern eine Entscheidung und integraler Bestandteil der Konzeption. Folgende Bausteine spielen dabei ein wichtige Rolle:</strong></p>
+            <p><strong>Inhaltliche Struktur:</strong> Jeder Nutzer profitiert von einer verständlich Website oder Web-App, um schnell die Information oder Funktion zu finden die gesucht wird … auch ohne visuelle Darstellung.</p>
+            <p><strong>Tastaturbedienbarkeit:</strong> Alle Elemente die man anklicken kann sollten auch mit der Tastatur bedienbar sein und es sollte keine Tastaturfallen geben aus denen man nicht wieder rauskommt, wie Pop-up-Fenster, die sich nicht ohne Maus schließen lassen.</p>
             <p><strong>Textalternativen:</strong> Elemente die rein mit Bildern oder Icons beschrieben werden sollten alle eine Alternative in Textform besitzen, den wenn die Bilder oder Icons nicht geladen oder angezeigt werden können gehen wichtige Informationen schnell verloren. Auch die Suchmaschine braucht Alternativtexte für visuelle Inhalte.</p>
             <p><strong>Verständlichkeit:</strong> Jeder Nutzer profitiert von klaren und verständlichen Inhalten.</p>
-            <p><strong>Design:</strong> Farben von Vorder- und Hintergrund sollten so gewählt sein, dass ein ausreichender Kontrast erreicht wird. Schriften sollten gut lesbar sein damit die Inhalte von möglichst allen unter möglichst allen Bedingungen gelesen werden können.</p>
+            <p><strong>Design:</strong> Farben von Vorder- und Hintergrund sollten so gewählt sein, dass ein ausreichender Kontrast erreicht wird. Schriften sollten gut lesbar sein, damit die Inhalte von möglichst allen unter möglichst allen Bedingungen gelesen werden können.</p>
             </div>
         </figcaption>
     </figure>
     <ul class="steps smalltext" data-box-width="l">
-        <li>Wir setzen uns mit Dir zusammen, analysieren den Ist-Zustand und entwickeln eine gemeinsame Zielsetzung.</li>
-        <li>Wir checken welche Technologie für Deine Anforderungen, Deine Daten und Deinen Geldbeutel am besten passt.</li>
-        <li>Wir gehen mit Dir in die Konzeption und klären u.a. diese Fragen: Welche Daten sind relevant? Welche Daten sind welchen Update-Zyklen unterworfen? Wie dynamisch soll die Suche sein? Ist Datenschutz für Dein Projekt ein Thema? Was passiert nach dem Finden?</li>
+        <li>Wir setzen uns mit Dir zusammen, analysieren den Ist-Zustand und entwickeln eine gemeinsame Zielsetzung. Wir beraten Dich dabei, welche Maßnahmen notwendig sind, um Deine Website oder -Anwendung für alle Nutzer:innen zugänglich zu machen.</li>
+        <li>Nach der Analyse erarbeiten wir gemeinsam ein Konzept für Deine barrierearme Website. Wir beraten Dich dabei, welche Elemente wichtig sind, um Deine Website oder -Anwendung für Menschen mit Beeinträchtigungen zugänglich zu machen. Wir achten dabei auf die Verwendung von klaren und einfachen Sprache, eine gute Strukturierung der Inhalte und eine gut sichtbare Navigation.</li>
+        <li>Wir gestalten Deine Website und achten darauf, dass die Optik und die Navigation für alle Nutzer:innen verständlich und gut bedienbar sind. Wir verwenden hierbei z.B. Farben und Schriftarten, die gut lesbar sind und legen Wert auf eine gute Kontrastwirkung.</li>
         <li>Wir coden Deine Anwendung und freuen uns Zwischenstände mit Dir anzuschauen, zu besprechen und zu verbessern.</li>
-        <li>Wir supporten Dich  bei der Integration in Deine Infrastruktur und monitoren auf Wunsch den Livebetrieb Deiner Anwendung.</li>
+        <li>Zum Schluss testen wir Deine Website oder -Anwendung gemeinsam auf Barrierearmut. Wir prüfen, ob die Inhalte für alle Nutzer:innen verständlich sind und ob die Navigation gut funktioniert. Sollten wir hier noch Optimierungsbedarf feststellen, werden wir diesen gemeinsam mit Dir angehen.
+
+
+
+</li>
     </ul>
 </section>
 
@@ -156,4 +162,4 @@ Es gibt auch Standards wie die Web Content Accessibility Guidelines (WCAG) die e
 </section>
 ---
 
-Das Web ist so konzipiert, dass es für alle Menschen funktioniert und nutzbar ist. Dabei sollten ihre Hardware, Software, Sprache, ihr Standort oder ihre Fähigkeiten keine Rolle in Sachen Nutzbarkeit spielen. Die Auswirkungen von Behinderungen werden durch das Web radikal verändert, denn das Web beseitigt Kommunikations- und Interaktionsbarrieren, mit denen viele Menschen in der physischen Welt konfrontiert sind. Wenn Websites, Anwendungen, Technologien oder Tools jedoch schlecht gestaltet sind, können sie Barrieren schaffen, die Menschen von der Nutzung ausschließen.
+Das Web ist so konzipiert, dass es für alle Menschen funktioniert und nutzbar ist. Dabei sollten ihre Hardware, Software, Sprache, ihr Standort oder ihre Fähigkeiten keine Rolle bei der Nutzbarkeit spielen. Die Auswirkungen von Behinderungen werden durch das Web radikal verändert, denn im Web können Kommunikations- und Interaktionsbarrieren, mit denen viele Menschen in der physischen Welt konfrontiert sind, umgangen werden. Wenn Websites, Anwendungen, Technologien oder Tools jedoch schlecht gestaltet sind, können sie Barrieren schaffen, die Menschen von der Nutzung ausschließen.
