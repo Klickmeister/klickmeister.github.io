@@ -9,7 +9,6 @@
 @import "composition/base-compostion";
 @import "blocks/header";
 @import "blocks/footer";
-@import "blocks/staff";
 @import "blocks/herotext";
 @import "blocks/smalltext";
 
@@ -21,6 +20,9 @@
 @import "components/steps";
 @import "components/toc";
 @import "components/keywordlist";
+
+@import "sections/staff";
+@import "sections/clients";
 
 @import "utilities";
 

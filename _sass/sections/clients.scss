@@ -1,0 +1,43 @@
+/* Clients
+############################################################################ */
+
+.clients {
+  display: grid;
+
+  h2 {
+    opacity: var(--op-low);
+  }
+
+  .herotext {
+    margin-bottom: var(--fluid-space-m);
+  }
+
+  @media only screen and (min-width: $vp-large) {
+    gap: var(--fluid-space-m);
+    grid-template-columns: var(--max-col-width-large) 1fr;
+  }
+}
+
+/* Client List
+############################################################################ */
+
+.client-list {
+  padding: 0;
+  margin-top: 0;
+
+  & > li {
+    display: inline;
+    color: var(--decoration-color);
+    font-size: var(--xl);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-tight);
+
+    & + li::before {
+      display: inline-block;
+      padding-right: var(--quarter);
+      color: var(--lighten);
+      content: "//";
+      font-weight: var(--fw-light);
+    }
+  }
+}
