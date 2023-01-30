@@ -26,18 +26,23 @@
   margin-top: 0;
 
   & > li {
-    display: inline;
+    display: block;
+    margin-bottom: var(--quarter);
     color: var(--decoration-color);
     font-size: var(--xl);
     font-weight: var(--fw-bold);
     line-height: var(--lh-tight);
 
-    & + li::before {
-      display: inline-block;
-      padding-right: var(--quarter);
-      color: var(--lighten);
-      content: "//";
-      font-weight: var(--fw-light);
+    @media only screen and (min-width: $vp-medium) {
+      display: inline;
+
+      & + li::before {
+        display: inline-block;
+        padding-right: var(--quarter);
+        color: var(--lighten);
+        content: "//";
+        font-weight: var(--fw-light);
+      }
     }
   }
 }
