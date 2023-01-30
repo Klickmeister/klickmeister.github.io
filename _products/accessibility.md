@@ -64,67 +64,40 @@ intro: |
 <section id="paragraph_3">
     <h2>Inspektion der Zugänglichkeit</h2>
     <div class="limited-box" data-box-width="m">    
-        <p>Du hast Daten in Deinem CRM, einer Excelliste oder einer anderen Datenquelle und willst selbige Deinen Kunden, einer anderen Anwendung oder der Öffentlichkeit zur Verfügung stellen? Hier hilft eine API. Wir helfen Dir Deine Daten bereit zu stellen, bauen für Dich eine Schnittstelle entlang des weit verbreiteten REST Paradigmas und sichern die Zugriffe ab. </p>
-    </div>
-    <div class="smalltext">
-        <h3>Leistungen</h3>
-        <ul>
-            <li>Datenaufbereitung und -aggregation</li>
-            <li>Konzeption und Entwicklung der Schnittstelle entlang des <a href="https://de.wikipedia.org/wiki/Representational_State_Transfer">REST Paradigmas</a></li>
-            <li>Dokumentation der Schnittstelle via <a hef="https://www.openapis.org">Open API</a></li>
-            <li>Monitoring der Schnittstelle</li>
-            <li>Implementierung von Zugriffskonzepten für verschiedene Nutzergruppen</li>
-            <li>Falls erforderlich: Beratung bei der Auswahl der passenden Lizenz</li>
-        </ul>
+        <p>Du willst wissen wie barrierefrei Deine Website ist und was verbessert werden könnte? Wir inspizieren Deine Seite, spüren Probleme und Barrieren auf, geben Tipps und machen Verbesserungsvorschläge. Die Inspektion können wir unter Zurhilfenahme von Barrierefreiheitstools oder entlang von Checklisten machen, abhängig davon, wie umfassend und genau die Standortbestimmung sein soll. Am Ende des Prozesses hast Du eine Liste mit gewichteten Verbesserungsvorschlägen.</p>
     </div>
 </section>
 
 <section id="paragraph_4">
-    <h2>Daten erfassen und pflegen</h2>
+    <h2>Portfolio Website (aka Onepager) für alle</h2>
     <div class="limited-box" data-box-width="m">
-        <p>Datenpflege macht keinen großen Spaß. Ja, das stimmt. Und wir wollen auch nicht behaupten, dass die Pflege mit Interfaces und Tools von uns Spaß macht. Das wäre vermutlich etwas übertrieben, denn hier ist es so wie Stromberg schon sagte «Arbeit macht Arbeit, darum heißt sie ja so.». Datenpflege macht Arbeit. Aber mit den richtigen Tools und Interfaces fällt es dann häufig doch etwas leichter, geht schneller und die Datenqualität ist im Endeffekt besser, egal ob es um die Pflege von Produkt-, Kunden- oder Forschungsdaten geht. 
+        <p>Du brauchst eine kleine Website und diese soll möglichst zugänglich sein? Gute Sache! Wir stimmen mit Dir Inhalte, Gestaltungs- und Zugänglichkeitsziele ab. Die Inhalte kommen von Dir oder wir entwickeln sie gemeinsam. Wir machen Dir Gestaltungsvorschläge und setzen die Portfolio Seite um. Du willst die Inhalte selber pflegen und erweitern können? Kein Problem. Hier nutzen wir unser Liebling <a href="https://getkirby.com">Kirby CMS</a> von <a href="https://bastianallgeier.com">Bastian Allgeier</a>.
         </p>
     </div>
-    <figure data-columns="2" class="smalltext">
-        <img src="./images/datenpflege-humbuldt-s.jpg" alt="Datenpflege">
-        <figcaption>
-            <ul>
-                <li>Sichtung und Analyse des Datenmaterials und der zugehörigen Prozesse: woher kommen die Daten, wohin sollen sie, wie oft ändern sich die Daten, usw.</li>
-                <li>Zielsetzung, Datenmodell und ein Pflegekonzept erarbeiten</li>
-                <li>Konzeption und Umsetzung des Pflegeprozesses: Systeme einrichten, ggf. Pflegemasken bauen, etc. </li>
-                <li>Datenmanagement Software konzipieren und konfigurieren oder entwicklen</li>
-                <li>Datenschnittstellen entwicklen</li>
-                <li>Integration des Pflegeprozesses/ -tools in die bestehende Infrastruktur</li>
-                <li>Erstellung von Schulungsmaterial und Schulung der Beteiligten</li>
-                <li>Datenqualität prüfen</li>
-            </ul>
-        </figcaption>
-    </figure>
 </section>
 
 <section id="paragraph_4">
-    <h2>Daten visualisieren: ein Bild sagt mehr als 1000 Worte.</h2>
+    <h2>Multipage Website für alle</h2>
     <div class="limited-box" data-box-width="m">    
-        <p>Egal ob Diagramm, Graph, Karte oder Dashboard: eine gute Datenvisualisierung hilft immer, komplexe Datensätze zu analysieren, zu verstehen und sie zu kommunizieren. Sie zeigt Muster, Trends und Beziehungen in den Daten und man entdeckt Sachverhalte und Korrelationen, die einem sonst entgangen wären. Sie erleichtert und beschleunigt das Verständnis von Daten und damit auch Entscheidungsprozesse. Yeah!
+        <p>Du hast viel zu sagen, mehr Produkte oder anderweitige Inhalte? Dann muss in der Regel eine Multipage Website her. Alles andere ist fast wie beim Onepager. Was dazu kommt ist das Thema Struktur und Navigation. Diese entwickeln wir mit Dir zusammen und haben dabei die Zugänglichkeitsziele im Blick.
         </p>
-    </div>
-    <div class="smalltext">
-        <h3>Leistungen</h3>
-        <ul>
-            <li>Analyse der Daten: Welche Daten liegen vor? Was soll/ kann gezeigt werden? Reichen die Daten dafür aus? Müssen sie ggf. ergänzt oder aggregiert werden?</li>
-            <li>Datenaufbereitung: für die Visualisierung müssen die Daten oft aufbereitet und bereinigt werden: Entfernen von ungültigen oder fehlerhaften Daten, Aggregieren von Daten oder das Erstellen von neuen Variablen .</li>
-            <li>Gestaltung der Visualisierung</li>
-            <li>Integration von Interaktivität: wie sollen die Daten erkundet werden? Gibt es Filter, Zoomen oder andere interaktive Funktionen?</li>
-            <li>Pflege und Aktualisierung der Daten</li>
-        </ul>
     </div>
 </section>
 
 <section id="paragraph_5">
-    <h2>Datenschutz & -sicherheit</h2>
+    <h2>Webanwendung für alle</h2>
     <div class="limited-box" data-box-width="m">    
-        <p>Hier hat sich in den letzten Jahren aber mal so richtig was getan. Das Datenschutzrecht hat sich in den letzten Jahren rasant entwickelt. Nach Einführung der europäischen DSGVO (2018) wurde 2021 in Deutschland das Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG 2021) verabschiedet. Aus den darin enthaltenen Rechtsnormen ergeben sich weitreichende Pflichten für Website Betreiber:innen hinsichtlich der Verarbeitung personenbezogener Daten. Dazu zählen nicht nur Cookies, sondern so gut wie alles, was sich auf Personen zurückverfolgen lässt. Ein hübsch komplexes Feld und jede Menge Fallstricke und Anforderungen, auf die beim Umgang mit Daten geachtet werden muss.</p>
-        <p>Aber auch der Schutz von Daten und Schnittstellen ist ein riesen Thema. Datenlecks und Angriffe gehören leider zum Alltag und wer möchte schon als <a href="https://haveibeenpwned.com">gehackt</a> gelabelt werden. Niemand.</p>
+        <p>Du willst eine Web Anwendung, z.B. einen Web-Shop oder einen Konfigurator, der für alle nutzbar ist?
+
+Verwenden Sie semantische HTML-Markup, um die Struktur und Bedeutung Ihrer Inhalte klar darzustellen. Dies erleichtert es Assistenztechnologien wie Screen-Readern, die von Menschen mit Sehbehinderungen verwendet werden, die Inhalte Ihrer Web-App zu verstehen.
+Verwenden Sie alternative Text für Bilder und andere nicht-textuelle Elemente, um sicherzustellen, dass auch Benutzer, die das Bild nicht sehen können, den Inhalt verstehen.
+Stellen Sie sicher, dass Ihre Web-App mit Tastaturbedienung navigiert werden kann, damit auch Benutzer, die keine Maus verwenden können, problemlos durch die App navigieren können.
+Verwenden Sie CSS, um visuelle Stile und Layout-Informationen von Inhalten zu trennen, damit Benutzer mit visuellen Behinderungen die Darstellung ihrer Inhalte an ihre Bedürfnisse anpassen können.
+Stellen Sie sicher, dass Ihre Web-App mit verschiedenen Sprachen und geografischen Regionen kompatibel ist, um sicherzustellen, dass Benutzer auf der ganzen Welt Zugang zu Ihren Inhalten haben.
+Verwenden Sie WAI-ARIA(Web Accessibility Initiative - Accessible Rich Internet Applications) um zusätzliche Informationen über die Bedeutung und Verwendung von Elementen in Ihrer Web-App bereitzustellen.
+Testen Sie Ihre Web-App regelmäßig mit verschiedenen Assistenztechnologien, um sicherzustellen, dass sie ordnungsgemäß funktioniert und dass alle Barrieren beseitigt werden.
+Es ist wichtig zu beachten, dass die Barrierefreiheit ein laufender Prozess ist und dass es ständig Verbesserungen und Neuerungen im Bereich der Assistenztechnologien gibt, die Sie berücksichtigen sollten.
+Es gibt auch Standards wie die Web Content Accessibility Guidelines (WCAG) die einen genauen Ansatz und Richtlinien bereitstellen.</p>
     </div>
     <div class="smalltext">
         <h3>Leistungen</h3>
