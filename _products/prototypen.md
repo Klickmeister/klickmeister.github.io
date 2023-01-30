@@ -21,7 +21,6 @@ intro: |
         <li><a href="#paragraph_2">Preise aka Hausnummern</a></li>
     </ul>
     <div class="keywordlist limited-box" data-box-width="m">
-
         <h2>Keywords</h2>
         <ul>
             <li>Prototyp</li>
@@ -31,7 +30,6 @@ intro: |
             <li>Softwareentwicklung</li>
         </ul>
     </div>
-
 </section>
 
 <section id="paragraph_1">
@@ -44,7 +42,6 @@ intro: |
                 Ja, wir bekennen: Wir haben in den letzten 20 Jahren den einen oder anderen (Kunden)Euro in den Sand gesetzt, Kundenideen nur mäßig widersprochen, tage- und wochenlang über Funktionen und Gestaltung geredet, und fragwürdige Anforderungen in suboptimalen Ergebnissen umgesetzt.<br>
                 Was wir gelernt haben: In den meisten dieser Fälle hätte die Nutzung von Prototypen, Diskussionen verkürzt, zu deulich besseren und sinnvolleren Lösungen geführt und Luftschloss-Anteile aus guten Ideen evakuiert.<br>Prototypen labern nicht. Sie machen Design und Produkte fühl- und erfahrbar, sie lassen sich mit fremden Dritten testen, schützen vor Betriebsblindheit, machen verborgenes sichtbar und inspirieren zu Verbesserungen.<br>
                 Also - let's prototype!
-
                 </p>
             </div>
         </figcaption>
@@ -64,7 +61,7 @@ intro: |
 <div class="limited-box" data-box-width="m">
 <p>
 Hier gibts keinen Preis von der Stange - wir müssen reden. Das machen wir gern und freuen uns auf neue Aufgaben.
-Wir finden das spannend - und sind offen für jedes Thema. Ob Du ne App zum Schweinefüttern oder eine Website für barrierefreie Restaurants aufbauen willst...</p>
+Wir finden das spannend - und sind offen für jedes Thema. Ob Du ne App zum Schweinefüttern oder eine Website für barrierefreie Restaurants aufbauen willst …</p>
 <button class="button-simple" role="button" data-cta-action="toit">Lass unser Telefon bimmeln</button>
 
 </div>
