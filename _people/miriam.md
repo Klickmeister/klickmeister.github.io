@@ -1,7 +1,7 @@
 ---
 title: Miriam Noss
 grad: 
-pic: miriam.jpg
+pic: miriam
 ---
 
 Singt und tanzt gerne - auch schon mal auf der Bühne.

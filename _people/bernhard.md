@@ -1,7 +1,7 @@
 ---
 title: Bernhard Kelm
 grad: 
-pic: bernhard.png
+pic: bernhard
 ---
 
 Wollte mal Koch werden.

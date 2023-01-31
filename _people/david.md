@@ -1,7 +1,7 @@
 ---
 title: David Kathmann
 grad: B.Sc. Medieninformatik
-pic: david.jpg
+pic: david
 ---
 
 Hat einen grünen Daumen

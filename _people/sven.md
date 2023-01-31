@@ -1,7 +1,7 @@
 ---
 title: Sven Schäfermeier
 grad: Diplom Designer
-pic: sven.jpg
+pic: sven
 ---
 
 Läuft gern durch die Gegend.

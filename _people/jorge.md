@@ -1,7 +1,7 @@
 ---
 title: Jorge H. F. Pereira
 grad: B.Sc. Medieninformatik
-pic: jorge.jpg
+pic: jorge
 ---
 
 Film-Aficionado.

@@ -1,7 +1,7 @@
 ---
 title: Patrick Erasmus
 grad: M.Sc. Interaction Design
-pic: patrick.jpeg
+pic: patrick
 ---
 
 Ex-BMXer.

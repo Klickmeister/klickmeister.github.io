@@ -1,7 +1,7 @@
 ---
 title: Florian Bräunsbach
 grad: B.Sc. Medieninformatik
-pic: florian.jpg
+pic: florian
 ---
 
 Florian war schon immer technikbegeistert. Schon in jungen Jahren hatten Stecker und Kabel eine große Anziehungskraft auf ihn. Später hat sich dann die Faszination für die Geräte hinter den Kabeln und das Web gelegt. Neben der Entwicklungsarbeit bei Klickmeister geht er gerne die Natur fotografieren.

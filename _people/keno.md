@@ -1,7 +1,7 @@
 ---
 title: Keno
 grad: M.Sc Medieninformatik 
-pic: keno.jpg
+pic: keno
 ---
 
 Smartphone-Junkie

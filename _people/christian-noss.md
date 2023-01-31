@@ -1,7 +1,7 @@
 ---
 title: Christian Noss
 grad: Diplom Designer
-pic: christian-noss.jpg
+pic: christian-noss
 ---
 
 Mag laaange Skateboards. Kurze auch.

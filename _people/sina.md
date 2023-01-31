@@ -1,7 +1,7 @@
 ---
 title: Sina Baier
 grad: Diplom Designerin
-pic: sina.jpg
+pic: sina
 ---
 
 Nähen ist Ihre große Leidenschaft.

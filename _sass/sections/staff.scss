@@ -15,7 +15,7 @@
       aspect-ratio: 2/1;
       filter: grayscale(100%);
       object-fit: cover;
-      object-position: left;
+      object-position: top left;
       transition: filter var(--tr-fast);
 
       &:hover {

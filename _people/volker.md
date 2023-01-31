@@ -1,7 +1,7 @@
 ---
 title: Volker Schaefer
 grad: B.Sc. Medieninformatik
-pic: volker.jpg
+pic: volker
 ---
 
 Der Schottlandkenner.

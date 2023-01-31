@@ -1,7 +1,7 @@
 ---
 title: Carlos Bystron
 grad: B.Sc. Medieninformatik
-pic: carlos.jpg
+pic: carlos
 ---
 
 Weltenbürger.

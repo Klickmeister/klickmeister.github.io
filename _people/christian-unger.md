@@ -1,7 +1,7 @@
 ---
 title: Christian Unger
 grad: M.Sc. Angewandte Informatik
-pic: christian-unger.jpg
+pic: christian-unger
 ---
 
 Game Master.
