@@ -25,18 +25,11 @@
 
     h3,
     h4 {
-      display: inline-block;
       font-size: var(--base-font-size);
     }
 
-    h4 {
-      margin-top: calc(var(--s) * -1);
-      font-weight: var(--fw-normal);
-
-      &::before {
-        color: var(--decoration-color);
-        content: "// ";
-      }
+    &__property {
+      color: var(--decoration-color);
     }
 
     p {

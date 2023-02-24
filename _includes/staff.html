@@ -8,8 +8,8 @@
         <figcaption>
             <header>
                 <h3>{{ human.title }}</h3>
-                {% if human.skilltitle %}<h4>{{ human.skilltitle }}</h4>{% endif %}
-                {% if human.grad %}<h4>{{ human.grad }}</h4>{% endif %}
+                {% if human.skilltitle %}<p class="staff-item__property">{{ human.skilltitle }}</p>{% endif %}
+                {% if human.gradle %}<p class="staff-item__property">{{ human.grad }}</p>{% endif %}
             </header>
 
             {{ human.content | markdownify }}
