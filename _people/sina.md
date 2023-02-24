@@ -1,5 +1,7 @@
 ---
 title: Sina Baier
+name:
+skilltitle: Senior Projektmanagerin
 grad: Diplom Designerin
 pic: sina
 ---

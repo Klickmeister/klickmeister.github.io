@@ -1,5 +1,7 @@
 ---
 title: Nils Polarek
+name:
+skilltitle: Junior Fullstack Developer
 grad: 
 pic: nils
 ---
