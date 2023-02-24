@@ -1,0 +1,29 @@
+/* agb
+############################################################################ */
+
+.agb {
+  display: grid;
+
+  h2 {
+    opacity: var(--op-low);
+  }
+
+  h3{
+    margin-bottom: 0;
+
+    &.subtitle{
+      margin-top: var(--xl);
+    }
+  }
+
+  .herotext {
+    margin-bottom: var(--fluid-space-m);
+  }
+
+  @media only screen and (min-width: $vp-large) {
+    gap: var(--fluid-space-m);
+    grid-template-columns: var(--max-col-width-large) 1fr;
+  }
+}
+
+
