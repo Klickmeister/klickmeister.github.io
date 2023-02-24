@@ -30,3 +30,11 @@
 .is-screwed[data-js-observe="in-view"] {
   transform: skewY(0deg) scaleX(1);
 }
+
+/* Reverse Text
+############################################################################ */
+
+.rev {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}

@@ -1,5 +1,7 @@
 ---
 title: Christian Noss
+name:
+skilltitle: Geschäftsführer
 grad: Diplom Designer
 pic: christian-noss
 ---

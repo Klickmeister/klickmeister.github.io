@@ -1,5 +1,7 @@
 ---
 title: Sven Schäfermeier
+name:
+skilltitle: Geschäftsführer
 grad: Diplom Designer
 pic: sven
 ---

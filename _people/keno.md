@@ -1,5 +1,7 @@
 ---
 title: Keno
+name:
+skilltitle: Lead Fullstack Developer / Content Manager
 grad: M.Sc Medieninformatik 
 pic: keno
 ---
