@@ -1,6 +1,8 @@
 ---
 title: Miriam Noss
-grad: 
+name:
+skilltitle: Buchhaltende Gesellschafterin
+grad: Bankkauffrau
 pic: miriam
 ---
 

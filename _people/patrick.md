@@ -1,5 +1,7 @@
 ---
 title: Patrick Erasmus
+name:
+skilltitle: Senior/Lead/Expert
 grad: M.Sc. Interaction Design
 pic: patrick
 ---

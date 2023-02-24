@@ -1,7 +1,10 @@
 ---
 title: Benedikt Engel
+name:
+skilltitle: 
 grad: B.Sc. Medieninformatik
 pic: bene
+
 ---
 
 Erbprinz.

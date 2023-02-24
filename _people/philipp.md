@@ -1,5 +1,7 @@
 ---
 title: Philipp Rudolph
+name:
+skilltitle: Junior Content Manager / Junior Web Developer
 grad: Diplom Jurist
 pic: philipp
 ---

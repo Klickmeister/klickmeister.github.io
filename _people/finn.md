@@ -1,5 +1,7 @@
 ---
 title: Finn Nils Gedrath
+name:
+skilltitle: Junior Web Developer / Junior Interaction Designer
 grad: B.Sc. Medieninformatik
 pic: finn
 ---

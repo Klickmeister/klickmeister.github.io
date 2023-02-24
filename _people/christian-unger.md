@@ -1,5 +1,7 @@
 ---
 title: Christian Unger
+name:
+skilltitle: Lead Fullstack Developer / Housekeeping Manager
 grad: M.Sc. Angewandte Informatik
 pic: christian-unger
 ---

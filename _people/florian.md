@@ -1,5 +1,7 @@
 ---
 title: Florian Bräunsbach
+name:
+skilltitle: Senior Fullstack Developer / DevOps Engineer
 grad: B.Sc. Medieninformatik
 pic: florian
 ---
