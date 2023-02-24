@@ -26,6 +26,21 @@ const observeElements = () => {
   observedElements.forEach((el) => observer.observe(el));
 };
 
+const invokeContact = () => {
+  if(document.querySelector('[data-js-contact]') === null) return;
+  const contactButton = document.querySelector('[data-js-contact]');
+  const who = contactButton.dataset.who;
+  const where = contactButton.dataset.where;
+  const tld = contactButton.dataset.tld;
+  
+  contactButton.addEventListener('click', (event) => {
+    event.preventDefault();
+    window.location.href = `mailto:${who}@${where}.${tld}?subject=Anfrage via Website`;
+  });
+
+};
+
 document.addEventListener('DOMContentLoaded', () => {
   observeElements();
+  invokeContact();
 });
