@@ -29,6 +29,8 @@ collections:
     output: false
   products:
     output: true
+  snapshots:
+    output: false
 #   feed:
 #     output: true
 #   checkItOut:
