@@ -4,6 +4,7 @@ name:
 skilltitle: Frontend Developer / Frontend Designer
 grad: B.Sc. Medieninformatik
 pic: carlos
+status: active
 ---
 
 Weltenbürger.

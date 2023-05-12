@@ -4,6 +4,7 @@ name:
 skilltitle: Senior Projektmanagerin
 grad: Diplom Designerin
 pic: sina
+status: active
 ---
 
 Nähen ist Ihre große Leidenschaft.

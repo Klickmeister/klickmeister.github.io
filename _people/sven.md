@@ -4,6 +4,7 @@ name:
 skilltitle: Geschäftsführer
 grad: Diplom Designer
 pic: sven
+status: active
 ---
 
 Läuft gern durch die Gegend.

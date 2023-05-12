@@ -1,4 +1,4 @@
-{% assign staff = site.people %}
+{% assign staff = site.people | where : "status", "active" %}
 
 
 <div class="staff-overview grid-small">

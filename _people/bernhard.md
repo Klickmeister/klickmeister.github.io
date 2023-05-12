@@ -4,6 +4,7 @@ name:
 skilltitle: Lead Fullstack Developer / DevOps-Engineer
 grad: 
 pic: bernhard
+status: active
 ---
 
 Wollte mal Koch werden.

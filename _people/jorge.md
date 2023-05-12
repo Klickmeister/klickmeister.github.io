@@ -4,6 +4,7 @@ name:
 skilltitle: Senior Fullstack Developer
 grad: B.Sc. Medieninformatik
 pic: jorge
+status: oob
 ---
 
 Film-Aficionado.

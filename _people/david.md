@@ -4,6 +4,7 @@ name:
 skilltitle: Fullstack Developer / Content Manager
 grad: B.Sc. Medieninformatik
 pic: david
+status: active
 ---
 
 Hat einen grünen Daumen

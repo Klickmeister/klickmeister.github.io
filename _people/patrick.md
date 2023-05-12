@@ -1,7 +1,7 @@
 ---
 title: Patrick Erasmus
 name:
-skilltitle: Senior/Lead/Expert
+skilltitle: Senior Fullstack Developer / UX & Frontend Expert
 grad: M.Sc. Interaction Design
 pic: patrick
 ---
