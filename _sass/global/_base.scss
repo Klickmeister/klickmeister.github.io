@@ -43,12 +43,10 @@ h4 {
 
 h2 {
   margin-bottom: var(--l);
-  font-weight: var(--fw-medium);
 }
 
 h3 {
   font-size: var(--m);
-  font-weight: var(--fw-medium);
 }
 
 *:not(h3) + h4 {
@@ -98,12 +96,12 @@ ul {
   margin-top: 0;
 }
 
-dl{
-  dt{
+dl {
+  dt {
     font-weight: var(--fw-bold);
   }
 
-  dd + dt{
+  dd + dt {
     margin-top: var(--s);
   }
 
@@ -177,11 +175,10 @@ hr + * {
   margin-top: var(--fluid-space-l) !important;
 }
 
-
 /* Address
 ############################################################################ */
 
-address{
-  font-style: normal;
+address {
   margin-bottom: var(--m);
+  font-style: normal;
 }

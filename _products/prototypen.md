@@ -4,8 +4,7 @@ img: prototyping.jpeg
 layout: product
 linktext: Mehr zu Prototyping
 teasertext:  |
-    «Du hast' ne geile Idee?» Nicht nur mal eben im Kreativrausch - nein, eine Idee mit fettem Potential.<br>
-    «Du hast ein (Produkt)design?» Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig. Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.
+    «Du hast' ne geile Idee?» Nicht nur mal eben im Kreativrausch - nein, eine Idee mit fettem Potential. «Du hast ein (Produkt)design?» Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig. Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen … zum schlauer werden, zum Verproben, zum Lernen …
 
 intro: |
     «Du hast' ne geile Idee?» Nicht nur mal eben im Kreativrausch - nein, eine Idee mit **fettem** Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: **Das ist nicht nur eine geile Idee, sondern eine richtig gute!**<br>

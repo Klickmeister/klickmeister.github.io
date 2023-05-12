@@ -1,0 +1,30 @@
+/* Mega (large) Text
+############################################################################ */
+
+.megatext {
+  & > *:not(img) {
+    max-width: var(--max-width-content);
+    font-size: var(--xl);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-tight);
+  }
+
+  &.is-inline {
+    @media only screen and (min-width: $vp-medium) {
+      padding-right: var(--fluid-space-xl);
+    }
+
+    & > *:not(img) {
+      display: inline;
+      padding-right: 0.7ch;
+    }
+
+    & > p {
+      color: var(--dark);
+    }
+
+    & > h2 {
+      color: var(--darkest);
+    }
+  }
+}

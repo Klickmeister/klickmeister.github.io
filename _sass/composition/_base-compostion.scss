@@ -82,6 +82,11 @@ section,
       max-width: var(--large-content);
     }
   }
+
+  &.is-stacked {
+    flex-direction: column;
+    gap: var(--fluid-space-l);
+  }
 }
 
 /* Columns

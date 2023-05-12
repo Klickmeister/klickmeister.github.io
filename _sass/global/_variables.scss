@@ -57,8 +57,8 @@ https://utopia.fyi/type/calculator/
   --lighter: #{"hsl(0deg 0% 90% / 100%)"};
   --lightest: #{"hsl(0deg 0% 100% / 100%)"};
   --lighten: #{"rgb(255 255 255 / 20%)"};
-  --dark: #{"hsl(0deg 0% 20% / 100%)"};
-  --darker: #{"hsl(0deg 0% 10% / 100%)"};
+  --dark: #{"hsl(0deg 0% 40% / 100%)"};
+  --darker: #{"hsl(0deg 0% 20% / 100%)"};
   --darkest: #{"hsl(0deg 0% 0% / 100%)"};
   --darken: #{"rgb(0 0 0 / 20%)"};
   --darken-light: #{"rgb(0 0 0 / 3%)"};
@@ -71,7 +71,7 @@ https://utopia.fyi/type/calculator/
   --interaction-color: var(--km-blau);
   --decoration-color: var(--km-pink);
   --text-color: var(--darker);
-  --headline-color: var(--dark);
+  --headline-color: var(--darkest);
   --headline-color-light: var(--darker);
   --border-color: var(--dark);
   --seperator-color: var(--dark);

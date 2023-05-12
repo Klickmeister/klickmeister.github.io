@@ -4,6 +4,7 @@ name:
 skilltitle: Buchhaltende Gesellschafterin
 grad: Bankkauffrau
 pic: miriam
+status: active
 ---
 
 Singt und tanzt gerne - auch schon mal auf der Bühne.
