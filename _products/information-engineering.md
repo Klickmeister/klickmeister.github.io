@@ -64,7 +64,7 @@ intro: |
         <ul>
             <li>Datenaufbereitung und -aggregation</li>
             <li>Konzeption und Entwicklung der Schnittstelle entlang des <a href="https://de.wikipedia.org/wiki/Representational_State_Transfer">REST Paradigmas</a></li>
-            <li>Dokumentation der Schnittstelle via <a hef="https://www.openapis.org">Open API</a></li>
+            <li>Dokumentation der Schnittstelle via <a href="https://www.openapis.org">Open API</a></li>
             <li>Monitoring der Schnittstelle</li>
             <li>Implementierung von Zugriffskonzepten für verschiedene Nutzergruppen</li>
             <li>Falls erforderlich: Beratung bei der Auswahl der passenden Lizenz</li>
