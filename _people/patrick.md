@@ -4,6 +4,7 @@ name:
 skilltitle: Senior Fullstack Developer / UX & Frontend Expert
 grad: M.Sc. Interaction Design
 pic: patrick
+status: active
 ---
 
 Ex-BMXer.
