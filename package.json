@@ -6,10 +6,11 @@
   "scripts": {
     "lint": "stylelint _sass/**/*.scss",
     "lint:fix": "stylelint _sass/**/*.scss --fix",
-    "dev": "jekyll serve -l",
+    "dev": "bundle exec jekyll serve -l",
     "js:lint": "eslint scripts/**/*.js",
     "js:lint:fix": "eslint scripts/**/*.js --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scale-image": "convert -resize '1600x1600^' -unsharp 0x2+1+0 -quality 90 raw-images/$npm_config_image.jpg raw-images/${npm_config_image}-xl.jpg; convert -resize '1200x1200^' -unsharp 0x2+1+0  -quality 90 raw-images/$npm_config_image.jpg raw-images/${npm_config_image}-l.jpg; convert -resize '800x800^' -unsharp 0x2+1+0  -quality 80 raw-images/$npm_config_image.jpg raw-images/${npm_config_image}-m.jpg; convert -resize '400x400^' -unsharp 0x2+1+0  -quality 80 raw-images/$npm_config_image.jpg raw-images/${npm_config_image}-s.jpg"
   },
   "repository": {
     "type": "git",
