@@ -1,7 +1,7 @@
 ---
 title: Nils Polarek
 name:
-skilltitle: Junior Fullstack Developer
+skilltitle: Fullstack Developer
 grad: 
 pic: nils
 status: active
