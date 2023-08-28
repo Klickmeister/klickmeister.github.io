@@ -1,4 +1,4 @@
-baseurl: "/home"
+baseurl: ""
 
 defaults:
   - scope:
