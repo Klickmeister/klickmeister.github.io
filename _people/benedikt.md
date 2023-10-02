@@ -1,7 +1,7 @@
 ---
 title: Benedikt Engel
 name:
-skilltitle: Fullstack Developer // Accessibility Guard
+skilltitle: Fullstack Developer / Accessibility Guard
 grad: B.Sc. Medieninformatik
 pic: bene
 status: active
