@@ -5,6 +5,7 @@
   position: fixed;
   right: var(--fluid-space-m);
   bottom: var(--fluid-space-m);
+  left: var(--fluid-space-m);
   padding: var(--s);
   background-color: var(--lightest);
   border-radius: var(--border-radius);
@@ -13,6 +14,11 @@
   pointer-events: none;
   transform: translateY(calc(var(--xxs)));
   transition: transform var(--tr-medium), opacity var(--tr-fast);
+
+  @media only screen and (min-width: $vp-medium) {
+    left: auto;
+    max-width: var(--max-width-content-s);
+  }
 
   &[data-visible="true"] {
     opacity: 1;
