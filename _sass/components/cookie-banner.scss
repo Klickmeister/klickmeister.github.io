@@ -7,12 +7,11 @@
   bottom: var(--fluid-space-m);
   left: var(--fluid-space-m);
   padding: var(--s);
+  padding-right: calc(3 * var(--s));
+  border: none;
   background-color: var(--lightest);
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow-m);
-  opacity: 0;
-  pointer-events: none;
-  transform: translateY(calc(var(--xxs)));
   transition: transform var(--tr-medium), opacity var(--tr-fast);
 
   @media only screen and (min-width: $vp-medium) {
@@ -20,14 +19,31 @@
     max-width: var(--max-width-content-s);
   }
 
-  &[data-visible="true"] {
-    opacity: 1;
-    pointer-events: all;
-    transform: translateY(0);
+  &__close {
+    position: absolute;
+    top: var(--s);
+    right: var(--s);
+    border: none;
+    margin: 0;
+    background-color: transparent;
+    cursor: pointer;
+    line-height: 1em;
   }
 
-  & > :last-child {
-    margin-bottom: 0;
+  &[open] {
+    animation: open-modal var(--tr-medium) ease-in-out forwards;
+
+    @keyframes open-modal {
+      from {
+        opacity: 0;
+        transform: translateY(calc(var(--xxs)));
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
   }
 
   h3 {
@@ -37,6 +53,7 @@
   }
 
   p {
+    margin-bottom: 0;
     font-size: var(--xs);
     line-height: var(--lh-tight);
   }
