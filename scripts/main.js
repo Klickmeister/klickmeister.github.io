@@ -1,7 +1,6 @@
 const observeElements = () => {
-
   const elementsToBeObserved = document.querySelectorAll('.is-screwed');
-  elementsToBeObserved.forEach((element) => element.dataset.jsObserve = '');
+  elementsToBeObserved.forEach((element) => { element.dataset.jsObserve = ''; });
 
   const observerOptions = {
     root: null,
@@ -27,20 +26,32 @@ const observeElements = () => {
 };
 
 const invokeContact = () => {
-  if(document.querySelector('[data-js-contact]') === null) return;
+  if (document.querySelector('[data-js-contact]') === null) return;
   const contactButton = document.querySelector('[data-js-contact]');
-  const who = contactButton.dataset.who;
-  const where = contactButton.dataset.where;
-  const tld = contactButton.dataset.tld;
-  
+  const { who, where, tld } = contactButton.dataset;
+
   contactButton.addEventListener('click', (event) => {
     event.preventDefault();
     window.location.href = `mailto:${who}@${where}.${tld}?subject=Anfrage via Website`;
   });
+};
 
+const showCookieBannerOnScroll = () => {
+  const cookieBanner = document.querySelector('[data-js-cookie-banner]');
+  if (cookieBanner === null) return;
+
+  function onScroll() {
+    if (window.scrollY > 100) {
+      cookieBanner.show();
+      window.removeEventListener('scroll', onScroll);
+    }
+  }
+
+  window.addEventListener('scroll', onScroll);
 };
 
 document.addEventListener('DOMContentLoaded', () => {
   observeElements();
   invokeContact();
+  showCookieBannerOnScroll();
 });
