@@ -1,0 +1,37 @@
+/* Cookie Banner
+############################################################################ */
+
+.cookie-banner {
+  position: fixed;
+  right: var(--fluid-space-m);
+  bottom: var(--fluid-space-m);
+  padding: var(--s);
+  background-color: var(--lightest);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow-m);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(calc(var(--xxs)));
+  transition: transform var(--tr-medium), opacity var(--tr-fast);
+
+  &[data-visible="true"] {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(0);
+  }
+
+  & > :last-child {
+    margin-bottom: 0;
+  }
+
+  h3 {
+    margin-bottom: var(--fluid-space-xs);
+    font-size: var(--xs);
+    font-weight: var(--fw-bold);
+  }
+
+  p {
+    font-size: var(--xs);
+    line-height: var(--lh-tight);
+  }
+}
