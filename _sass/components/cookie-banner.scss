@@ -1,0 +1,60 @@
+/* Cookie Banner
+############################################################################ */
+
+.cookie-banner {
+  position: fixed;
+  right: var(--fluid-space-m);
+  bottom: var(--fluid-space-m);
+  left: var(--fluid-space-m);
+  padding: var(--s);
+  padding-right: calc(3 * var(--s));
+  border: none;
+  background-color: var(--lightest);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow-m);
+  transition: transform var(--tr-medium), opacity var(--tr-fast);
+
+  @media only screen and (min-width: $vp-medium) {
+    left: auto;
+    max-width: var(--max-width-content-s);
+  }
+
+  &__close {
+    position: absolute;
+    top: var(--s);
+    right: var(--s);
+    border: none;
+    margin: 0;
+    background-color: transparent;
+    cursor: pointer;
+    line-height: 1em;
+  }
+
+  &[open] {
+    animation: open-modal var(--tr-medium) ease-in-out forwards;
+
+    @keyframes open-modal {
+      from {
+        opacity: 0;
+        transform: translateY(calc(-1 * var(--xxs)));
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  }
+
+  h3 {
+    margin-bottom: var(--fluid-space-xs);
+    font-size: var(--xs);
+    font-weight: var(--fw-bold);
+  }
+
+  p {
+    margin-bottom: 0;
+    font-size: var(--xs);
+    line-height: var(--lh-tight);
+  }
+}
