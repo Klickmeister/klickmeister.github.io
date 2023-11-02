@@ -39,15 +39,23 @@ const invokeContact = () => {
 const showCookieBannerOnScroll = () => {
   const cookieBanner = document.querySelector('[data-js-cookie-banner]');
   if (cookieBanner === null) return;
+  const cookieBannerClose = cookieBanner.querySelector('[data-js-cookie-banner] button');
+  if (cookieBannerClose === null) return;
 
-  function onScroll() {
-    if (window.scrollY > 100) {
-      cookieBanner.show();
-      window.removeEventListener('scroll', onScroll);
-    }
+  cookieBannerClose.addEventListener('click', () => {
+    localStorage.setItem('cookieBanner', 'read');
+  });
+
+  if (localStorage.getItem('cookieBanner') !== 'read') {
+    const onScroll = () => {
+      if (window.scrollY > 100) {
+        cookieBanner.show();
+        window.removeEventListener('scroll', onScroll);
+      }
+    };
+
+    window.addEventListener('scroll', onScroll);
   }
-
-  window.addEventListener('scroll', onScroll);
 };
 
 document.addEventListener('DOMContentLoaded', () => {
