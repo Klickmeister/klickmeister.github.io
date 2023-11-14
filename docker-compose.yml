@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  jekyll:
+    container_name: klickmeister-home
+    image: jekyll/jekyll:4.0.0
+    command: jekyll serve --watch --livereload
+    ports:
+      - 4000:4000
+      - 35729:35729
+    volumes:
+      - .:/srv/jekyll
