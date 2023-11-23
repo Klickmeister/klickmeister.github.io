@@ -1,5 +1,5 @@
 ---
-title: Keno Tennié
+title: Keno Hünseler
 name:
 skilltitle: Lead Fullstack Developer / Content Manager
 grad: M.Sc Medieninformatik 
