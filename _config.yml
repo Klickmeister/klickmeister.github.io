@@ -2,7 +2,7 @@ baseurl: ""
 
 languages: ["de", "en"]
 default_locale_in_subfolder: true
-exclude_from_localizations: ["docker-compose", "CNAME", "package", "README", "LICENSE", "Gemfile", "Gemfile.lock"]
+exclude_from_localizations: ["CNAME", "README.md", "LICENSE", "css", "images"]
 defaultLang: de
 languageNames:
   de: Deutsch
@@ -46,3 +46,10 @@ plugins:
   #  - jekyll-sitemap
   - jekyll-image-size
   - jekyll-multiple-languages-plugin
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+  - package.json
+  - package-lock.json

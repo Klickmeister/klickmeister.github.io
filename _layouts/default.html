@@ -1,10 +1,9 @@
 <!doctype html>
-<html class="no-js" lang="de">
+<html class="no-js" lang="{{ site.lang}}">
 
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ site.data.settings.basic_settings.site_title }} // {{ site.data.settings.basic_settings.site_tagline }}
-	</title>
+	<title>{% t settings.site_title %}</title>
 
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
@@ -12,21 +11,18 @@
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
 	<meta charset="utf-8">
-	<meta name="description" content="{{ site.data.settings.basic_settings.description | strip_html | xml_escape }}">
+	<meta name="description" content="{% t settings.description %}">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="{% if page.url == " /" %}{{ site.data.settings.basic_settings.site_title }} – {{
-		page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
-	<meta name="twitter:description"
-		content="{{ site.data.settings.basic_settings.description | strip_html | xml_escape }}">
+	<meta name="twitter:title" content="{% if page.url == " /{{ site.lang}}" %}{% t settings.site_title %} – {{page.title }}{% else %}{{ page.title }} – {% t settings.site_title %}{% endif %}">
+	<meta name="twitter:description" content="{% t settings.description %}">
 	<meta name="twitter:image:src" content="{{ site.data.settings.basic_settings.featured_image | absolute_url }}">
 
 	<!-- Facebook OpenGraph -->
-	<meta property="og:title" content="{% if page.url == " /" %}{{ site.data.settings.basic_settings.site_title }} – {{
-		page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
+	<meta property="og:title" content="{% if page.url == " /{{ site.lang}}" %}{% t settings.site_title %} – {{page.title }}{% else %}{{ page.title }} – {% t settings.site_title %}{% endif %}" />
 	<meta property="og:description"
-		content="{{ site.data.settings.basic_settings.description | strip_html | xml_escape }}" />
+		content="{% t settings.description %}" />
 	<meta property="og:image" content="{{ site.data.settings.basic_settings.featured_image | absolute_url }}" />
 </head>
 

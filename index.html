@@ -1,15 +1,11 @@
 ---
-
 layout: default
-title: Klickmeister GmbH
-tagline: Werkzeuge für's Web
 class: grid
-
 ---
 
 <div class="section herotext is-blue">
-    {% capture content %}{% include intro.html %}{% endcapture %}
-    {{ content | markdownify }}
+  {% capture content %}{% t intro.text %}{% endcapture %}
+  {{ content | markdownify }}
 </div>
 
 <section class="section is-large is-stacked">
