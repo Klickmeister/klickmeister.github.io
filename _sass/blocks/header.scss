@@ -10,6 +10,10 @@
   &.is-transparent {
     background-color: transparent;
   }
+
+  .active {
+    color: var(--lightest);
+  }
 }
 
 /* Logo
