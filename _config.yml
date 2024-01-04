@@ -1,8 +1,8 @@
 baseurl: ""
 
 languages: ["de", "en"]
+exclude_from_localizations: ["CNAME", "README.md", "LICENSE", "css", "images", "fonts"]
 default_locale_in_subfolder: true
-exclude_from_localizations: ["CNAME", "README.md", "LICENSE", "css", "images"]
 defaultLang: de
 languageNames:
   de: Deutsch

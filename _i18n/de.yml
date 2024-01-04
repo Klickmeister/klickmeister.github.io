@@ -2,7 +2,15 @@ settings:
   site_title: Klickmeister GmbH // Werkzeuge fürs Web
   description: Wir machen Websites. Große Websites. Kleine Websites. Onlineshops. Wir sind Designer. Wir lieben spannende Aufgabenstellungen. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit dem Jahr 2000 Klickmeister.
   tagline: Werkzeuge für's Web
-  
+
+cookies:
+  intro: Hier gibt's keine Cookies...
+  text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
+
 # Content
 intro:
   text: 'Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.'
+
+products:
+  header-1: Das Web ist bunt
+  header-2: und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
