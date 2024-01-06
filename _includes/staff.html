@@ -5,7 +5,8 @@
 <div class="staff-overview grid-small">
     {% for human in staff %}
     <figure class="staff-item">
-        <img loading="lazy" src="./people/{{ human.pic }}-s.jpg" alt="{{ human.title }}">
+        {% assign image = "/images/people/" | append: human.pic | append: "-s.jpg" %}
+        <img loading="lazy" src="{{ image | prepend: site.baseurl_root }}" alt="{{ human.title }}">
         <figcaption>
             <header>
                 <h3>{{ human.title }}</h3>
