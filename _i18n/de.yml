@@ -12,8 +12,9 @@ content:
     text: 'Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.'
 
   products:
-    header-1: Das Web ist bunt
-    header-2: und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
+    header:
+      h1: Das Web ist bunt
+      h2: und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
 
     information-engineering:
       title: Information Engineering
@@ -40,3 +41,14 @@ content:
       linktext: Mehr zu Web Accessibility
       intro: |
         «Menschen mit Einschränkungen sind nicht meine Zielgruppe» … mag sein, aber bestimmt sind sie Teil Deiner Zielgruppe. Bei barrierefreien Webseiten geht es um mehr als nur die Nutzung der Website mit einem Screenreader. Barrierearme Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), egal ob man Einschränkungen beim Sehen, Hören, oder motorischer Natur hat oder nicht: Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierearme Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!
+
+  snapshots:
+    header: Momentaufnahme
+
+    ss2023-05-12:
+      title: Alles neu macht der Mai
+      date: 2023-05-12
+
+    ss2023-08-09:
+      title: Und zack! Schon wird es Herbst.
+      date: 2023-08-08
