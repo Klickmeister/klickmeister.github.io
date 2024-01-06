@@ -3,14 +3,40 @@ settings:
   description: Wir machen Websites. Große Websites. Kleine Websites. Onlineshops. Wir sind Designer. Wir lieben spannende Aufgabenstellungen. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit dem Jahr 2000 Klickmeister.
   tagline: Werkzeuge für's Web
 
-cookies:
-  intro: Hier gibt's keine Cookies...
-  text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
+content:
+  cookies:
+    intro: Hier gibt's keine Cookies...
+    text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
+  
+  intro:
+    text: 'Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.'
 
-# Content
-intro:
-  text: 'Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.'
+  products:
+    header-1: Das Web ist bunt
+    header-2: und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
 
-products:
-  header-1: Das Web ist bunt
-  header-2: und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
+    information-engineering:
+      title: Information Engineering
+      linktext: Mehr zu Information Engineering
+      intro: «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
+
+    karten-und-visualisierungen:
+      title: Interaktive Karten
+      linktext: Mehr zu Karten und Visualisierungen
+      intro: |
+        «Wo gibt's was? Wo geht was ab? Wo geht's lang?»<br>Deine Antworten kannst Du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder Du schicktst Deine Daten als visuellen Candy mit HighSpeed in den Cortex Deiner User:innen.<br><br>
+        **TLDR;** Interaktive Karten sind saupraktisch, um Deine Daten sichtbar zu machen. Wir helfen Dir dabei.
+
+    prototypen:
+      title: Prototyping
+      linktext: Mehr zu Prototyping
+      intro: |
+        «Du hast' ne geile Idee?» Nicht nur mal eben im Kreativrausch - nein, eine Idee mit **fettem** Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: **Das ist nicht nur eine geile Idee, sondern eine richtig gute!**<br>
+        «Du hast ein (Produkt)design?» Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig.<br>Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.<br>
+        **TLDR;** Prototypen sind budgetschützende Lifehacks.
+    
+    webaccessibility:
+      title: Web Accessibility
+      linktext: Mehr zu Web Accessibility
+      intro: |
+        «Menschen mit Einschränkungen sind nicht meine Zielgruppe» … mag sein, aber bestimmt sind sie Teil Deiner Zielgruppe. Bei barrierefreien Webseiten geht es um mehr als nur die Nutzung der Website mit einem Screenreader. Barrierearme Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), egal ob man Einschränkungen beim Sehen, Hören, oder motorischer Natur hat oder nicht: Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierearme Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!

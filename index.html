@@ -10,9 +10,6 @@ class: grid
 </div>
 
 <section class="section is-large is-stacked">
-    <div class="megatext is-inline">
-        <h2>{% t products.header-1 %}</h2><p>{% t products.header-2 %}</p>
-    </div>
     {% capture content %}{% include products.html %}{% endcapture %}
     {{ content | markdownify }}
 </section>

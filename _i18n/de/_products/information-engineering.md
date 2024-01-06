@@ -1,0 +1,1 @@
+«Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Deinen Daten Informationen? Wir helfen und beraten bei der datenschutzkonformen Verarbeitung und Auswertung von Daten, der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung und vieles mehr.

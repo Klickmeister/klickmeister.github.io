@@ -1,16 +1,18 @@
 {% assign products = site.products %}
 
-
+<div class="megatext is-inline">
+    <h2>{% t content.products.header-1 %}</h2><p>{% t content.products.header-2 %}</p>
+</div>
 <ul>
 {% for product in products %}
     <li class="product-card">
-        <h3>{{ product.title }}</h3>
+        <h3>{% t {{ product.title }} %}</h3>
         <figure class="product-card__content">
-            <img loading="lazy" src="/products/images/{{ product.img }}" alt="{{ product.title }}">
+            <img loading="lazy" src="/products/images/{{ product.img }}" alt="{% t {{ product.title }} %}">
             <figcaption>
-                {{ product.teasertext | markdownify }}
+                {{ product.content | markdownify }}
                 {% if product.linktext %}
-                    <!--a href="{{ product.url | relative_url }}" class="button">{{ product.linktext }}</a-->
+                    <!-- a href="{{ product.url | relative_url }}" class="button">{{ product.linktext }}</a -->
                 {% endif %}
             </figcaption>
         </figure>

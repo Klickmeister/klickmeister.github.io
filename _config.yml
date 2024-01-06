@@ -53,3 +53,5 @@ exclude:
   - docker-compose.yml
   - package.json
   - package-lock.json
+  - raw-images
+

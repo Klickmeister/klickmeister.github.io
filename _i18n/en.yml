@@ -3,14 +3,41 @@ settings:
   description: We create websites. Big websites. Small websites. Online shops. We are designers. We thrive on exciting challenges. We consult. We lead projects. We collaborate with our clients. We are not just suppliers. We aim to achieve goals together. Our work should bring joy. To our clients and us. We believe that a friendly collaboration is the foundation for success. We are experienced. We have been Klickmeister since the year 2000.
   tagline: Tools for the Web
 
-cookies:
-  intro: Hier gibt's keine Cookies...
-  text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
+content:
+  cookies:
+    intro: Hier gibt's keine Cookies...
+    text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
 
-# Content
-intro:
-  text: "We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our customers. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our customers and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years."
+  intro:
+    text: "We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our customers. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our customers and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years."
 
-products:
-  header-1: The Web is Colorful
-  header-2: and the possibilities are seemingly endless. We have conceptualized, built, used, discarded, revised, and retired many things. Currently, we are particularly interested in the following topics.
+  products:
+    header-1: The Web is Colorful
+    header-2: and the possibilities are seemingly endless. We have conceptualized, built, used, discarded, revised, and retired many things. Currently, we are particularly interested in the following topics.
+
+    information-engineering:
+      title: Information Engineering
+      linktext: More about Information Engineering
+      intro: |
+        "Data, data, data, and always think about the user." How do you turn your data into information? What data do I have, and how do I structure it best? How do I connect my data sources? How do I provide my data? We help and advise you on the conception and development of data visualizations and modeling or data provision.
+
+    karten-und-visualisierungen:
+      title: Interactive Maps
+      linktext: More about Maps and Visualizations
+      intro: |
+        "Where can you find what? What's going on? Which way to go?"<br>You can put your answers into boring texts, dull lists, or nerdy tables, yawn... or you can send your data as visual candy at high speed into the cortex of your users.<br><br>
+        **TLDR;** Interactive maps are super practical to make your data visible. We'll help you with that.
+
+    prototypen:
+      title: Prototyping
+      linktext: More about Prototyping
+      intro: |
+        "You've got a great idea?" Not just in a creative frenzy - no, an idea with **tremendous** potential. You didn't keep it to yourself, shared it with others, thought about it deeply, had it elaborated, and realized: **This is not just a great idea, but a really good one!**<br>
+        "You have a (product) design?" It's right in front of you: beautifully elaborated, graphically two-dimensional, and patiently waiting on paper.<br>Now, you can sink a lot of money and commission someone to implement it. Or, we can build you a prototype.<br>
+        **TLDR;** Prototypes are budget-protecting life hacks.
+    
+    webaccessibility:
+      title: Web Accessibility
+      linktext: More about Web Accessibility
+      intro: |
+        "People with limitations are not my target audience" … may be true, but they are certainly part of your audience. With accessible websites, it's about more than just using the website with a screen reader. Accessible web content enables participation for everyone. It's [simple for everyone](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), whether or not they have limitations in vision, hearing, or motor skills: High color contrast also helps when surfing the web in the sun, as the content remains readable; keyboard operability helps when the Magic Mouse battery is low, you've broken your arm, or you're simply a power user. And let's not forget: accessible websites also help search engines because the content is more accessible. Hooray!
