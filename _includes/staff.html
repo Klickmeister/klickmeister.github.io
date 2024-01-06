@@ -1,6 +1,7 @@
 {% assign staff = site.people | where : "status", "active" %}
 
 
+<h2>{% t content.staff.header %}</h2>
 <div class="staff-overview grid-small">
     {% for human in staff %}
     <figure class="staff-item">
@@ -8,10 +9,15 @@
         <figcaption>
             <header>
                 <h3>{{ human.title }}</h3>
-                {% if human.skilltitle %}<p class="staff-item__property">{{ human.skilltitle }}</p>{% endif %}
-                {% if human.gradle %}<p class="staff-item__property">{{ human.grad }}</p>{% endif %}
+                {% if human.skilltitle contains "content.staff.skilltitles" %}
+                <p class="staff-item__property">{% t {{ human.skilltitle }} %}</p>
+                {% elsif human.skilltitle %}
+                <p class="staff-item__property">{{ human.skilltitle }}</p>
+                {% endif %}
+                {% if human.gradle %}
+                <p class="staff-item__property">{{ human.grad }}</p>
+                {% endif %}
             </header>
-
             {{ human.content | markdownify }}
         </figcaption>
     </figure>

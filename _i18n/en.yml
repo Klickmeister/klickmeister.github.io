@@ -54,3 +54,11 @@ content:
       title: And there you go! Autumn is already here.
       date: 2023-08-08
 
+  staff:
+    header: People at Klickmeister
+    skilltitles:
+      sven: Managing Director
+      christian-noss: Managing Director
+      sina: Senior Project Manager
+      miriam: Accounting Partner
+      lisa: Junior Content Manager
