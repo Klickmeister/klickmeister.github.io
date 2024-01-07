@@ -11,8 +11,12 @@
     background-color: transparent;
   }
 
-  .active {
+  .is-active {
     color: var(--lightest);
+  }
+
+  .is-inactive {
+    border: none;
   }
 }
 
