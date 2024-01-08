@@ -9,8 +9,17 @@ content:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
   
-  logo:
+  error-404:
+    title: Seite nicht gefunden
+    description: Entschuldigung – die Seite, nach der Du suchst, scheint es nicht zu geben.
+    header: Seite wurde nicht gefunden.
+    text-1: Entschuldigung – die Seite, nach der Du suchst, scheint es nicht zu geben.
+    text-2: Vielleicht hat sich ein Tippfehler in der URL eingeschlichen oder die Seite ist umgezogen?
     linktext: Zurück zur Startseite
+
+  header:
+    logo:
+      linktext: Zurück zur Startseite
 
   intro:
     text-1: |

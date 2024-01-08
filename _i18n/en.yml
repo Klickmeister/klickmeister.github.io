@@ -9,8 +9,17 @@ content:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
 
-  logo:
-    linktext: Back to the homepage
+  error-404:
+    title: Page Not Found
+    description: Sorry, the page you are looking for seems to be missing.
+    header: Page Not Found.
+    text-1: Sorry, the page you are looking for seems to be missing.
+    text-2: Perhaps a typo has crept into the URL, or the page has moved?
+    linktext: Back to the Homepage
+
+  header:
+    logo:
+      linktext: Back to the homepage
 
   intro:
     text-1: |

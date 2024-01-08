@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Seite nicht gefunden
-description: Entschuldigung – die Seite, nach der Du suchst, scheint es nicht zu geben.
+title: content.error-404.title
+description: content.error-404.description
 featured_image: /images/social.jpg
 
 namespace: 404
-permalink: /404.html
+permalink: /404/
 ---
 
 <section class="single">
 
 	<div class="wrap">
 
-		<h1>Seite wurde nicht gefunden.</h1>
-		<p class="hero__text editable">Entschuldigung – die Seite, nach der Du suchst, scheint es nicht zu geben.</p>
-		<p class="hero__text editable">Vielleicht hat sich ein Tippfehler in der URL eingeschlichen oder die Seite ist umgezogen?</p>
-		<p><a href="/" class="button button--large">Zurück zur Startseite</a></p>
+		<h1>{% t content.error-404.header %}</h1>
+		<p class="hero__text editable">{% t content.error-404.text-1 %}</p>
+		<p class="hero__text editable">{% t content.error-404.text-2 %}</p>
+		<p><a href="{{ site.baseurl }}/" class="button button--large">{% t content.error-404.linktext %}</a></p>
 
 	</div>
 
