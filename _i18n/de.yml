@@ -9,8 +9,8 @@ content:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
   
-  header:
-    logo-text: Zurück zur Startseite
+  logo:
+    linktext: Zurück zur Startseite
 
   intro:
     text-1: |
@@ -107,8 +107,8 @@ content:
       linktext: maps.google.com/klickmeister-köln
     office-hours: Bürozeiten von 9.30 - 17.00 Uhr
     contact:
-      phone: fon
-      fax: fax
+      phone: fon 0201 . 269 73 87
+      fax: fax 0201 . 269 71 06
     legal:
       skilltitle: Geschäftsführer
       christian: Prof. Dipl. Des. Christian Noss

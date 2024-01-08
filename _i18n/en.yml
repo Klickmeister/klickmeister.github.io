@@ -9,8 +9,8 @@ content:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
 
-  header:
-    logo-text: Back to the homepage
+  logo:
+    linktext: Back to the homepage
 
   intro:
     text-1: |
@@ -109,8 +109,8 @@ content:
       linktext: maps.google.com/klickmeister-cologne
     office-hours: Office hours from 9:30 AM - 5:00 PM
     contact:
-      phone: phone
-      fax: fax
+      phone: phone 0201 . 269 71 06
+      fax: fax 0201 . 269 71 06
     legal:
       skilltitle: Managing Directors
       christian: Prof. Dipl. Des. Christian Noss
