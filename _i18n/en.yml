@@ -11,7 +11,7 @@ content:
 
   intro:
     text: |
-      We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our customers. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our customers and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years.
+      We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our clients. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our clients and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years.
 
   products:
     header:
@@ -87,7 +87,7 @@ content:
       150-meetings: Meetings (No Dailies)
       160-dailys: Dailys (No Meetings)
   
-  customers:
-    header: Customers
-    intro: The good news is, we have customers. Not too many, but they are very good ones. Yeah! Many of them have been with us for quite some time. We take pride in fostering a friendly connection with our customers, and we believe our customers appreciate that too.
+  clients:
+    header: Clients
+    intro: The good news is, we have clients. Not too many, but they are very good ones. Yeah! Many of them have been with us for quite some time. We take pride in fostering a friendly connection with our clients, and we believe our clients appreciate that too.
   
