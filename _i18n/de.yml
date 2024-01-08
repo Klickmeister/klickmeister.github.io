@@ -1,6 +1,7 @@
 settings:
   site_title: Klickmeister GmbH // Werkzeuge fürs Web
-  description: Wir machen Websites. Große Websites. Kleine Websites. Onlineshops. Wir sind Designer. Wir lieben spannende Aufgabenstellungen. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit dem Jahr 2000 Klickmeister.
+  description: |
+    Wir machen Websites. Große Websites. Kleine Websites. Onlineshops. Wir sind Designer. Wir lieben spannende Aufgabenstellungen. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit dem Jahr 2000 Klickmeister.
   tagline: Werkzeuge für's Web
 
 content:
@@ -9,7 +10,8 @@ content:
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
   
   intro:
-    text: 'Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.'
+    text: |
+      Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.
 
   products:
     header:
@@ -19,7 +21,8 @@ content:
     information-engineering:
       title: Information Engineering
       linktext: Mehr zu Information Engineering
-      intro: «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
+      intro: |
+        «Daten, Daten, Daten und immer an den Nutzer denken.» Wie werden aus Deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
 
     karten-und-visualisierungen:
       title: Interaktive Karten
@@ -44,11 +47,9 @@ content:
 
   snapshots:
     header: Momentaufnahme
-
     ss2023-05-12:
       title: Alles neu macht der Mai
       date: 2023-05-12
-
     ss2023-08-09:
       title: Und zack! Schon wird es Herbst.
       date: 2023-08-08
@@ -61,3 +62,25 @@ content:
       sina: Senior Projektmanagerin
       miriam: Buchhaltende Gesellschafterin
       lisa: Junior Content Managerin
+  
+  culture:
+    header: Kultur?
+    intro: Hier eine kleine Übersicht von Gewohnheiten, Regeln und Empfehlungen, die wir im Arbeitsalltag beherzigen wollen. Es klappt nicht immer, aber oft. Eigentlich richtet das nach innen, aber vielleicht hilft es auch anderen.
+    rules-and-habits:
+      010-vertrauen-reduziert-komplexitaet: Vertrauen reduziert Komplexität
+      020-ehrlichkeit-and-verbindlichkeit: Ehrlichkeit & Verbindlichkeit
+      030-agiles-arbeiten: Agiles Arbeiten
+      040-wertschaetzung: Wertschätzung
+      050-andere-arbeiten-gerne-mit-uns: Andere arbeiten gerne mit uns
+      060-arbeit-macht-arbeit-darum-heisst-sie-ja-so: Arbeit macht Arbeit, darum heißt sie ja so
+      070-arbeiten-im-bestand: Arbeiten im Bestand
+      080-freiraum: Freiraum
+      090-arbeiten-im-flow: Arbeiten im Flow
+      100-in-der-notaufnahme: In der Notaufnahme
+      110-die-kraft-der-sprache: Die Kraft der Sprache
+      120-arbeitszeit-ist-lebenszeit: Arbeitszeit ist Lebenszeit
+      130-besser-werden: Besser werden
+      135-tandem: Tandem – Wissen teilen
+      140-kommunikation: Kommunikation
+      150-meetings: Meetings (keine Dailys)
+      160-dailys: Dailys (keine Meetings)

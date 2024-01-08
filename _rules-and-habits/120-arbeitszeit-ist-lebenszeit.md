@@ -1,5 +1,5 @@
 ---
-title: Arbeitszeit ist Lebenszeit
+title: content.culture.rules-and-habits.120-arbeitszeit-ist-lebenszeit
 ---
 
-Wir sollten versuchen unsere Arbeitszeit so positiv wie möglich zu gestalten. Wenn uns etwas dazu fehlt, dann sprechen wir es an und versuchen es zu verbessern. Es ist erst mal egal, ob es um andere Projekte, eine andere Struktur des Team Meetings, mehr oder weniger Arbeitszeit, Hard- oder Software oder ein HomePod geht. Es geht sicherlich nicht alles, aber fragen kostet nichts. Defizite die wir nicht kennen, können wir nicht ausgleichen.
+{% tf _rules-and-habits/120-arbeitszeit-ist-lebenszeit.md %}

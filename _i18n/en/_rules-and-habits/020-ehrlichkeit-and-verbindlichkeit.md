@@ -1,0 +1,1 @@
+We stick to agreements and are open and honest with our clients and within the team. We only promise things that we can keep. That doesn't mean we don't make commitments, as the team/client needs commitments to feel secure and be able to orient themselves. However, when we make commitments, we keep them. Conditional commitments or smaller steps are also acceptable.

@@ -1,0 +1,3 @@
+We create web and web-based software. At the end of the day, our clients want functional, usable, and high-quality products from us. It's a rewarding job where, if everything goes well, we can experience flow. It's beautiful, enjoyable, and beneficial for the product.
+
+However, this only works when we have sufficient contiguous periods to get into the *zone*. Every meeting, every chat, every notification is a distraction. Therefore, we strive to block as much time as possible. Meetings and discussions are crucial, but they tend to be perceived as more important than flow development time. However, that's not the case. If we don't have time for concentrated development, we won't end up with a product in hand, no matter how well we've communicated.

@@ -1,0 +1,5 @@
+> People must be excited to work with us.
+
+We strive to position ourselves and behave in a way that makes others enjoy working with us. This can happen in various ways, and these are not exclusive but can be combined in any way. [Birger](https://marjorie-wiki.de/wiki/Birger_Schäfermeier) introduced the division of employees and team members into energy givers and energy consumers to us pretty early in the history of Klickmeister. This is, of course, a very simplified view and does not recognize the complexity of the other person. Still, it is a helpful way of thinking that can be applied not only in a professional but also in a personal context.
+
+We should always be energy givers! Energy can be provided to the team, project, or meeting in various ways. Here are a few examples: good mood, positive aura, serious engagement with the project, team motivation, highlighting difficulties, giving trust...

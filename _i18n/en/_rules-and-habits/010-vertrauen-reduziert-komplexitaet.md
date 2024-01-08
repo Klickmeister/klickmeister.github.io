@@ -1,0 +1,2 @@
+We enjoy what we do, and we want to spend as much time as possible on it and as little time as possible on the cumbersome details: complex offers, contracts, pitches, presentations, complicated written assurances, politics, etc. Our clients trust us, and we trust our clients. It is important for us to invest in this trust and familiarity. Many of the thoughts, ideas, and concepts that are fundamental to the thinking and actions of Klickmeister aim at trust and familiarity.
+

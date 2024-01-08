@@ -1,0 +1,5 @@
+Jedes Meeting braucht ein Ziel. Jeder sollte vor einem Meeting wissen, was sein Ziel ist. Wenn man das nicht weiß, ist man vielleicht gar nicht relevant für das Meeting. Das Beste an Meetings ist, dass man ein bisschen Smalltalk machen und die Leute besser kennen lernen kann. Nutzt das! Also nicht kommen, «Hallo» sagen, Rechner aufklappen und E-Mails checken, sondern kommen, «Hallo» sagen und ein bisschen quatschen. Es hilft immer!
+
+Wir achten darauf, in nicht zu vielen Meetings zu sitzen und die Meetingtaktung maximal die Hälfte unserer Arbeitstage diktiert. Von Meetings ist noch kein Softwareprojekt fertig geworden.
+
+Bei wichtigen Meetings sprechen wir uns vorab mit den wichtigen Leuten ab und vermeiden Überraschungen im Meeting selbst. Oftmals ist es sehr hilfreich ein problematisches oder wichtiges Thema mit dem «größten Widersacher/ Zweifler/ Gegner» durch zu sprechen.

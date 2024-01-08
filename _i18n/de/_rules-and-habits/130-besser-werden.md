@@ -1,0 +1,1 @@
+Wir wollen besser werden, beim Coden, beim Konzeptionieren, beim Umgang im Team, usw. Jede Idee, wie wir als Organisation oder wie einzelne Teams, Projekte etc. besser werden könnten, hilft. Wir nutzen Meetups, Workshops, Gespräche und Fortbildungen. Gerade Meetups geben Ideen, Inspiration und helfen bei der Einordnung der eigenen Stärken und Schwächen.

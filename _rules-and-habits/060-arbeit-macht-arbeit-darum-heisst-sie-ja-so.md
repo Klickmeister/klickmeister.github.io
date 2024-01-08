@@ -1,6 +1,5 @@
 ---
-title: Arbeit macht Arbeit, darum heißt sie ja so
+title: content.culture.rules-and-habits.060-arbeit-macht-arbeit-darum-heisst-sie-ja-so
 ---
 
-So hat es zumindest Stromberg formuliert. Nicht alles, was wir machen ist supercool und macht irre Spaß. Wir sollten versuchen, dass es so ist, bzw. der Anteil an Dingen, die uns happy machen/ befriedigen möglichst groß ist. Aber es wird niemals alles sein. Das müssen wir akzeptieren. Wenn wir jedoch merken, dass wir keinen Bock mehr auf Klickmeister haben: bitte rechtzeitig melden, denn wir können doch vergleichsweise viel verändern. Nicht alles und oftmals nicht sofort, aber mit ein bisschen Vorlaufzeit doch einiges.
-
+{% tf _rules-and-habits/060-arbeit-macht-arbeit-darum-heisst-sie-ja-so.md %}

@@ -1,10 +1,13 @@
 {% assign habits = site.rules-and-habits %}
 
-
+<div class="herotext">
+    <h2>{% t content.culture.header %}</h2>
+    <p>{% t content.culture.intro %}</p>
+</div>
 <div class="vertical-stack">
 {% for habit in habits %}
     <details class="limited-box">
-        <summary><h3>{{ habit.title }}</h3></summary>
+        <summary><h3>{% t {{ habit.title }} %}</h3></summary>
         {{ habit.content | markdownify }}
     </details>
 {% endfor %}

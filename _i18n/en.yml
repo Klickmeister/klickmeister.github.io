@@ -1,6 +1,7 @@
 settings:
   site_title: Klickmeister GmbH // Tools for the Web
-  description: We create websites. Big websites. Small websites. Online shops. We are designers. We thrive on exciting challenges. We consult. We lead projects. We collaborate with our clients. We are not just suppliers. We aim to achieve goals together. Our work should bring joy. To our clients and us. We believe that a friendly collaboration is the foundation for success. We are experienced. We have been Klickmeister since the year 2000.
+  description: |
+    We create websites. Big websites. Small websites. Online shops. We are designers. We thrive on exciting challenges. We consult. We lead projects. We collaborate with our clients. We are not just suppliers. We aim to achieve goals together. Our work should bring joy. To our clients and us. We believe that a friendly collaboration is the foundation for success. We are experienced. We have been Klickmeister since the year 2000.
   tagline: Tools for the Web
 
 content:
@@ -9,7 +10,8 @@ content:
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
 
   intro:
-    text: "We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our customers. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our customers and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years."
+    text: |
+      We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our customers. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our customers and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years.
 
   products:
     header:
@@ -62,3 +64,25 @@ content:
       sina: Senior Project Manager
       miriam: Accounting Partner
       lisa: Junior Content Manager
+
+  culture:
+    header: Culture?
+    intro: Here is a small overview of habits, rules and recommendations that we want to take to heart in our day-to-day work. It doesn't always work, but it often does. This is actually directed inwards, but perhaps it will help others too.
+    rules-and-habits:
+      010-vertrauen-reduziert-komplexitaet: Trust Reduces Complexity
+      020-ehrlichkeit-and-verbindlichkeit: Honesty & Reliability
+      030-agiles-arbeiten: Agile Work
+      040-wertschaetzung: Appreciation
+      050-andere-arbeiten-gerne-mit-uns: Others Enjoy Working with Us
+      060-arbeit-macht-arbeit-darum-heisst-sie-ja-so: Work is Work, That's Why It's Called That
+      070-arbeiten-im-bestand: Working in the Existing Environment
+      080-freiraum: Freedom of Space
+      090-arbeiten-im-flow: Working in the Flow
+      100-in-der-notaufnahme: In the Emergency Room
+      110-die-kraft-der-sprache: The Power of Language
+      120-arbeitszeit-ist-lebenszeit: Working Hours are Life Hours
+      130-besser-werden: Getting Better
+      135-tandem: Tandem – Sharing Knowledge
+      140-kommunikation: Communication
+      150-meetings: Meetings (No Dailies)
+      160-dailys: Dailys (No Meetings)
