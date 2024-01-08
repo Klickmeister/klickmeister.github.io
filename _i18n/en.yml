@@ -9,6 +9,9 @@ content:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
 
+  header:
+    logo-text: Back to the homepage
+
   intro:
     text-1: |
       We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our clients. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our clients and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 
