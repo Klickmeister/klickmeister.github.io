@@ -6,8 +6,8 @@ settings:
 
 content:
   cookies:
-    intro: Hier gibt's keine Cookies...
-    text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
+    intro: No cookies here...
+    text: ...and no personalized tracking either because privacy is very important to us. Sounds great, doesn't it?
 
   error-404:
     title: Page Not Found
