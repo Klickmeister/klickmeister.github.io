@@ -86,3 +86,8 @@ content:
       140-kommunikation: Communication
       150-meetings: Meetings (No Dailies)
       160-dailys: Dailys (No Meetings)
+  
+  customers:
+    header: Customers
+    intro: The good news is, we have customers. Not too many, but they are very good ones. Yeah! Many of them have been with us for quite some time. We take pride in fostering a friendly connection with our customers, and we believe our customers appreciate that too.
+  
