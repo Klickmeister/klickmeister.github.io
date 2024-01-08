@@ -12,10 +12,6 @@ content:
   error-404:
     title: Page Not Found
     description: Sorry, the page you are looking for seems to be missing.
-    header: Page Not Found.
-    text-1: Sorry, the page you are looking for seems to be missing.
-    text-2: Perhaps a typo has crept into the URL, or the page has moved?
-    linktext: Back to the Homepage
 
   header:
     logo:

@@ -5,7 +5,7 @@
     {% for lang in site.languageNames %}
     {% if lang[0] == site.lang %} {% continue %} {% endif %}
     {% if page.namespace %}
-    <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+    <a class="is-inactive" href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
     {% else %}
     <a class="is-inactive" href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
     {% endif %}
