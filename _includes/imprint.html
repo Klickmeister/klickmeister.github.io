@@ -1,25 +1,25 @@
 
 <div class="limited-box">
-  <h2>Kontakt & Impressum</h2>
+  <h2>{% t content.imprint.header %}</h2>
 
   <address>
-    Klickmeister GmbH<br>
-    Kersebaumstraße 74<br>
-    45136 Essen<br>
-    <a href="http://maps.google.com/maps?f=l&amp;hl=de&amp;q=KLickmeister&amp;near=&amp;sll=51.426614,7.03125&amp;sspn=0.307828,0.627594&amp;ie=UTF8&amp;cid=51432712,7029938,2663775222715706834&amp;li=lmd&amp;z=14&amp;t=m">maps.google.com/klickmeister</a><br>
+    {% t content.imprint.address-essen.text.name %}<br>
+    {% t content.imprint.address-essen.text.street %}<br>
+    {% t content.imprint.address-essen.text.city %}<br>
+    <a href="http://maps.google.com/maps?f=l&amp;hl=de&amp;q=KLickmeister&amp;near=&amp;sll=51.426614,7.03125&amp;sspn=0.307828,0.627594&amp;ie=UTF8&amp;cid=51432712,7029938,2663775222715706834&amp;li=lmd&amp;z=14&amp;t=m">{% t content.imprint.address-essen.linktext %}</a><br>
   </address>
   
   <address>
-    Büro Köln<br>
-    Hospeltstraße 32<br>
-    50825 Köln<br>
-    <a href="https://goo.gl/maps/8cQE24LFUbuCFBRG8"> maps.google.com/klickmeister-köln</a><br>
+    {% t content.imprint.address-cologne.text.name %}<br>
+    {% t content.imprint.address-cologne.text.street %}<br>
+    {% t content.imprint.address-cologne.text.city %}<br>
+    <a href="https://goo.gl/maps/8cQE24LFUbuCFBRG8">{% t content.imprint.address-cologne.linktext %}</a><br>
   </address>
 
-  <p>Bürozeiten von 9.30 - 17.00 Uhr</p>
+  <p>{% t content.imprint.office-hours %}</p>
   <p>
-  fon 0201 . 269 73 87<br>
-  fax 0201 . 269 71 06<br>
+  {% t content.imprint.contact.phone %} 0201 . 269 73 87<br>
+  {% t content.imprint.contact.fax %} 0201 . 269 71 06<br>
   <a class="rev" data-who="info" data-where="klickmeister" data-tld="de" data-js-contact>ed<!--testcase-1-->.rets<!--testcase-2-->iemkcilk<!--testcase-3-->@ofni</a><br>
 
   </p>
@@ -27,18 +27,18 @@
 
 <div class="limited-box">
   <dl>
-    <dt>Geschäftsführer</dt>
-    <dd>Prof. Dipl. Des. Christian Noss</dd>
-    <dd>Dipl. Des. Sven Schäfermeier</dd>
-    <dt>Handelsregister</dt>
-    <dd>Amtsgericht Essen HRB 14422</dd>
-    <dd>USt-IdNr. DE 210791057</dd>
+    <dt>{% t content.imprint.legal.skilltitle %}</dt>
+    <dd>{% t content.imprint.legal.christian %}</dd>
+    <dd>{% t content.imprint.legal.sven %}</dd>
+    <dt>{% t content.imprint.legal.register %}</dt>
+    <dd>{% t content.imprint.legal.court %}</dd>
+    <dd>{% t content.imprint.legal.vat %}</dd>
   </dl>
   <p>
-    Dieses Impressum gilt auch für unsere Auftritte bei Facebook, Youtube und Twitter.
+    {% t content.imprint.legal.disclaimer %}
   </p>
 
   <p>
-    Wer Lust auf ein bisschen Kleingedrucktes hat, kann hier unsere <a href="agb.html">Allgemeine Geschäftsbedingungen</a> finden.
+    {% t content.imprint.legal.agb.text-1 %} <a href="agb.html">{% t content.imprint.legal.agb.linktext %}</a> {% t content.imprint.legal.agb.text-2 %}.
   </p>
 </div>

@@ -10,8 +10,9 @@ content:
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
 
   intro:
-    text: |
-      We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our clients. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our clients and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 23 years.
+    text-1: |
+      We do web. Web-based applications: Websites, prototypes, visualizations, digital tools. We love exciting tasks. We love the web and open standards. We advise. We manage projects. We work with our clients. We are not suppliers. We want to achieve goals, together. Our work should be fun. For our clients and for us. We believe that friendly cooperation is the basis for success. We are experienced. We have been Klickmeister for over 
+    text-2: years.
 
   products:
     header:
@@ -88,4 +89,35 @@ content:
   clients:
     header: Clients
     intro: The good news is, we have clients. Not too many, but they are very good ones. Yeah! Many of them have been with us for quite some time. We take pride in fostering a friendly connection with our clients, and we believe our clients appreciate that too.
+  
+  imprint:
+    header: Contact & Imprint
+    address-essen:
+      text:
+        name: Klickmeister GmbH
+        street: Kersebaumstraße 74
+        city: 45136 Essen
+      linktext: maps.google.com/klickmeister
+    address-cologne:
+      text:
+        name: Office Cologne
+        street: Hospeltstraße 32
+        city: 50825 Cologne
+      linktext: maps.google.com/klickmeister-cologne
+    office-hours: Office hours from 9:30 AM - 5:00 PM
+    contact:
+      phone: phone
+      fax: fax
+    legal:
+      skilltitle: Managing Directors
+      christian: Prof. Dipl. Des. Christian Noss
+      sven: Dipl. Des. Sven Schäfermeier
+      register: Commercial Register
+      court: District Court Essen HRB 14422
+      vat: VAT ID DE 210791057
+      disclaimer: This imprint also applies to our appearances on Facebook, Youtube, and Twitter.
+      agb:
+        text-1: If you're interested in some fine print, you can find our
+        text-2: here
+        linktext: General Terms and Conditions
   

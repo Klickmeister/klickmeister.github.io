@@ -10,8 +10,9 @@ content:
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
   
   intro:
-    text: |
-      Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über 23 Jahren Klickmeister.
+    text-1: |
+      Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über
+    text-2: Jahren Klickmeister.
 
   products:
     header:
@@ -86,4 +87,35 @@ content:
   clients:
     header: Kunden
     intro: Das Gute ist, wir haben Kunden. Nicht so viele, aber dafür sehr gute. Yeah! Viele sogar schon recht lang. Und darauf sind wir auch ein bisschen stolz. Wir mögen freundschaftliche Verbundenheit zu unseren Kunden. Und wir glauben die Kunden mögen das auch.
+  
+  imprint:
+    header: Kontakt & Impressum
+    address-essen:
+      text:
+        name: Klickmeister GmbH
+        street: Kersebaumstraße 74
+        city: 45136 Essen
+      linktext: maps.google.com/klickmeister
+    address-cologne:
+      text:
+        name: Büro Köln
+        street: Hospeltstraße 32
+        city: 50825 Köln
+      linktext: maps.google.com/klickmeister-köln
+    office-hours: Bürozeiten von 9.30 - 17.00 Uhr
+    contact:
+      phone: fon
+      fax: fax
+    legal:
+      skilltitle: Geschäftsführer
+      christian: Prof. Dipl. Des. Christian Noss
+      sven: Dipl. Des. Sven Schäfermeier
+      register: Handelsregister
+      court: Amtsgericht Essen HRB 14422
+      vat: USt-IdNr. DE 210791057
+      disclaimer: Dieses Impressum gilt auch für unsere Auftritte bei Facebook, Youtube und Twitter.
+      agb:
+        text-1: Wer Lust auf ein bisschen Kleingedrucktes hat, kann hier unsere
+        text-2: finden
+        linktext: Allgemeine Geschäftsbedingungen
   
