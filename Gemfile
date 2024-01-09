@@ -18,4 +18,4 @@ gem "jekyll-image-size", "= 1.2.1"
 gem "webrick", "~> 1.8"
 
 # Multilanguage support
-gem 'jekyll-multiple-languages-plugin'
+gem 'jekyll-multiple-languages-plugin', '~> 1.8'

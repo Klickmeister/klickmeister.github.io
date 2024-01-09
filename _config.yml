@@ -54,4 +54,4 @@ exclude:
   - package.json
   - package-lock.json
   - raw-images
-
+  - vendor/
