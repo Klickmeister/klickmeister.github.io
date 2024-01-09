@@ -1,0 +1,2 @@
+"My eyes aren't getting any better!" If you want to offer information, products, services, and experiences to as many users as possible, accessibility is crucial. Nearly 30% of all of us are affected by limitations in vision, hearing, motor skills, or cognitive abilities. 'Accessibility' or, better said, 'inclusivity,' is not just a 'nice-to-have,' especially considering new legal requirements.<br>
+The conception and development of accessible web offerings are not rocket science. Let's get started!

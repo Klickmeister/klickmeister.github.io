@@ -1,21 +1,16 @@
 ---
-
 layout: default
 title: Klickmeister GmbH
-tagline: Werkzeuge für's Web
+tagline: settings.tagline
 class: grid
-
 ---
 
 <div class="section herotext is-blue">
-    {% capture content %}{% include intro.html %}{% endcapture %}
-    {{ content | markdownify }}
+  {% capture content %}{% include intro.html %}{% endcapture %}
+  {{ content | markdownify }}
 </div>
 
 <section class="section is-large is-stacked">
-    <div class="megatext is-inline">
-        <h2>Das Web ist bunt</h2><p>und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.</p>
-    </div>
     {% capture content %}{% include products.html %}{% endcapture %}
     {{ content | markdownify }}
 </section>
@@ -26,17 +21,11 @@ class: grid
 </section>
 
 <section class="staff">
-    <h2>Leute bei Klickmeister</h2>
     {% capture content %}{% include staff.html %}{% endcapture %}
     {{ content }}
 </section>
 
 <section class="culture is-screwed" id="culture">
-    <div class="herotext">
-        <h2>Kultur?</h2>
-        <p>Hier eine kleine Übersicht von Gewohnheiten, Regeln und Empfehlungen, die wir im Arbeitsalltag beherzigen
-            wollen. Es klappt nicht immer, aber oft. Eigentlich richtet das nach innen, aber vielleicht hilft es auch anderen.</p>
-    </div>
     {% capture content %}{% include rules-and-habits.html %}{% endcapture %}
     {{ content }}
 </section>

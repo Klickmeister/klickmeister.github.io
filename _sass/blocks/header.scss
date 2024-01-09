@@ -10,6 +10,14 @@
   &.is-transparent {
     background-color: transparent;
   }
+
+  .is-active {
+    color: var(--lightest);
+  }
+
+  .is-inactive {
+    border: none;
+  }
 }
 
 /* Logo

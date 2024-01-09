@@ -1,6 +1,6 @@
 {% assign snapshot = site.snapshots | last %}
 
-<h2>Momentaufnahme <span class="snapshot-subtitle">{{snapshot.title}}</span></h2>
+<h2>{% t content.snapshots.header %} <span class="snapshot-subtitle">{% t {{snapshot.title}} %}</span></h2>
 
 <div>
 {{snapshot.content | markdownify}}

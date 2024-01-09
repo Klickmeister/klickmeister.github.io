@@ -1,0 +1,3 @@
+Smartphone Junkie
+
+As the son of an architect, Keno had an early urge to shape his environment and eventually found himself in the vast field of informatics. The fascination of creating something from the ground up seized him and now serves as his motivation to try out and develop new techniques and innovative paths. Meanwhile, his greatest interest lies in the field of smartphone applications, which is why he uses his smartphone more often than he would like. With enough coffee and finesse, no project is too complex, and no challenge is too big for him.

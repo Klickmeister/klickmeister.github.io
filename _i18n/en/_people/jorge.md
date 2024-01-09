@@ -1,0 +1,3 @@
+Film Aficionado.
+
+Jorge's passion for movies and moving images is evident through his extensive forays into IMDb, where he spends more time than on Wikipedia. He has a keen interest in everything that moves people and brings them joy. He likes to incorporate this interest into all the projects he touches. Additionally, he lives and breathes code and would prefer to combine everything to unleash undiscovered potentials.

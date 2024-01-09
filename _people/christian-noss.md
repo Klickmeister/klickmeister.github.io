@@ -1,14 +1,10 @@
 ---
 title: Christian Noss
 name:
-skilltitle: Geschäftsführer
+skilltitle: content.staff.skilltitles.christian-noss
 grad: Diplom Designer
 pic: christian-noss
 status: active
 ---
 
-Mag laaange Skateboards. Kurze auch. 
-
-Ist geschäftsführender Gesellschafter bei Klickmeister und seit über 25 Jahren fasziniert von den Möglichkeiten des Webs. Tauscht den Rechner gerne mal mit dem Schlagzeug. Seinen Bewegungsdrang stillt er zumeist auf dem Fahrrad oder dem Longboard.
-
-Wer mehr über seine Arbeit im [Studiengang Medieninformatik der TH Köln](https://www.medieninformatik.th-koeln.de) wissen möchte, kann unter [christiannoss.de](https://christiannoss.de) nachschauen.
+{% tf _people/christian-noss.md %}

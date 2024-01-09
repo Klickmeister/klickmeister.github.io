@@ -1,0 +1,1 @@
+"Data, data, data, and always think about the user." How do you turn your data into information? We assist and advise in the privacy-compliant processing and analysis of data, as well as the conception and development of data visualizations and modeling, and much more.

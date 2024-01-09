@@ -1,0 +1,1 @@
+We want to improve, in coding, in conceptualizing, in team interaction, etc. Every idea on how we as an organization or individual teams, projects, etc., could get better is valuable. We use meetups, workshops, discussions, and training sessions. Especially meetups provide ideas, inspiration, and help in assessing our strengths and weaknesses.

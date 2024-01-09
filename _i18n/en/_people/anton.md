@@ -1,0 +1,3 @@
+Enjoys lifting heavy things.
+
+Thanks to his affinity for technology, he started tinkering with his own systems at an early age. After completing his vocational training as an IT specialist for system integration, he is now studying media informatics at the TH Köln and is developing applications for the web as a working student at Klickmeister. To balance out his work at his desk, he enjoys weight training.

@@ -1,22 +1,5 @@
 ---
-title: Agiles Arbeiten
+title: content.culture.rules-and-habits.030-agiles-arbeiten
 ---
 
-Wir stehen voll und ganz hinter dem [agilen Manifest](https://agilemanifesto.org/iso/de/manifesto.html):
-
-#### Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
-
-Der Mensch steht im Fokus und der direkte Austausch ist wichtiger als Formalismen. Das heißt, jeder noch so ausgefeilte und gut dokumentierte Prozess kann ein persönliches Gespräch nicht ersetzen. Der persönliche Austausch ist super wichtig, hilft dem Einzelnen, hilft dem Team und hilft dem Projekt. Dabei sind handelnde Personen für uns nicht nur Teil einer Prozesskette, sondern Menschen mit Bedürfnissen und Zielen. Es hilft enorm, diese Menschen zu kennen und sich für diese zu interessieren. Je größer die Vertrautheit und damit das Vertrauen, desto einfacher die Kooperation. Und das wirkt sich positiv auf das Arbeitsklima und das Projekt aus.
-
-
-#### Funktionierende Software ist wichtiger als umfassende Dokumentation
-
-Konkrete Arbeitsergebnisse statt Checklisten, Slidedecks oder lange E-Mails. Gerade in großen Organisationen mit klassischer Projektkultur fließt oft mehr Zeit in die Erstellung von Slidedecks für Lenkungsausschüsse als in die Erledigung der eigentlichen Aufgabe, oder wie ein Kunde neulich so schön sagte: «hier haben wir mal wieder mehr Manager im Projekt, als Leute, die am Produkt arbeiten … ». Wir wollen das möglichst viel unserer Zeit und damit auch ein möglichst großer Teil des Budgets im Arbeitsergebnis sichtbar wird. Darauf müssen wir achten. Wenn ein 3-minütiges Telefonat die Sache auch klärt, ziehen wir es der E-Mail vor, an der wir 15 Minuten sitzen würden. Wenn der PO oder Sponsor Input für seine Präsentation braucht, fragen wir, ob Stichpunkte reichen, usw.
-
-#### Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
-
-Der Kunde nimmt in der Arbeit unserer Teams eine zentrale Rolle ein. Er ist mit seinen Bedürfnissen und Problemen wichtiger Teil des Teams. Eine (persönliche) Auseinandersetzung mit dem Kunden ist dabei wichtiger als ein formaler und möglichst wasserdichter Vertrag. Auch mit diesem Punkt stellt das agile Manifest den direkten Austausch über Formalien. Das Ziel ist, dass wir zusammen mit dem Kunden und anderen Prozessbeteiligten an einem Strang ziehen und uns als ein Team verstehen. Denn letztlich gibt es eine direkte Abhängigkeit. Wir wollen nicht in einen wir-gegen-die Modus kommen. Man merkt das in Projekten sehr schnell, wenn versucht wird «Papierlagen» aufzubauen, auf die sich dann zurückgezogen und berufen wird, auf deren Basis Dinge eingefordert werden. Das heißt nicht, dass wir nichts aufschreiben und dokumentieren wollen, aber es heißt, dass wir kein Papier erzeugen wollen, gegen dass dann gearbeitet werden muss. Es ist wichtig mit Individuen zu interagieren und Individuen zu adressieren. Sobald wir abstrahieren, bildet sich ein wir-und-die, oder schlimmer: wir-gegen-die. An diesem Punkt wird Kooperation schwieriger. Sprecht also von und mit Individuen statt von «den Übersetzern», «der GL» oder «der IT».
-
-#### Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans
-
-Wir sind als Organisation und Team sehr beweglich und anpassungsfähig. Jedoch bedeutet das nicht, dass wir keinen Plan haben, willkürlich, sprunghaft oder chaotisch arbeiten. Wir sind auf ein Ziel fokussiert, weichen aber auch gerne vom eigentlichen Plan ab, wenn es für uns und das Projekt sinnvoll ist und es Aussicht auf einen höheren Wertbeitrag gibt. Superwichtig! Ein Plan soll uns eine Struktur geben, um ein Ziel zu erreichen. Das Ziel ist es, dem Ziel möglichst nahe zu kommen und nicht den Plan zu befolgen. Das ist ein grundlegender Unterschied. Oftmals ist die Haltung folgende: wir haben ein Ziel und machen einen Plan, um dieses Ziel zu erreichen. Ab dann wird nur noch der Plan verfolgt. Dabei wird das Ziel manchmal aus dem Auge verloren. Wir lernen unterwegs und das verändert den Plan und manchmal auch das Ziel.
+{% tf _rules-and-habits/030-agiles-arbeiten.md %}

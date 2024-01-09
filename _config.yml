@@ -1,5 +1,13 @@
 baseurl: ""
 
+languages: ["de", "en"]
+exclude_from_localizations: ["CNAME", "README.md", "LICENSE", "css", "images", "fonts"]
+default_locale_in_subfolder: true
+defaultLang: de
+languageNames:
+  de: Deutsch
+  en: English
+
 defaults:
   - scope:
       path: ""
@@ -15,7 +23,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -32,10 +40,18 @@ collections:
 #     output: true
 #   checkItOut:
 #     output: false
-    
-plugins:
-#  - jekyll-paginate
-#  - jekyll-sitemap
-  - jekyll-image-size
 
-  
+plugins:
+  #  - jekyll-paginate
+  #  - jekyll-sitemap
+  - jekyll-image-size
+  - jekyll-multiple-languages-plugin
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+  - package.json
+  - package-lock.json
+  - raw-images
+  - vendor/
