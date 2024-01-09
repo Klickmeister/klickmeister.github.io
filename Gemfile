@@ -15,7 +15,7 @@ gem "jekyll-octicons", "~> 14.2"
 
 # Custom plugins
 gem "jekyll-image-size", "= 1.2.1"
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8.0"
 
 # Multilanguage support
 gem 'jekyll-multiple-languages-plugin', '~> 1.8'
