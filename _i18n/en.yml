@@ -55,14 +55,10 @@ content:
         "People with limitations are not my target audience" … may be true, but they are certainly part of your audience. With accessible websites, it's about more than just using the website with a screen reader. Accessible web content enables participation for everyone. It's [simple for everyone](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), whether or not they have limitations in vision, hearing, or motor skills: High color contrast also helps when surfing the web in the sun, as the content remains readable; keyboard operability helps when the Magic Mouse battery is low, you've broken your arm, or you're simply a power user. And let's not forget: accessible websites also help search engines because the content is more accessible. Hooray!
   
   snapshots:
-    header: Snapshot
-
-    ss2023-05-12:
-      title: Everything is new in May
-
-    ss2023-08-09:
-      title: And there you go! Autumn is already here.
-
+    header: Snapshots
+    ss2024-01-01:
+      title: Restart und reboot
+  
   staff:
     header: People at Klickmeister
     skilltitles:
