@@ -24,7 +24,7 @@ content:
 
   products:
     header:
-      h1: The Web is Colorful
+      h1: The Web is diverse
       h2: and the possibilities are seemingly endless. We have conceptualized, built, used, discarded, revised, and retired many things. Currently, we are particularly interested in the following topics.
 
     information-engineering:
@@ -56,8 +56,8 @@ content:
   
   snapshots:
     header: Snapshots
-    ss2024-01-01:
-      title: Restart und reboot
+    ss2024-03-01:
+      title: Springtime
   
   staff:
     header: People at Klickmeister
