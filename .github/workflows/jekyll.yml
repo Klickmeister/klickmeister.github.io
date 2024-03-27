@@ -42,7 +42,10 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           name: github-actions
           known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
-          config: ${{ secrets.SSH_CONFIG }}
+          config: |
+            Host ${{ secrets.SSH_HOST }}
+              AddKeysToAgent yes
+              IdentityFile ~/.ssh/github-actions
 
       - name: Adding Known Hosts
         run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
