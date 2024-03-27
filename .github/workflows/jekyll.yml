@@ -46,13 +46,16 @@ jobs:
             Host ${{ secrets.SSH_HOST }}
               HostName ${{ secrets.SSH_HOST }}
               User ${{ secrets.SSH_USER }}
+              IdentitiesOnly yes
+              AddKeysToAgent yes
+              AddKeysToAgent yes
               IdentityFile ~/.ssh/github-actions
 
       - name: Adding Known Hosts
         run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
           
-      - name: Check SSH
-        run: ssh -T -v -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}
+      #- name: Check SSH
+      #  run: ssh -T -v -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}
 
       - name: Deploy with rsync
         run: rsync -avz ./_site/ -e 'ssh -p ${{ secrets.SSH_PORT }}' ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/vhosts/klickmeister.de/httpdocs/www.klickmeister.de/
