@@ -49,6 +49,9 @@ jobs:
 
       - name: Adding Known Hosts
         run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts2
+
+      - name: Start SSH Agent
+        run: eval $(ssh-agent) && ssh-add ~/.ssh/github-actions
           
       - name: Check SSH
         run: ssh -T -v -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}
