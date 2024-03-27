@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll site to klickmeister.de
 
 on:
   # Runs on pushes targeting the default branch
@@ -46,4 +46,4 @@ jobs:
         run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
       - name: Deploy with rsync
-        run: rsync -avz ./site/ -e 'ssh -p ${{ secrets.SSH_PORT }}' ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/vhosts/klickmeister.de/httpdocs/www.klickmeister.de/
+        run: rsync -avz ./_site/ -e 'ssh -p ${{ secrets.SSH_PORT }}' ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/vhosts/klickmeister.de/httpdocs/www.klickmeister.de/
