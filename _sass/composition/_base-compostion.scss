@@ -36,6 +36,16 @@
   }
 }
 
+/* Tight Grid
+############################################################################ */
+.grid-tight {
+  display: grid;
+
+  @media only screen and (min-width: $vp-small) {
+    grid-template-columns: repeat(auto-fit, minmax(var(--max-col-width-small), 1fr));
+  }
+}
+
 /* Large Grid
 ############################################################################ */
 .grid-large {
