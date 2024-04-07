@@ -5,13 +5,19 @@ settings:
   tagline: Werkzeuge für's Web
 
 content:
+
+  skills:
+    title: Leistungen von A-Z
+    intro: |
+      Hier haben wir die Tätigkeiten, Leistungen, Skills und Technologien gesammelt, die wir anbieten können und wollen. Die Liste ist sicherlich nicht vollständig, gibt aber hoffentlich einen ausreichenden Überblick. 
+
   cookies:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
   
   error-404:
     title: Seite nicht gefunden
-    description: Entschuldigung – die Seite, nach der Du suchst, scheint es nicht zu geben.
+    description: Entschuldigung – die Seite, nach der du suchst, scheint es nicht zu geben.
 
   header:
     logo:
@@ -25,20 +31,20 @@ content:
   products:
     header:
       h1: Das Web ist vielfältig
-      h2: und die Nutzungsmöglichkeiten schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
+      h2: und seine Nutzungsmöglichkeiten sind schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
 
     information-engineering:
       title: Information Engineering
       linktext: Mehr zu Information Engineering
       intro: |
-        "Daten, Daten, Daten und immer an den Nutzer denken." Wie werden aus Deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
+        "Daten, Daten, Daten und immer an den Nutzer denken." Wie werden aus deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
 
     karten-und-visualisierungen:
       title: Interaktive Karten
       linktext: Mehr zu Karten und Visualisierungen
       intro: |
-        "Wo gibt's was? Wo geht was ab? Wo geht's lang?"<br>Deine Antworten kannst Du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder Du schicktst Deine Daten als visuellen Candy mit HighSpeed in den Cortex Deiner User:innen.<br><br>
-        **TLDR;** Interaktive Karten sind saupraktisch, um Deine Daten sichtbar zu machen. Wir helfen Dir dabei.
+        "Wo gibt's was? Wo geht was ab? Wo geht's lang?"<br>Deine Antworten kannst du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder du schicktst deine Daten als visuellen Candy mit HighSpeed in den Cortex deiner User:innen.<br><br>
+        **TLDR;** Interaktive Karten sind saupraktisch, um deine Daten sichtbar zu machen. Wir helfen Dir dabei.
 
     prototypen:
       title: Prototyping
@@ -52,7 +58,7 @@ content:
       title: Web Accessibility
       linktext: Mehr zu Web Accessibility
       intro: |
-        "Menschen mit Einschränkungen sind nicht meine Zielgruppe" … mag sein, aber bestimmt sind sie Teil Deiner Zielgruppe. Bei barrierefreien Webseiten geht es um mehr als nur die Nutzung der Website mit einem Screenreader. Barrierearme Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), egal ob man Einschränkungen beim Sehen, Hören, oder motorischer Natur hat oder nicht: Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierearme Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!
+        "Menschen mit Einschränkungen sind nicht meine Zielgruppe" … mag sein, aber bestimmt sind sie Teil deiner Zielgruppe. Bei barrierefreien Webseiten geht es um mehr als nur die Nutzung der Website mit einem Screenreader. Barrierearme Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), egal ob man Einschränkungen beim Sehen, Hören, oder motorischer Natur hat oder nicht: Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierearme Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!
 
   snapshots:
     header: Momentaufnahme
@@ -119,7 +125,7 @@ content:
       register: Handelsregister
       court: Amtsgericht Essen HRB 14422
       vat: USt-IdNr. DE 210791057
-      disclaimer: Dieses Impressum gilt auch für unsere Auftritte bei Facebook, Youtube und Twitter.
+      disclaimer: Dieses Impressum gilt auch für unsere Auftritte bei Facebook, LinkedIn, Youtube und <del>Twitter</del> äh X.
       agb:
         text-1: Wer Lust auf ein bisschen Kleingedrucktes hat, kann hier unsere
         text-2: finden

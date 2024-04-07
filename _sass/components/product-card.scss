@@ -7,6 +7,18 @@
     padding-top: var(--fluid-space-l);
   }
 
+  &.is-tight {
+    & + & {
+      padding-top: var(--fluid-space-s);
+    }
+
+    max-width: var(--max-width-content-l);
+  }
+
+  h3.is-small {
+    font-size: var(--s);
+  }
+
   &__content {
     figcaption {
       padding-right: var(--fluid-space-l);

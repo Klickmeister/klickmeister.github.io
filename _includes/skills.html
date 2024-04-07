@@ -1,0 +1,19 @@
+{% assign skills = site.skills %}
+
+
+<div class="is-large herotext">
+    <h2>{% t content.skills.title %}</h2>
+
+    <p>{% t content.skills.intro %}</p>
+</div>
+
+<div>
+    <ul>
+    {% for skill in skills %}
+        <li class="product-card is-tight">
+            <h3 id="{{ skill.title | slugify }}" class="is-small">{{ skill.title }}</h3>
+            <div class="product-card__content">{{ skill.content }}</div>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

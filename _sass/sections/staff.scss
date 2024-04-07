@@ -37,4 +37,32 @@
       line-height: var(--lh-default);
     }
   }
+
+  &-item-tight {
+    & > img {
+      margin: 0;
+      aspect-ratio: 5/3.9;
+      object-fit: cover;
+      object-position: top left;
+      transition: filter var(--tr-fast);
+
+      &:hover {
+        filter: grayscale(0%);
+      }
+    }
+
+    h3,
+    h4 {
+      font-size: var(--base-font-size);
+    }
+
+    &__property {
+      color: var(--decoration-color);
+    }
+
+    p {
+      font-size: var(--xs);
+      line-height: var(--lh-default);
+    }
+  }
 }

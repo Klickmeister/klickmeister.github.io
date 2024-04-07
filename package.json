@@ -4,9 +4,11 @@
   "description": "Klickmeister Website",
   "main": "index.js",
   "scripts": {
+    "decap-server": "npx decap-server && echo 'Decap server started http://localhost:8081 – Admin Interface via http://localhost:4000/admin'",
+    "jekyll": "bundle exec jekyll serve -l",
     "lint": "stylelint _sass/**/*.scss",
     "lint:fix": "stylelint _sass/**/*.scss --fix",
-    "dev": "bundle exec jekyll serve -l",
+    "dev": "npm-run-all --parallel jekyll decap-server",
     "js:lint": "eslint scripts/**/*.js",
     "js:lint:fix": "eslint scripts/**/*.js --fix",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,6 +29,8 @@
     "stylelint-config-recommended-scss": "^7.0.0",
     "stylelint-config-standard": "^28.0.0",
     "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.3.0"
+    "stylelint-scss": "^4.3.0",
+    "decap-cms-app": "^3.1.1",
+    "npm-run-all": "^4.1.5"
   }
 }

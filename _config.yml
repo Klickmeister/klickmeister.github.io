@@ -1,7 +1,7 @@
 baseurl: ""
 
 languages: ["de", "en"]
-exclude_from_localizations: ["CNAME", "README.md", "LICENSE", "css", "images", "fonts"]
+exclude_from_localizations: ["CNAME", "README.md", "LICENSE", "css", "images", "fonts","admin"]
 default_locale_in_subfolder: true
 defaultLang: de
 languageNames:
@@ -31,6 +31,8 @@ collections:
   people:
     output: true
   rules-and-habits:
+    output: false
+  skills:
     output: false
   products:
     output: true

@@ -4,7 +4,7 @@
 <h2>{% t content.staff.header %}</h2>
 <div class="staff-overview grid-tight">
     {% for human in staff %}
-    <figure class="staff-item">
+    <figure class="staff-item-tight">
         {% assign image = "/images/people/" | append: human.pic | append: "-s.jpg" %}
         <img loading="lazy" src="{{ image | prepend: site.baseurl_root }}" alt="{{ human.title }}">
     </figure>

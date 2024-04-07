@@ -5,6 +5,12 @@ settings:
   tagline: Tools for the Web
 
 content:
+
+  skills:
+    title: Skills
+    intro: |
+      Here we have listed the activities, services, skills and technologies that we can and want to offer. The list is certainly not exhaustive, but hopefully provides a sufficient overview. 
+
   cookies:
     intro: No cookies here...
     text: ...and no personalized tracking either because privacy is very important to us. Sounds great, doesn't it?
@@ -119,7 +125,7 @@ content:
       register: Commercial Register
       court: District Court Essen HRB 14422
       vat: VAT ID DE 210791057
-      disclaimer: This imprint also applies to our appearances on Facebook, Youtube, and Twitter.
+      disclaimer: This imprint also applies to our appearances on Facebook, LinkedIn, Youtube, and <del>Twitter</del> … uhm X.
       agb:
         text-1: If you're interested in some fine print, you can find our
         text-2: here
