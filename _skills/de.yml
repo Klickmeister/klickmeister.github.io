@@ -1,0 +1,132 @@
+settings:
+  site_title: Klickmeister GmbH // Werkzeuge fürs Web
+  description: |
+    Wir machen Websites. Große Websites. Kleine Websites. Onlineshops. Wir sind Designer. Wir lieben spannende Aufgabenstellungen. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit dem Jahr 2000 Klickmeister.
+  tagline: Werkzeuge für's Web
+
+content:
+
+  skills:
+    title: Leistungen von A-Z
+    intro: |
+      Hier haben wir die Tätigkeiten, Leistungen, Skills und Technologien gesammelt, die Teil unseres Leistungsspektrums sind.
+  cookies:
+    intro: Hier gibt's keine Cookies...
+    text: ...und auch kein personalisiertes Tracking, weil Datenschutz uns sehr wichtig ist. Klingt doch super, oder?
+  
+  error-404:
+    title: Seite nicht gefunden
+    description: Entschuldigung – die Seite, nach der du suchst, scheint es nicht zu geben.
+
+  header:
+    logo:
+      linktext: Zurück zur Startseite
+
+  intro:
+    text-1: |
+      Wir machen Web. Web-basierte Anwendungen: Websites, Prototypen, Visualisierungen, digitale Werkzeuge. Wir lieben spannende Aufgaben. Wir lieben das Web und offene Standards. Wir beraten. Wir leiten Projekte. Wir arbeiten mit unseren Kunden. Wir sind keine Lieferanten. Wir wollen Ziele erreichen, gemeinsam. Unsere Arbeit soll Freude machen. Unseren Kunden und uns. Wir glauben daran, dass ein freundschaftliches Miteinander die Grundlage für Erfolg ist. Wir sind erfahren. Wir sind seit über
+    text-2: Jahren Klickmeister.
+
+  products:
+    header:
+      h1: Das Web ist vielfältig
+      h2: und seine Nutzungsmöglichkeiten sind schier unendlich. Vieles haben wir schon konzipiert, gebaut, genutzt, verworfen, überarbeitet und in Rente geschickt. Zur Zeit interessieren uns vor allem die folgenden Themen.
+
+    information-engineering:
+      title: Information Engineering
+      linktext: Mehr zu Information Engineering
+      intro: |
+        "Daten, Daten, Daten und immer an den Nutzer denken." Wie werden aus deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
+
+    karten-und-visualisierungen:
+      title: Interaktive Karten
+      linktext: Mehr zu Karten und Visualisierungen
+      intro: |
+        "Wo gibt's was? Wo geht was ab? Wo geht's lang?"<br>Deine Antworten kannst du in spaßbefreite Texte packen, in öde Listen oder nerdige Tabellen, gähn... oder du schicktst deine Daten als visuellen Candy mit HighSpeed in den Cortex deiner User:innen.<br><br>
+        **TLDR;** Interaktive Karten sind saupraktisch, um deine Daten sichtbar zu machen. Wir helfen Dir dabei.
+
+    prototypen:
+      title: Prototyping
+      linktext: Mehr zu Prototyping
+      intro: |
+        "Du hast ne geile Idee?" Nicht nur mal eben im Kreativrausch - nein, eine Idee mit **fettem** Potential. Du hast sie nicht für Dich behalten, mit anderen geteilt, tiefer durchdacht, ausarbeiten lassen und gemerkt: **Das ist nicht nur eine geile Idee, sondern eine richtig gute!**<br>
+        "Du hast ein (Produkt)design?" Es liegt vor Dir: hübsch ausgearbeitet, grafisch zweidimensional und papiergeduldig.<br>Du kannst jetzt ne Menge Kohle versenken und jemanden mit der Realisierung beauftragen. Oder wir bauen Dir erstmal einen Prototypen.<br>
+        **TLDR;** Prototypen sind budgetschützende Lifehacks.
+    
+    webaccessibility:
+      title: Web Accessibility
+      linktext: Mehr zu Web Accessibility
+      intro: |
+        "Menschen mit Einschränkungen sind nicht meine Zielgruppe" … mag sein, aber bestimmt sind sie Teil deiner Zielgruppe. Bei barrierefreien Webseiten geht es um mehr als nur die Nutzung der Website mit einem Screenreader. Barrierearme Webinhalte ermöglichen die Teilhabe für jeden. Sie sind [einfach für alle](https://einfach-fuer-alle.de/vorteile-barrierefreie-website/), egal ob man Einschränkungen beim Sehen, Hören, oder motorischer Natur hat oder nicht: Ein hoher Farbkontrast wirkt sich auch positiv beim Web-Surfen in der Sonne aus, da die Inhalte lesbar bleiben; Tastaturbedienbarkeit hilft auch wenn mal der Akku der Magic-Maus leer ist, man sich den Arm gebrochen hat oder schlichtweg PowerUser ist. Und nicht zu vergessen: barrierearme Websites helfen auch der Suchmaschine, denn die Inhalte sind besser zugänglich. Juchuu!
+
+  snapshots:
+    header: Momentaufnahme
+    ss2024-03-01:
+      title: Frühlingserwachen
+
+  staff:
+    header: Leute bei Klickmeister
+    skilltitles:
+      sven: Geschäftsführer
+      christian-noss: Geschäftsführer
+      sina: Senior Projektmanagerin
+      miriam: Buchhaltende Gesellschafterin
+      lisa: Junior Content Managerin
+  
+  culture:
+    header: Kultur?
+    intro: Hier eine kleine Übersicht von Gewohnheiten, Regeln und Empfehlungen, die wir im Arbeitsalltag beherzigen wollen. Es klappt nicht immer, aber oft. Eigentlich richtet das nach innen, aber vielleicht hilft es auch anderen.
+    rules-and-habits:
+      010-vertrauen-reduziert-komplexitaet: Vertrauen reduziert Komplexität
+      020-ehrlichkeit-and-verbindlichkeit: Ehrlichkeit & Verbindlichkeit
+      030-agiles-arbeiten: Agiles Arbeiten
+      040-wertschaetzung: Wertschätzung
+      050-andere-arbeiten-gerne-mit-uns: Andere arbeiten gerne mit uns
+      060-arbeit-macht-arbeit-darum-heisst-sie-ja-so: Arbeit macht Arbeit, darum heißt sie ja so
+      070-arbeiten-im-bestand: Arbeiten im Bestand
+      080-freiraum: Freiraum
+      090-arbeiten-im-flow: Arbeiten im Flow
+      100-in-der-notaufnahme: In der Notaufnahme
+      110-die-kraft-der-sprache: Die Kraft der Sprache
+      120-arbeitszeit-ist-lebenszeit: Arbeitszeit ist Lebenszeit
+      130-besser-werden: Besser werden
+      135-tandem: Tandem – Wissen teilen
+      140-kommunikation: Kommunikation
+      150-meetings: Meetings (keine Dailys)
+      160-dailys: Dailys (keine Meetings)
+  
+  clients:
+    header: Kunden
+    intro: Das Gute ist, wir haben Kunden. Nicht so viele, aber dafür sehr gute. Yeah! Viele sogar schon recht lang. Und darauf sind wir auch ein bisschen stolz. Wir mögen freundschaftliche Verbundenheit zu unseren Kunden. Und wir glauben die Kunden mögen das auch.
+  
+  imprint:
+    header: Kontakt & Impressum
+    address-essen:
+      text:
+        name: Klickmeister GmbH
+        street: Kersebaumstraße 74
+        city: 45136 Essen
+      linktext: maps.google.com/klickmeister
+    address-cologne:
+      text:
+        name: Büro Köln
+        street: Hospeltstraße 32
+        city: 50825 Köln
+      linktext: maps.google.com/klickmeister-köln
+    office-hours: Bürozeiten von 9.30 - 17.00 Uhr
+    contact:
+      phone: fon 0201 . 269 73 87
+      fax: fax 0201 . 269 71 06
+    legal:
+      skilltitle: Geschäftsführer
+      christian: Prof. Dipl. Des. Christian Noss
+      sven: Dipl. Des. Sven Schäfermeier
+      register: Handelsregister
+      court: Amtsgericht Essen HRB 14422
+      vat: USt-IdNr. DE 210791057
+      disclaimer: Dieses Impressum gilt auch für unsere Auftritte bei Facebook, LinkedIn, Youtube und <del>Twitter</del> äh X.
+      agb:
+        text-1: Wer Lust auf ein bisschen Kleingedrucktes hat, kann hier unsere
+        text-2: finden
+        linktext: Allgemeine Geschäftsbedingungen
+  
