@@ -1,7 +1,7 @@
 ---
-title: Finn Nils Gedrath
+title: Finn Maybauer
 name:
-skilltitle: Web Developer / Interaction Designer
+skilltitle: UX Engineer / Accessability Advocate
 grad: B.Sc. Medieninformatik
 pic: finn
 status: active
