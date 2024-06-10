@@ -57,3 +57,4 @@ exclude:
   - package-lock.json
   - raw-images
   - vendor/
+  - node_modules/
