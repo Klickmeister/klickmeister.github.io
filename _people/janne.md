@@ -4,7 +4,7 @@ name:
 skilltitle: Gapyear Manager
 grad: 
 pic: janne
-status: active
+status: inactive
 ---
 
 {% tf _people/janne.md %}
