@@ -39,6 +39,12 @@ content:
       intro: |
         "Data, data, data, and always think about the user." How do you turn your data into information? What data do I have, and how do I structure it best? How do I connect my data sources? How do I provide my data? We help and advise you on the conception and development of data visualizations and modeling or data provision.
 
+    dev-ops:
+      title: DevOps
+      linktext: More about DevOps
+      intro: |
+        "Where is the whole thing supposed to go? And how do we get it there? A virtual host, our own server or Kubernetes?" These are questions that every project has to ask itself. We help you find a solution and implement it directly. No matter whether you want to launch a single site or host a complex system in the cloud.
+
     karten-und-visualisierungen:
       title: Interactive Maps
       linktext: More about Maps and Visualizations
