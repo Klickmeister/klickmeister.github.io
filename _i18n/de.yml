@@ -39,6 +39,12 @@ content:
       intro: |
         "Daten, Daten, Daten und immer an den Nutzer denken." Wie werden aus deinen Daten Informationen? Welche Daten habe ich überhaupt? Wie strukturiere ich meine Daten am besten? Wie binde ich meine Datenquellen an? Wie stelle ich meine Daten bereit? Wir helfen und beraten Dich bei der Konzeption und Entwicklung von Datenvisualisierungen und -modellierung oder Bereitstellung von Daten. 
 
+    dev-ops:
+      title: DevOps
+      linktext: Mehr zu DevOps
+      intro: |
+        "Wo soll das ganze denn überhaupt laufen? Und wir bekommen wir es da hin? Virtueller Hoster, eigener Server oder doch Kubernetes?" Das sind Fragen, die sich jedes Projekt stellen muss. Wir helfen bei der Lösung und setzen das ganze auch direkt um. Ganz egal, ob du eine einzelne Seite an den Start bringen oder ein komplexes System in der Cloud hosten willst.
+
     karten-und-visualisierungen:
       title: Interaktive Karten
       linktext: Mehr zu Karten und Visualisierungen
