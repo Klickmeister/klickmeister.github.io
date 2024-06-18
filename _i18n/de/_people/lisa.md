@@ -1,1 +1,3 @@
-Ist vor 10 Jahren nach Köln gezogen und kommt seitdem nicht mehr hier weg. Hat nach einer längeren Odyssee in der Pflege dann doch noch mal komplett umgesattelt und studiert jetzt Medieninformatik an der TH Köln. Trifft man außerhalb der Büro- & Unizeiten meist draußen mit Freunden an, sagt aber auch zu einer guten Gaming-Session nicht nein. Entwickelt und pflegt bei uns Content und im Krankenhaus Patienten. Abgefahrene Kombi!
+Code and Care Enthusiastin
+
+Vor 10 Jahren nach Köln gezogen und seitdem nicht mehr weggekommen. Hat nach einer langen Odyssee in der Pflege umgesattelt und studiert nun Medieninformatik an der TH Köln. Trifft man außerhalb der Büro- und Unizeiten meist draußen mit Freunden an, sagt aber auch zu einer guten Gaming-Session nicht nein. Entwickelt bei uns innovative Lösungen, pflegt Content und im Krankenhaus Patienten. Abgefahrene Kombi!

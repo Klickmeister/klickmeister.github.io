@@ -1,1 +1,3 @@
-Moved to Cologne 10 years ago and hasn't left since. After a long odyssey in nursing, she completely changed course and is now studying media informatics at TH Köln. Outside of office and university hours, you'll often find her outdoors with friends, but she also doesn't say no to a good gaming session. She develops and maintains content for us and takes care of patients in the hospital. Quite a unique combination!
+Code and Care Enthusiast
+
+Moved to Cologne 10 years ago and hasn't left since. After a long journey in the healthcare sector, I made a complete career switch and am now studying Media Informatics at TH Cologne. Outside of office and university hours, you can usually find me hanging out with friends or enjoying a good gaming session. At our company, I develop innovative solutions, manage content, and take care of patients in the hospital. Quite the unique combination!
