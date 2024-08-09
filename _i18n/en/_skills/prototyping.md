@@ -1,0 +1,1 @@
+Creation of wireframes, prototypes, and [Lo-Fi Websites and WebApps](#lo-fi-web). Our tool of choice is often [Figma](https://www.figma.com/de/), for which we also offer training and coaching focused on improving individual skills or optimizing processes. Need support with visualizing ideas and concepts? We're here to help.

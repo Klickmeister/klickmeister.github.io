@@ -1,0 +1,1 @@
+As web applications grow and different systems need to communicate, distributed architectures become necessary. We assist with planning, implementation, and operation. Keywords: RESTful Web Services, Distributed Application Logic, Microservices, GraphQL, Publish-Subscribe

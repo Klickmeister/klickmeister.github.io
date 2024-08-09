@@ -1,0 +1,1 @@
+We have always specialized in server-side image processing. For the organization and collaboration processes related to image content, we developed our own tool, Bildmeister. If you or your team need support with image processing, feel free to contact us. Keywords: ImageMagick, ITPC, libvips, Ghostscript.

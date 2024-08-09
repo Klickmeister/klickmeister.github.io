@@ -14,7 +14,7 @@ content:
     intro: Hier gibt's keine Cookies...
     text: ...und auch kein personalisiertes Tracking.
   
-  error-404
+  error-404:
     title: Seite nicht gefunden
     description: Entschuldigung – die Seite, nach der du suchst, scheint es nicht zu geben.
 
