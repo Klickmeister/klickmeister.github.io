@@ -1,0 +1,1 @@
+Whether for caching, high-performance applications, or archiving, data needs to be stored somewhere. We assist with conception and integration. Keywords: Elasticsearch, MongoDB, MySQL, Postgres, Redis.

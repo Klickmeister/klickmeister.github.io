@@ -1,0 +1,1 @@
+Software, including web-based applications, can quickly become complex and expensive. However, it's often possible to build surprisingly effective applications with very simple tools. These may not be built to last forever, but they help kickstart a new idea or business. They assist in testing and better understanding a concept.
